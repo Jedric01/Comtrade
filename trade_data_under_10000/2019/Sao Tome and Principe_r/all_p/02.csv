@@ -1,0 +1,454 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,4800,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,01,Animals; live,,,,,,,0,,4800,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,247214,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,76100,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,140641,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,30473,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,21076,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,21076,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,215385,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,9422,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1936,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,19384,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,586,Pakistan,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,761,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,183883,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,9,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,9,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,220751,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,183,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,22735,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,124,Canada,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,18074,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,29566,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1453,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,6628,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,26052,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,116061,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,34371,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3298,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,269,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,604,Peru,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5109,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,25554,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,141,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,12816,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,6818,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,445,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5554,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,428422,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,10,Cereals,,,,,,,0,,300718,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,10,Cereals,,,,,,,0,,142,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,10,Cereals,,,,,,,0,,203,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,10,Cereals,,,,,,,0,,100311,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,0,,27047,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,117265,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,231,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,117034,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,8665,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,166,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,5211,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3289,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,9936,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,9936,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,147720,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1037,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,268,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,95021,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,51395,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,140027,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,30375,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1233,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,108418,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,167822,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1274,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,504,Morocco,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,11803,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,52548,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,83769,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,699,India,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,18427,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8949,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2705,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6244,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,232593,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,27268,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5337,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,95227,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,44157,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9762,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,50842,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,145266,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13825,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2747,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,128694,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,47780,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,137,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,767,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2871,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,44004,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,708683,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2063,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,699894,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6726,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,130133,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,974,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,129159,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,70217,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,70217,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,349165,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,191072,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,13052,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,104,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,144937,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2806243,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2774512,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,16805,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,9172,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,5753,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,13017,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,105,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,12911,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1152,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,29,Organic chemicals,,,,,,,0,,1152,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,40063,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,713,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,132,Cabo Verde,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5277,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,410,Rep. of Korea,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1408,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,26574,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2523,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3568,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4436,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,31,Fertilizers,,,,,,,0,,511,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,31,Fertilizers,,,,,,,0,,3925,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,14210,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,502,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,84,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,13624,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,43560,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,162,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,573,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1415,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,39690,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1334,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,387,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,234415,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,52,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,38064,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,859,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,179754,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,702,Singapore,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,15093,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,593,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4593,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,345,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3039,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1209,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,255,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,255,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,24826,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,425,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,19819,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,384,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,228,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2501,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1232,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,236,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,177965,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,454,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,14698,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,272,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,14,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,151157,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1171,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2759,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,555,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6885,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,76084,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,346,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,202,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7650,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,98,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,410,Rep. of Korea,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1354,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,253,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,38529,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,18561,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7070,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2022,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2682,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,58,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,41,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,34,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2548,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,54847,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,12341,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,50,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,42456,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,34,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,34,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,9,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,9,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,127791,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,280,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,542,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,107324,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,710,South Africa,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,19464,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,182,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,14467,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,289,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,529,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1313,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,12337,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,50,Silk,,,,,,,0,,4,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1645,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,52,Cotton,,,,,,,0,,91,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,52,Cotton,,,,,,,0,,4,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,52,Cotton,,,,,,,0,,125,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,52,Cotton,,,,,,,0,,1247,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,52,Cotton,,,,,,,0,,177,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,537,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,537,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,5,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,54,Man-made filaments,,,,,,,0,,5,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,80,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,80,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,10547,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,339,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,771,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6223,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3214,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1577,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,39,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1539,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1096,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,251,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,85,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,271,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,489,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,12144,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2069,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,34,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4257,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,5784,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10558,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,457,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9003,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1099,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4713,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2671,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2043,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,200238,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6707,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,24583,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,176,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,594,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,57620,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,392,Japan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,325,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,586,Pakistan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,213,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,110021,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,17857,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1268,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3369,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,631,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7518,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5071,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2617,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,137,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2041,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,439,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1793,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,665,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1128,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1715,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,711,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,337,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,46,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,622,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14632,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,268,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,30,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14334,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,60825,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,69,Ceramic products,,,,,,,0,,77,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,2190,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,69,Ceramic products,,,,,,,0,,126,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,69,Ceramic products,,,,,,,0,,57961,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,0,,471,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,25801,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,70,Glass and glassware,,,,,,,0,,377,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,70,Glass and glassware,,,,,,,0,,90,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,14369,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,0,,62,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,70,Glass and glassware,,,,,,,0,,9337,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,1568,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3610,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,72,Iron and steel,,,,,,,0,,3610,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,347622,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,73,Iron or steel articles,,,,,,,0,,611,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,78609,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,0,,75,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,392,Japan,,,,,,,,,73,Iron or steel articles,,,,,,,0,,101,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,410,Rep. of Korea,,,,,,,,,73,Iron or steel articles,,,,,,,0,,159,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,446,"China, Macao SAR",,,,,,,,,73,Iron or steel articles,,,,,,,0,,11811,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,17712,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,73,Iron or steel articles,,,,,,,0,,71227,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,686,Senegal,,,,,,,,,73,Iron or steel articles,,,,,,,0,,166712,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,240,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,364,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1997,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,228,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1769,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,21758,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2224,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,88,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,392,Japan,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,605,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,17646,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1196,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,57504,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,54298,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3206,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,23033,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,233,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1772,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,362,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,17638,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3028,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,31357,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10715,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,7929,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8951,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3013,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,750,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,753062,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4155,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,177041,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7723,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,12331,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2169,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,446,"China, Macao SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,29271,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,28523,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,412106,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,686,Senegal,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,17994,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,564,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,61185,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,669982,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7505,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,103964,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,74,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,69,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,67,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3184,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,31695,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,259376,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,686,Senegal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,205382,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,23378,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,35289,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,4447,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,4447,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,543766,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2009,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,31581,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,177982,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,10030,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,32586,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9832,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,348,Hungary,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,15719,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9524,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,12579,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9442,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,186594,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,27720,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1708,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16462,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,12516,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,12516,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,194462,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,41701,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,152760,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,55077,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1883,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,5,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,410,Rep. of Korea,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,814,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,42047,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,176,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,9318,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,834,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,632,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,632,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3196,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3196,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,66586,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,222,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,6735,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,109,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,14,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,392,Japan,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,123,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,410,Rep. of Korea,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,191,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,56875,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1960,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,358,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1688,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,100,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,356,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1231,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,12689,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,129,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1705,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,263,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8589,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1951,,,0
+HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,52,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,114,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,01,Animals; live,,,,,,,0,,114,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,110,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,110,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,33720,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3509,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,14389,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,15822,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,132406,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,132406,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3598,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3598,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,672,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,672,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,66083,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,66083,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,67,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,67,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1008,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1008,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,11,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,11,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,90,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,90,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,34,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,34,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,56,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,56,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,11,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,11,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,448,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,448,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1103,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,560,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,543,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,179,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,179,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,45,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,70,Glass and glassware,,,,,,,0,,45,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,137,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,72,Iron and steel,,,,,,,0,,137,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1899,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,73,Iron or steel articles,,,,,,,0,,1899,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,90,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,90,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,32608,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,32608,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,860,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,860,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,162,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,162,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,269,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,34,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,235,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,224,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,224,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,101,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,101,,,0

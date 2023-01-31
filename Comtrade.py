@@ -17,12 +17,16 @@ class Comtrade:
     reportingAreas = {}
 
     def __init__(self) -> None:
-        self.getReportingAreas()
-        self.getPartnerAreas()
+        # self.getReportingAreas()
+        # self.getPartnerAreas()
         pass
 
-    def getRequest(self, parameters):
-        return self.__get(self.apiRequest, parameters)
+    def get_reporting_totalRecords(self, parameters):
+        response = self.__get(self.apiRequest, parameters)
+        rText = response.text.encode().decode("utf-8-sig")
+        r_list = json.loads(rText)
+        # sorted_r_list = sorted(r_list, key=lambda d: d['TotalRecords'])
+        return r_list
         
     def getResponse(self, parameters):
         return self.__get(self.apiResponse, parameters)
@@ -53,6 +57,7 @@ class Comtrade:
         response = requests.get(api, params=parameters)
         print("Response with status:", response.status_code)
         print(response.text)
+        
 
         return response
 

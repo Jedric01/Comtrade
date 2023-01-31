@@ -1,0 +1,483 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1817,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,01,Animals; live,,,,,,,0,,1579,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,01,Animals; live,,,,,,,0,,239,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,120320,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,86,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,591,Panama,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,28068,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,35,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,91710,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,421,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,13535,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,13535,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,40960,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1446,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,388,Jamaica,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,13507,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,737,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,461,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,24664,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,146,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,252,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,252,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,48844,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,177,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,212,Dominica,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4704,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,183,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,42802,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,978,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,20006,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,212,Dominica,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,356,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,74,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,770,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,18805,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5209,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,212,Dominica,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,170,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,579,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,448,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4011,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,15139,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,10,Cereals,,,,,,,0,,109,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,10,Cereals,,,,,,,0,,1501,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,13529,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6035,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,49,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,123,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5863,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1160,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1039,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,120,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,17,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,17,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,21027,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,28,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,504,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20495,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,22117,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,212,Dominica,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,276,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,659,Saint Kitts and Nevis,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,9143,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,982,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,11716,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,5856,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,71,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1722,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4064,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4668,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,388,Jamaica,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,390,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1421,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1892,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,965,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,41038,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,881,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9560,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,30405,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,192,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,47703,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5069,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1447,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5657,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,35531,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,82147,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2406,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,193,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,604,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,212,Dominica,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,645,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,374,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,16928,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,659,Saint Kitts and Nevis,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1666,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,670,Saint Vincent and the Grenadines,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1117,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,11266,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,11654,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,33447,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1848,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,204138,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,813,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,208,Denmark,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,27747,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1639,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,372,Ireland,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,23374,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,388,Jamaica,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,38452,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,38178,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1113,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,659,Saint Kitts and Nevis,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,18083,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,670,Saint Vincent and the Grenadines,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,878,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,12744,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9977,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,31139,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,20566,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,23,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,27,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,670,Saint Vincent and the Grenadines,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,10786,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,9332,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,398,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,397,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,299,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,41,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,58,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,24437,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,133,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,12,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,24292,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,547589,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,209,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,24472,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,12,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,522837,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,59,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1122,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1002,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,120,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,636,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,29,Organic chemicals,,,,,,,0,,211,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,29,Organic chemicals,,,,,,,0,,43,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,29,Organic chemicals,,,,,,,0,,263,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,29,Organic chemicals,,,,,,,0,,118,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,32245,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7259,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2862,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,97,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4410,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1349,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,16268,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,512,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,31,Fertilizers,,,,,,,0,,66,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,31,Fertilizers,,,,,,,0,,446,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,41784,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,217,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,36,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,100,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,497,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,40346,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,588,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,19928,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,108,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,619,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,794,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,308,Grenada,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2753,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,388,Jamaica,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,174,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,179,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,804,Ukraine,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,57,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,327,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,14836,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,81,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,39912,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,16,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,55,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,659,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1793,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,37389,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3760,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,87,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,38,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3636,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,143,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,143,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1752,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1752,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,36648,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,167,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,382,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,16,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4443,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1260,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,30379,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,118154,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1991,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,315,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,125,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,21,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,330,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2838,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,591,Panama,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1224,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,659,Saint Kitts and Nevis,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2239,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,670,Saint Vincent and the Grenadines,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,36132,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3965,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,804,Ukraine,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,50,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,12584,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,55919,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,422,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,56168,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,208,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,13,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,212,Dominica,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2091,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,266,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,57,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,635,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,581,United States Minor Outlying Islands,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1412,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,3781,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,47704,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,129,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,129,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6524,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,155,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,88,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,745,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,227,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,520,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4789,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,10,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,10,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,130484,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1825,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,281,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1222,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,126961,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,194,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,541,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,123,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,45,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,372,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,37271,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,868,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,146,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1887,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,659,Saint Kitts and Nevis,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,4923,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2110,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,26988,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,325,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,19224,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,365,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,212,Dominica,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1107,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,422,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3105,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,10545,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3680,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,585,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,52,Cotton,,,,,,,0,,214,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,52,Cotton,,,,,,,0,,116,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,52,Cotton,,,,,,,0,,255,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,13,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,54,Man-made filaments,,,,,,,0,,13,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1553,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1553,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2856,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,73,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,44,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2739,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,8451,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2620,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,253,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5579,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,839,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,467,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,372,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,98,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,98,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,417,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,133,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,284,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7173,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,904,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,471,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1088,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,479,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,4232,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,55124,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,438,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,72,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,382,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,212,Dominica,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,158,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,6080,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,662,Saint Lucia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,273,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,670,Saint Vincent and the Grenadines,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,64,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,7507,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,804,Ukraine,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,38,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,18741,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,20846,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,527,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,22695,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,147,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4195,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,591,Panama,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4537,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,400,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,804,Ukraine,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,43,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1752,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,11622,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,24423,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,87,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,350,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,13749,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,10237,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2260,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2260,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1669,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,41,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1628,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,536,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,64,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,27,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,74,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,371,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,27731,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,52,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,478,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1038,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,26163,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,28865,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,69,Ceramic products,,,,,,,0,,215,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,69,Ceramic products,,,,,,,0,,2371,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,69,Ceramic products,,,,,,,0,,26279,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4174,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,70,Glass and glassware,,,,,,,0,,271,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,70,Glass and glassware,,,,,,,0,,9,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,70,Glass and glassware,,,,,,,0,,102,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,70,Glass and glassware,,,,,,,0,,163,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,70,Glass and glassware,,,,,,,0,,3629,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,717,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,804,Ukraine,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,6,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,455,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,255,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,49691,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,72,Iron and steel,,,,,,,0,,213,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,214,Dominican Rep.,,,,,,,,,72,Iron and steel,,,,,,,0,,20466,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,670,Saint Vincent and the Grenadines,,,,,,,,,72,Iron and steel,,,,,,,0,,15801,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,72,Iron and steel,,,,,,,0,,13211,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,64145,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,73,Iron or steel articles,,,,,,,0,,49,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,73,Iron or steel articles,,,,,,,0,,32,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,73,Iron or steel articles,,,,,,,0,,11,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,214,Dominican Rep.,,,,,,,,,73,Iron or steel articles,,,,,,,0,,3504,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,0,,81,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,73,Iron or steel articles,,,,,,,0,,310,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,670,Saint Vincent and the Grenadines,,,,,,,,,73,Iron or steel articles,,,,,,,0,,710,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2246,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,57202,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,14097,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,34,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,10,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,14053,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,43,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,43,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,132306,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6296,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,52,Barbados,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6594,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,544,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,781,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2076,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,115994,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,20,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,16,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,16,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,20729,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,64,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,76,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,62,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,106,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,591,Panama,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2521,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,28,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1479,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,16392,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,12919,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,212,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,4,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,392,Japan,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,125,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,426,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,12152,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,242979,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3472,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,423,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,965,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,212,Dominica,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,882,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1465,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,27618,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,694,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,581,United States Minor Outlying Islands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1092,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7724,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,198462,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,181,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,457616,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,11347,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5911,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1512,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,163,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3357,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,662,Saint Lucia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1618,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,670,Saint Vincent and the Grenadines,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,41,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,804,Ukraine,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,264,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,244776,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,187807,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,820,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2142,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2142,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,166954,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1283,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,906,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,118,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,95493,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1919,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,660,Anguilla,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,14531,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,804,Ukraine,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,333,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16296,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,33883,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2192,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2742,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,112,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2630,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,42862,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,29,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,791,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,602,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,804,Ukraine,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,23,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,156,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,41169,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,91,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1689,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,59,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,65,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1385,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,180,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1181,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,67,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1114,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,94374,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,563,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,353,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,134,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5031,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5594,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,82699,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,21311,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,26,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,10,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,251,France,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,40,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,426,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,742,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,804,Ukraine,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,31,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,372,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,19568,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,899,"Areas, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,96,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,6702,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,32,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,147,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,780,Trinidad and Tobago,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1121,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,610,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4792,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2494,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,124,Canada,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,24,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,842,United States of America,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2470,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,848,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,531,Curaçao,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,60,,,0
+HS,2018,201811,November 2018,2,0,1,Imports,500,Montserrat,,826,United Kingdom,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,788,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1165,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1165,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,293998,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20000,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,92,Br. Virgin Isds,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,38644,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,168891,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,581,United States Minor Outlying Islands,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,22188,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,660,Anguilla,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,44275,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,32130,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,32130,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,74,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,29,Organic chemicals,,,,,,,0,,74,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,864,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,73,Iron or steel articles,,,,,,,0,,864,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2717,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,212,Dominica,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2717,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7645,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,28,Antigua and Barbuda,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,148,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,50,,,0
+HS,2018,201811,November 2018,2,0,2,Exports,500,Montserrat,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7446,,,0
+HS,2018,201811,November 2018,2,0,3,Re-exports,500,Montserrat,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2717,,,0
+HS,2018,201811,November 2018,2,0,3,Re-exports,500,Montserrat,,212,Dominica,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2717,,,0
+HS,2018,201811,November 2018,2,0,3,Re-exports,500,Montserrat,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,50,,,0
+HS,2018,201811,November 2018,2,0,3,Re-exports,500,Montserrat,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,50,,,0

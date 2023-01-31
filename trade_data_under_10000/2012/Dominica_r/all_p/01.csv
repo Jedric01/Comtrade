@@ -1,0 +1,966 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,384722,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,100,Bulgaria,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,93,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,34313,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,36,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,15440,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,47151,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,127280,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,68695,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,6616,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,20509,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,64543,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,41,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,298986,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,76,Brazil,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,82590,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,40876,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,163,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,134,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,8385,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,8337,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,158324,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,178,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,27250,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,2216,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,340,Honduras,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,608,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,304,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,748,Swaziland,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,7527,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,7225,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,5257,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,56,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,4057,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,136012,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,16,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,170,Colombia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,134201,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,259,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,1536,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,1,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,186138,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,114291,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,328,Guyana,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,50112,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,899,"Areas, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,21735,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,332095,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,571,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,190,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,2070,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,320,Guatemala,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,901,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,484,Mexico,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,26627,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,3769,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1402,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,699,India,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,20315,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,97911,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,94,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,177681,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,565,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,939253,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,52,Barbados,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,124004,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,328,Guyana,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,159126,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,388,Jamaica,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,114740,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,740,Suriname,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,4997,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,534828,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1559,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,9939,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,78,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,954,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,69,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,11,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,8660,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,167,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,2181,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,500,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,1681,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,128,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,128,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,387,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,259,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,128,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,5570,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,55,Man-made staple fibres,,,,,,,,,5544,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,55,Man-made staple fibres,,,,,,,,,26,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,1785,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,55,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,159,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,1570,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,35,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,35,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,16,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,16,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1699,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,73,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,144,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,19,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1463,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,5659,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,170,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,74,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,1228,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,3636,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,65,Headgear and parts thereof,,,,,,,,,550,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,120,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,251,France,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,72,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,48,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,120,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,72,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,48,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,1402,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,781,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,15,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,411,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,92,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,103,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,7,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,7,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4635,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,16,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,292,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,193,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,140,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3995,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,925,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,254,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,292,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,379,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,925,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,251,France,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,254,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,292,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,842,United States of America,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,379,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1975,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,852,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,148,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,938,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,10557,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,01,Animals; live,,,,,,,,,9476,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,01,Animals; live,,,,,,,,,1081,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,59754,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,50009,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,1668,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,690,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,1655,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,5732,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,1233,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,1233,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,264377,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,32,Argentina,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,22701,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,4642,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,568,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,46,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,308,Grenada,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,111206,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,670,Saint Vincent and the Grenadines,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,117496,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,7699,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,19,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,3334,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,3334,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,112207,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,29796,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,76,Brazil,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,11585,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,1485,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,377,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,13183,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,14112,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,1565,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,21172,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,18921,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,11,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,552255,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,52,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,26956,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,260,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,214,Dominican Rep.,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,3208,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,8007,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,381,Italy,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,983,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,46033,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,49,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,10655,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,56933,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,63376,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,203662,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,60854,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,47166,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,24062,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,21332,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,56,Belgium,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,62,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,14710,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,660,Anguilla,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,3069,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,3492,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,139115,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,59,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,308,Grenada,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,31476,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,73424,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,670,Saint Vincent and the Grenadines,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,24153,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,233,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,9732,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,470,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,342,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,899,"Areas, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,129,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,250497,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,87,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,246,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,800,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,170,Colombia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,116058,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,1541,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,2367,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,87,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,704,Viet Nam,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,3827,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,26006,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,137,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,98483,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,112664,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,17382,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,1192,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,7264,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,42682,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,44004,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,139,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,117055,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,18305,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,75850,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,364,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,3612,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,10717,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,899,"Areas, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,8207,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,23848,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,214,Dominican Rep.,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,2368,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,135,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,8270,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,2905,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,10170,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,56,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,56,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,213374,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,422,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,3096,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,100,Bulgaria,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,48,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,6788,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,7133,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,1382,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,960,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,918,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,722,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,670,Saint Vincent and the Grenadines,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,61481,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,8218,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,119006,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,3162,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2557576,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,221605,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,214,Dominican Rep.,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,38250,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,392,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,10249,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,19,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,3963,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2103913,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,140132,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,862,Venezuela,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,29830,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,9222,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,297861,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,30,Pharmaceutical products,,,,,,,,,39460,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1705,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,,,970,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,30,Pharmaceutical products,,,,,,,,,5361,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,563,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,,,14259,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1690,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,,,13942,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,,,219911,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,36625,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,214,Dominican Rep.,,,,,,,,,31,Fertilizers,,,,,,,,,35422,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,31,Fertilizers,,,,,,,,,741,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,31,Fertilizers,,,,,,,,,462,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,115775,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,13988,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,11216,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,98,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,93,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,3097,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,391,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,86893,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,7321,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,7071,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,899,"Areas, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,250,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,124646,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,121230,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,899,"Areas, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,3416,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,186459,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,954,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,81,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,27,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,457,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,74591,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,2424,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,219,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,6215,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,410,Rep. of Korea,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,56,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,458,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,764,Thailand,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,50,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,1000,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,2261,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,97577,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,,,88,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,92,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,92,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,92,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,92,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,345,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,566,Nigeria,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,217,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,117,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,11,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,284200,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,863,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,803,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,3175,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,3758,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,865,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,2572,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,533,Aruba,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,222,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,3159,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,485,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,346,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,264490,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,3460,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1209,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,741,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,184,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,78,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,616,Poland,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,206,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1003,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,741,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,184,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,78,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,122229,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,254,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,111,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,4245,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,745,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,41098,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,72,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,566,Nigeria,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,127,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,9,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,19,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,73561,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,858,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,8999,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,52,Barbados,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,701,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,328,Guyana,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,4431,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,740,Suriname,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,3862,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,14465,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,52,Barbados,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,701,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,5467,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,328,Guyana,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,4431,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,740,Suriname,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,3862,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,415258,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,185,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,23143,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,214,Dominican Rep.,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,24407,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,301,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,93,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,28624,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,190,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,327305,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,11011,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,2096,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,54,Man-made filaments,,,,,,,,,2096,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,22564,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,70,Glass and glassware,,,,,,,,,18,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,70,Glass and glassware,,,,,,,,,823,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,,,328,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,,,1306,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,70,Glass and glassware,,,,,,,,,2924,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,70,Glass and glassware,,,,,,,,,65,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,,,1825,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,70,Glass and glassware,,,,,,,,,282,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,70,Glass and glassware,,,,,,,,,14917,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,70,Glass and glassware,,,,,,,,,76,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,4154,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,70,Glass and glassware,,,,,,,,,4154,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,23773,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,185,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,530,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,16,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,344,"China, Hong Kong SAR",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,4045,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,465,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,29,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,18338,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,164,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,334,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,110,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,223,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,334,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,251,France,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,110,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,223,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,322846,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,72,Iron and steel,,,,,,,,,3602,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,72,Iron and steel,,,,,,,,,86,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,214,Dominican Rep.,,,,,,,,,72,Iron and steel,,,,,,,,,129525,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,72,Iron and steel,,,,,,,,,493,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,308,Grenada,,,,,,,,,72,Iron and steel,,,,,,,,,49144,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,381,Italy,,,,,,,,,72,Iron and steel,,,,,,,,,11522,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,72,Iron and steel,,,,,,,,,128473,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,17894,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,16,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,87,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,960,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,74,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,632,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,74,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,886,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,46,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,4614,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,10457,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,48,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,138,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,757,Switzerland,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,56,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,78,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,125,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,757,Switzerland,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,56,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,65,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,80865,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,12,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,1800,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,1003,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,3680,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,218,Ecuador,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,633,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,228,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,340,Honduras,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,13347,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,616,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,33,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,752,Sweden,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,53,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,1071,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,3228,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,52766,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,2395,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1387046,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,5413,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,4686,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1892,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,5127,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,22344,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,10576,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,10409,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3842,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,5108,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,384,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,22458,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,243,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,458,Malaysia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,13671,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,484,Mexico,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6812,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2072,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2645,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2693,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,525,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,14901,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,319,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,752,Sweden,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2533,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6363,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,4108,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,1987,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,175,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,175,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,175,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,175,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,125124,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,333,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,71,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,5394,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,12,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,218,Ecuador,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,745,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,343,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,0,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,543,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,242,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,670,Saint Vincent and the Grenadines,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,66359,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,154,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,2139,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,5426,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,42099,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,1262,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,4834,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,741,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,1111,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,2982,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,828910,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,36,Australia,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,75885,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,132478,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,61861,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,1007,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,109,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,33423,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,523667,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,02,Meat and edible meat offal,,,,,,,,,480,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,38742,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,48,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,4051,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,5482,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,29143,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,19,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,187796,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,89465,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,35844,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,528,Netherlands,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,452,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,29264,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,826,United Kingdom,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,5902,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,101,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,899,"Areas, nes",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,26768,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,19883,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,130,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,11199,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,8554,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,18914,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,6489,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,9613,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1733,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,36,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,899,"Areas, nes",,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1043,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,6416,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,191,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,2710,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,64,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,3330,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,122,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,235102,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,242,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,1133,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,170,Colombia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,9820,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,2026,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,10558,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,127317,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,3908,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,79872,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,228,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,4591,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,492,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,4099,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,5181,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,804,Ukraine,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3890,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,158671,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1054735,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,15443,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,10268,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1481,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,72,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,278,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,8437,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,9157,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,370,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,72,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,278,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,8437,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,1191,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,103,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,1088,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,173736,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,174,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,24,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,554,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,5540,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,2337,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,360,Indonesia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,6084,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,28352,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,1315,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,740,Suriname,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,946,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,29983,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,694,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,4558,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,92461,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,715,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,37735,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,37735,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,37735,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,37735,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,14,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,14,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,34,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,14,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,20,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,114,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,114,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,2350,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,270,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,2080,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,714,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,522,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,174,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,899,"Areas, nes",,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,18,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,177109,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,2357,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,7034,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,510,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,125,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,22822,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,58260,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,4813,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,81167,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,21,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,8446,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,296,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,8056,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,899,"Areas, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,94,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,350,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,1630,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,1630,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,1630,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,1630,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,31858,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,29,Organic chemicals,,,,,,,,,3035,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,29,Organic chemicals,,,,,,,,,342,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,29,Organic chemicals,,,,,,,,,24134,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,29,Organic chemicals,,,,,,,,,4346,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,31125,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,83,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,30752,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,290,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,156,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,156,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,298,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,298,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,17897,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,33,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,548,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,15,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,3719,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,20,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,119,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,566,Nigeria,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,153,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,550,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,140,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,12567,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,32,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,883,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,264,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,393,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,227,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,883,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,264,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,393,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,227,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,52,Cotton,,,,,,,,,2497,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,784,United Arab Emirates,,,,,,,,,52,Cotton,,,,,,,,,192,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,52,Cotton,,,,,,,,,2305,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,40,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,10,Cereals,,,,,,,,,96474,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,10,Cereals,,,,,,,,,13695,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,10,Cereals,,,,,,,,,93,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,328,Guyana,,,,,,,,,10,Cereals,,,,,,,,,46553,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,10,Cereals,,,,,,,,,25936,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,,,9183,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,10,Cereals,,,,,,,,,1013,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,124324,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,170,Colombia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,48319,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,73,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,14376,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,111,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,22499,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,37944,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,1003,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,163614,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,106,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,8,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,227,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,12066,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,699,India,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,1106,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,18154,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,13178,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,118567,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,202,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,5398,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,5398,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,5435,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,5398,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,439050,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,229,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,20156,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,17006,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,16988,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,18,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,60,Bermuda,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,7985,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1514,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,370,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,83218,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,188,Costa Rica,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,17967,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,214,Dominican Rep.,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,34551,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,218,Ecuador,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1376,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1673,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,11016,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,5662,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,4959,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,80,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,248,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,547,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,16883,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,35959,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,31873,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,161523,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1262,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,28,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,28,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,44,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,28,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,16,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,391072,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,3926,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,4215,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,4568,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,2028,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,170,Colombia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,81094,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,214,Dominican Rep.,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,3543,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,1362,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,1464,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,250,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,533,Aruba,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,25131,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,670,Saint Vincent and the Grenadines,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,22,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,35942,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,26777,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,198524,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,2188,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,79833,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,3804,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,21151,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,615,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1226,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,340,Honduras,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,149,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,230,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,107,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,2161,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,90,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,670,Saint Vincent and the Grenadines,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,185,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,757,Switzerland,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,62,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,6191,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,5376,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,38486,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,111307,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,616,Poland,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,196,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,111111,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,111111,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,111111,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,33253,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,1057,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,1263,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,26,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,566,Nigeria,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,96,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,960,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,757,Switzerland,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,15,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,4266,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,22680,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,2890,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,3162,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,350,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,2,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,45,Cork and articles of cork,,,,,,,,,2,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,45,Cork and articles of cork,,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,45,Cork and articles of cork,,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,89116,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,719,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,574,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,3445,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,261,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,325,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,3771,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,670,Saint Vincent and the Grenadines,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,107,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,4567,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,97,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,74795,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,417,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,66,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,26,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,39,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,66,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,26,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,37,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,3,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,24922,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,420,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,226,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,566,Nigeria,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,19,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,19,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,24108,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,130,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,128402,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,69,Ceramic products,,,,,,,,,65,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,76,Brazil,,,,,,,,,69,Ceramic products,,,,,,,,,89972,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,69,Ceramic products,,,,,,,,,1245,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,218,Ecuador,,,,,,,,,69,Ceramic products,,,,,,,,,10840,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,69,Ceramic products,,,,,,,,,430,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,69,Ceramic products,,,,,,,,,704,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,,,2398,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,69,Ceramic products,,,,,,,,,350,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,69,Ceramic products,,,,,,,,,19260,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,69,Ceramic products,,,,,,,,,3139,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,7940,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,218,Ecuador,,,,,,,,,74,Copper and articles thereof,,,,,,,,,284,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,804,Ukraine,,,,,,,,,74,Copper and articles thereof,,,,,,,,,1944,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,74,Copper and articles thereof,,,,,,,,,904,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,74,Copper and articles thereof,,,,,,,,,2005,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,74,Copper and articles thereof,,,,,,,,,2803,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,10914,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,852,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,10063,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,10914,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,852,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,10063,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1124992,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,27343,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1664,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,897,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,870,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1162,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,13201,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,385689,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,16535,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,458,Malaysia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,125,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,297,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1718,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,36575,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1923,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,47052,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,585776,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4166,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,3162,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,3162,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,3162,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,48746,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1270,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,381,Italy,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,19583,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,222,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,27669,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,2985,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,2985,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,2985,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,2985,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1155218,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3017,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1207,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,76,Brazil,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,708,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1493,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,4656,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,107779,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1348,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,308,Grenada,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,48977,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,39263,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,113,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,10240,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1007,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,566,Nigeria,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,9,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2584,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,659,Saint Kitts and Nevis,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1394,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,56796,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,724,Spain,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,7189,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,740,Suriname,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1208,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,752,Sweden,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,68116,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,9584,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1072,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,796,Turks and Caicos Isds,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,4458,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,804,Ukraine,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,100,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,66454,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,704428,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,12018,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,81402,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,889,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,57578,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,388,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,22547,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,80621,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,889,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,57578,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,36,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,22118,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,174033,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,569,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,605,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,58,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,591,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,542,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,12883,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,344,"China, Hong Kong SAR",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,324,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,48,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,241,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,298,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,724,Spain,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,22285,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,764,Thailand,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,119,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,39,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,249844,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,73,Iron or steel articles,,,,,,,,,421,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,73,Iron or steel articles,,,,,,,,,1325,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,73,Iron or steel articles,,,,,,,,,185,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,,,7446,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,218,Ecuador,,,,,,,,,73,Iron or steel articles,,,,,,,,,8786,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,,,15571,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,,,37914,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,73,Iron or steel articles,,,,,,,,,131,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,73,Iron or steel articles,,,,,,,,,846,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,528,Netherlands,,,,,,,,,73,Iron or steel articles,,,,,,,,,19,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,73,Iron or steel articles,,,,,,,,,355,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,591,Panama,,,,,,,,,73,Iron or steel articles,,,,,,,,,167,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,662,Saint Lucia,,,,,,,,,73,Iron or steel articles,,,,,,,,,5124,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,740,Suriname,,,,,,,,,73,Iron or steel articles,,,,,,,,,725,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,752,Sweden,,,,,,,,,73,Iron or steel articles,,,,,,,,,105,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,764,Thailand,,,,,,,,,73,Iron or steel articles,,,,,,,,,5,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,73,Iron or steel articles,,,,,,,,,620,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,,,442,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,,,168749,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,73,Iron or steel articles,,,,,,,,,909,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,5142,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,73,Iron or steel articles,,,,,,,,,5142,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,5031,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,73,Iron or steel articles,,,,,,,,,5031,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,6,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,6,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,27048,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,211,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,52,Barbados,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,15,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,124,Canada,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,370,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,46,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,252,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,388,Jamaica,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,51,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,392,Japan,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1726,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,531,Curaçao,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,101,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,740,Suriname,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,4946,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,2661,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,172,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,16325,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,172,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,380,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,380,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,7,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,7,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1434,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,132318,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1718,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,207,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,136,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,266,Gabon,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,71,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,484,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,136,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,266,Gabon,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,71,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,277,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,30788,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,28,Antigua and Barbuda,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,30,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,92,Br. Virgin Isds,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,6665,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,614,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,103,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,4916,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,18372,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,212,Dominica,,899,"Areas, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,89,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,13,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,13,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,13,,,0
+HS,2012,201201,January 2012,2,0,3,Re-exports,212,Dominica,,780,Trinidad and Tobago,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,13,,,0

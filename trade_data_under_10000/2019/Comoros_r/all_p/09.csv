@@ -1,0 +1,514 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,01,Animals; live,,,,,,,0,,16468,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,16468,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,95366,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,381,Italy,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,29437,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,724,Spain,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,346141,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,159067,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,208,Denmark,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,20414,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,100,Bulgaria,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,28887,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,41597,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,198925,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,89715,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,31198,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1043396,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2649,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,31195,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,43354,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,311,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,11848,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,456173,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,84977,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,9079,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,724,Spain,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,56690,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,132771,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,276,Germany,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,16683,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1118,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,12195,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,899,"Areas, nes",,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,248275,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,710,South Africa,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,49208,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,729,Sudan,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,49208,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,300,Greece,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,125256,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,276,Germany,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,98415,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,484,Mexico,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,55918,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2714583,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,147735,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,724,Spain,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,49208,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,699,India,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1743292,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,428,Latvia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,31761,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,214,Dominican Rep.,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,116309,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,403122,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,796,Turks and Caicos Isds,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,47,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,447,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,450,Madagascar,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,447,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1019,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,20632,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,105948,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,123,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,754,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,158447,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1284,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,48141,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2050,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,45021,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1434,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,702,Singapore,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,19792,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,788,Tunisia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,17719,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,103238,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,476,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,67,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,67,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,97449,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1935,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,93387,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2015,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,414,Kuwait,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,112,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3001,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2228,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1109,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7331,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,443,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,551,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,56,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,126,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,231,Ethiopia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,66,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,34782,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,151,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,101,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,76,Brazil,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,23271,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1197,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9815,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,10,Cereals,,,,,,,0,,22,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,0,,6094,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,0,,213657,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,10,Cereals,,,,,,,0,,134,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,220582,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,10,Cereals,,,,,,,0,,158,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,414,Kuwait,,,,,,,,,10,Cereals,,,,,,,0,,517,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,145317,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,442,Luxembourg,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,35787,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1266,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,352,Iceland,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,25350,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,404087,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2072,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,43225,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,75886,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,75183,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1436,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,7828,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,528,Netherlands,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2958,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3322,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,112,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,86757,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,396858,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3940,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,899,"Areas, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,15716,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,741,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,647,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,94,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,20960,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,358593,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,800,Uganda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,40261,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,40261,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,188,Costa Rica,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1250,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,31314,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1148,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21249,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9230,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,137307,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1326,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,310812,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,893300,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,112,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1660,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2180,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,173185,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,479,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,414,Kuwait,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,688,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20648,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,111261,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,67,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,504,Morocco,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,201684,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,79208,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,281082,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,123,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,950,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,508,Mozambique,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,50974,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,7456,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,14800,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,45382,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,24156,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,103139,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,30521,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,482,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,528,Netherlands,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,43368,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,816,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,322044,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,30298,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1503,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5948,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,50,Bangladesh,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2047,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,788,Tunisia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,16870,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3930,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1820,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9889,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,42876,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,414,Kuwait,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4777,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,10866,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,76264,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6037,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,224787,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,50,Bangladesh,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,14836,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,512,Oman,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,53474,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,647,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13415,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,704,Viet Nam,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,19405,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12017,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8804,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,36022,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1373,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6658,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,47211,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10926,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,26,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4829,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,336,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,942,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,25541,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31673,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,13132,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,704,Viet Nam,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,36178,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,45648,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,431040,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,319960,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,711,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,15410,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,96992,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,62816,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,699,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,12646,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,20831,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,35228,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,404,Kenya,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,35630,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,102363,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,314,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,899,"Areas, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,31191,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,118268,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,325,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,704,Viet Nam,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,519388,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,14824,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,586,Pakistan,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,932495,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,56,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1759904,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,174547,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4241,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1750792,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1755033,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,453,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,10336,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,10790,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,179,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,29,Organic chemicals,,,,,,,0,,179,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,133465,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4211,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3531,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,972,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,101248,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,899,"Areas, nes",,,,,,,,,30,Pharmaceutical products,,,,,,,0,,22296,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,157,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1050,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,24011,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,31,Fertilizers,,,,,,,0,,24011,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,788,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,40688,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,52750,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,11275,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,17041,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,28908,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,78550,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,6189,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,17666,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7336,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,414,Kuwait,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1409,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,16078,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,16177,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,133122,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1829,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,313,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,47183,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,48808,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2734,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4540,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,24,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1622,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2542,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,352,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4585,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,850,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,145,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,10426,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4846,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,43606,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1690,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,44886,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,30731,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1282,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,171068,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,134,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,32425,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,16023,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,32,Argentina,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,291,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,62065,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,50,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,165,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9057,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,36110,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9273,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7410,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,462,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,899,"Areas, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,31191,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,31191,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,7,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,450,Madagascar,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1127544,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1127544,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,435,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,435,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,220,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,220,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,220,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,220,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,134,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,384,Côte d'Ivoire,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,134,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,703,Slovakia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4218,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4710,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,86820,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,243,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,7572,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,8494,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,494,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,28086,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,281,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,140966,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2260,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,33812,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,42019,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,511,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4563,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,412,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,23819,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,139915,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,17368,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,326576,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,29887,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,349,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,76,Brazil,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,14942,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,42609,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,57368,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,634,Qatar,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,320,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,141,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,229,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1055,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,585,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,55,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,45,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,5902,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,153,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,29412,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,145439,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24062,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,16988,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1101,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,237546,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6343,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,404,Kenya,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,8147,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,56,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,126,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,14743,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,14925,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,50,Silk,,,,,,,0,,559,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,50,Silk,,,,,,,0,,168,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,50,Silk,,,,,,,0,,1096,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1823,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,25178,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,52,Cotton,,,,,,,0,,11830,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,52,Cotton,,,,,,,0,,121,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,78,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,52,Cotton,,,,,,,0,,2546,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,52,Cotton,,,,,,,0,,71,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,52,Cotton,,,,,,,0,,10532,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,71,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,71,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,54,Man-made filaments,,,,,,,0,,1797,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1993,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,0,,196,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,45,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,45,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,149,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,34,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,428,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,245,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5493,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2427,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2288,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,34,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,77,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,516,Namibia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,134,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,110,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,423,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,268,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,235,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,5944,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,6447,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3046,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,634,Qatar,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,235,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1395,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,24,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,344,"China, Hong Kong SAR",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,47,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,487,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,15269,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,300,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,19010,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1225,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,608,Philippines,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,12563,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,613,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,414,Kuwait,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5871,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6464,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,61802,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3388,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,74423,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,239,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,126394,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,40763,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,368,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7213,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,168,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,126,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,293,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,9021,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,6088,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1333,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,94,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,39693,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1985,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5838,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,60743,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8432,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,29,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,37,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1534,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,24,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,157,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,181,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,243,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,511,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,754,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,69,Ceramic products,,,,,,,0,,268,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,0,,179354,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,69,Ceramic products,,,,,,,0,,59,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,69,Ceramic products,,,,,,,0,,6449,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,360,Indonesia,,,,,,,,,69,Ceramic products,,,,,,,0,,11775,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,365226,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,167321,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,70,Glass and glassware,,,,,,,0,,21,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,12587,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,70,Glass and glassware,,,,,,,0,,56,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,70,Glass and glassware,,,,,,,0,,1342,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,70,Glass and glassware,,,,,,,0,,46,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,29560,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,0,,13128,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,2380,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,53,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,168,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,73,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,294,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,127009,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,434207,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,0,,163237,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,72,Iron and steel,,,,,,,0,,1179,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,699,India,,,,,,,,,72,Iron and steel,,,,,,,0,,23485,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,23485,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,72,Iron and steel,,,,,,,0,,142782,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2125,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,78473,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,136817,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,73,Iron or steel articles,,,,,,,0,,68,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,51748,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4404,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,481,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,71,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,620,Portugal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12190,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,972,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,319549,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1446,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4473,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,80695,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,23836,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4473,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,99216,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,130,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,77751,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,124,Canada,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,20934,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1828,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4613,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4613,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,39710,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4702,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,100129,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4473,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,50929,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,315,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3261,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3261,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4188,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,951,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,8743,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1596,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,61,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,8743,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1581,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,485,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,157,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,642,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1748,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1748,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,12,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,12,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,72292,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,237908,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4713,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,671,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,31641,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1328,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2933,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,124330,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1873,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3554,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,74,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,303,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,112,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1191,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,450,Madagascar,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,46038,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,130941,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,89840,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,30121,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2545,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,46038,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8435,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,117,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,117,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,89,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,89,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1860,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,10442,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,16669,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,141,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,523,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3702,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2492,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,538,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2054,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,179,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13301,,,0
+HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,18564,,,0

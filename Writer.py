@@ -4,10 +4,29 @@ import requests
 
 
 class Writer:
-    DATA_DIR = "trade_data"
+    DATA_DIR_UNDER_10000 = "trade_data_under_10000"
+    DATA_DIR_ABOVE_10000 = "trade_data_above_10000"
     def __init__(self) -> None:
-        if not os.path.isdir(os.path.join(os.getcwd(), self.DATA_DIR)):
-            os.makedirs(os.path.join(self.DATA_DIR))
+        if not os.path.isdir(os.path.join(os.getcwd(), self.DATA_DIR_UNDER_10000)):
+            os.makedirs(os.path.join(self.DATA_DIR_UNDER_10000))
+        if not os.path.isdir(os.path.join(os.getcwd(), self.DATA_DIR_ABOVE_10000)):
+            os.makedirs(os.path.join(self.DATA_DIR_ABOVE_10000))
+
+    def writeYearsAndMonths(self, name, periods):
+        with open(name, 'w') as file:
+            for p in periods:
+                period = p
+                file.write(period + '\n')
+            file.close()
+
+    def readYearsAndMonths(self, name):
+        file = open(name, 'r')
+        data = file.readlines()
+        data = [l.replace('\n', '') for l in data]
+        print(data)
+        return data
+
+    
 
     # write to a txt file
     def writeToFile(self, name, list):
@@ -46,11 +65,12 @@ class Writer:
             file.close()
     
     # download csv file
-    def writeToCSV(self, response, year, month, reportingArea, partner):
-        if not os.path.isdir(os.path.join(os.getcwd(), self.DATA_DIR, year, reportingArea + '_r', partner + '_p')):
-            os.makedirs(os.path.join(self.DATA_DIR, year, reportingArea + '_r', partner + '_p'))
+    def writeToCSV(self, response, year, month, reportingArea, partner, under = True):
+        DATA_DIR = self.DATA_DIR_UNDER_10000 if under is True else self.DATA_DIR_ABOVE_10000
+        if not os.path.isdir(os.path.join(os.getcwd(), DATA_DIR, year, reportingArea + '_r', partner + '_p')):
+            os.makedirs(os.path.join(DATA_DIR, year, reportingArea + '_r', partner + '_p'))
 
-        with open(f"{self.DATA_DIR}/{year}/{reportingArea}_r/{partner}_p/{month}.csv", "wb") as file:
+        with open(f"{DATA_DIR}/{year}/{reportingArea}_r/{partner}_p/{month}.csv", "wb") as file:
             for chunk in response.iter_content(chunk_size=8192):
                 file.write(chunk)
             file.flush()

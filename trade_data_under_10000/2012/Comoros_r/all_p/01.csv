@@ -1,0 +1,453 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1705,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,450,Madagascar,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,9,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,28034,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2544,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2378,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,787,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,223,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5721,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,9109,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1901,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,29,Organic chemicals,,,,,,,0,,1675,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,29,Organic chemicals,,,,,,,0,,226,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,95072,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1594240,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1705382,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2732,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,13337,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,31,Fertilizers,,,,,,,0,,13318,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,31,Fertilizers,,,,,,,0,,9793,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,31,Fertilizers,,,,,,,0,,98903,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,122014,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1026,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,266,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,30235,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,28943,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5021,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,16383,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,40160,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,23777,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,263,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,35531,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1238,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,14662,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,14346,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,19649,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3327,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,120967,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,17465,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,414,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,24040,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,34028,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1897,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,422,Lebanon,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1897,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,760,Syria,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,22045,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,422,Lebanon,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,104,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,104,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1770,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1770,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,723,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,723,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,18318,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,592,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,22933,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4023,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,106842,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4765,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,13278,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,16245,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,155476,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3539,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,704,Viet Nam,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,8753,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7713,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,422,Lebanon,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7713,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2053,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,49438,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,30332,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,19106,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7409,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,81,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1800,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,52,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,837,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,14,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,10194,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,208420,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,472,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,386,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,887,Yemen,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,265,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4723,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,450,Madagascar,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,386,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,92837,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,10786,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,99337,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,425,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,142,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,7,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,157,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,731,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,120258,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,64,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2258,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,75866,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,422,Lebanon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,19829,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,19829,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,75,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,35101,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6893,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,13296,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3709,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,760,Syria,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,37,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,137,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,9414,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,50,Silk,,,,,,,0,,28,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,50,Silk,,,,,,,0,,282,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,50,Silk,,,,,,,0,,3321,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3670,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,50,Silk,,,,,,,0,,39,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,131,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,131,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,52,Cotton,,,,,,,0,,1967,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,52,Cotton,,,,,,,0,,1836,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6515,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,52,Cotton,,,,,,,0,,92,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,52,Cotton,,,,,,,0,,2199,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,52,Cotton,,,,,,,0,,420,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,27,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,54,Man-made filaments,,,,,,,0,,27,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,144,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,558,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,702,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,676,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2575,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1899,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,4387,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,118,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5084,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,27,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,552,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3634,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3634,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1032,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1032,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,21,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,21,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,16268,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10069,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,976,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1800,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,61,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,589,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2563,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,14,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,57,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,14,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,70,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,760,Syria,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,55,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1259,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2098,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4932,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,126,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,710,South Africa,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2098,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17124,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,3662,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,6264,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,881,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2776,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,52614,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8515,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,33152,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3907,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4264,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,656,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2939,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,8961,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,450,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,56159,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,32590,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,169,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,101922,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,51,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,422,Lebanon,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,51,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,656,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,670,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,14,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,109,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,797,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,906,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,640,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1239,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,525,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,74,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,0,,136587,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,69,Ceramic products,,,,,,,0,,9538,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,263451,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,413746,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,710,South Africa,,,,,,,,,69,Ceramic products,,,,,,,0,,1049,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,69,Ceramic products,,,,,,,0,,197,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,69,Ceramic products,,,,,,,0,,2859,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,69,Ceramic products,,,,,,,0,,1023,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,69,Ceramic products,,,,,,,0,,289,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1246,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,70,Glass and glassware,,,,,,,0,,118,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,70,Glass and glassware,,,,,,,0,,15,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,70,Glass and glassware,,,,,,,0,,18362,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,70,Glass and glassware,,,,,,,0,,787,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,70,Glass and glassware,,,,,,,0,,813,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,35706,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,1432,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,70,Glass and glassware,,,,,,,0,,52,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,0,,2961,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,11166,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,775,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,775,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,699,India,,,,,,,,,72,Iron and steel,,,,,,,0,,12541,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,12541,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,72,Iron and steel,,,,,,,0,,2623,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,72,Iron and steel,,,,,,,0,,1124,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,443566,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,72,Iron and steel,,,,,,,0,,407675,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,72,Iron and steel,,,,,,,0,,26478,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,5666,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,21272,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,57492,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6740,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1153,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2754,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1386,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,450,Madagascar,,,,,,,,,73,Iron or steel articles,,,,,,,0,,5354,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,20047,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,73,Iron or steel articles,,,,,,,0,,725,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,0,,11540,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,382,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,125,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,257,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,231,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1862,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,24568,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,31987,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,3459,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,422,Lebanon,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,19,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,79,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1644,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,223,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,97,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,28,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,28,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4536,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,14426,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,38270,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2697,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4003,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,12608,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,39,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13499,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,9947,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,108,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3404,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5539,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,163641,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,176015,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7314,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,36401,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,450,Madagascar,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4819,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,99603,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,18193,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2098,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,360,Indonesia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,80704,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,506,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,41220,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,553613,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,32,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12271,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,9661,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,450,Madagascar,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,525,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,422,Lebanon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3652,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1096,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5351,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,8680,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,79,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,42,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,365763,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,65985,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,211118,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,37486,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,20489,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,35881,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,352778,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,383314,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1579408,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,450,Madagascar,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2571,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,775716,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1312,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,20985,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,240,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6558,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2571,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,788,Tunisia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2623,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,21667,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,21667,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,10516,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6114,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4402,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,131,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,131,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2733,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,8,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2741,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,70,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,70,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,78201,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1194,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,142803,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,33803,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,268439,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,8425,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,710,South Africa,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2098,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2098,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4012,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,392,Japan,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,749,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,52,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,422,Lebanon,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,51,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3829,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,682,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,439,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1855,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,645,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2654,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,539,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,14083,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,450,Madagascar,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,16229,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,16229,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,10192,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,52,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,01,Animals; live,,,,,,,0,,944,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,944,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1077785,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,146341,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,36585,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,418512,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,92321,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,788,Tunisia,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,40983,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,227764,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,32,Argentina,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,42107,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,276,Germany,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,73171,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,425,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,12385,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,12810,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,167298,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,140748,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,887,Yemen,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,4094,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,702,Singapore,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26756,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,68859,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,18886,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,426641,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,50511,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1588,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1325,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4698,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,42900,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1932,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,93,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,6,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,483,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1351,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4124,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,818,Egypt,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,72136,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,702,Singapore,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,65578,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,242225,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,643,Russian Federation,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,136549,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,586,Pakistan,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,143735,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,458,Malaysia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,65578,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,8,Albania,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,63878,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,887,Yemen,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,404,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,861812,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,72136,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3702,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,17,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,0,,498,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,0,,2333178,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,392,Japan,,,,,,,,,10,Cereals,,,,,,,0,,954230,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,10,Cereals,,,,,,,0,,308255,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,0,,38427,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,10,Cereals,,,,,,,0,,117056,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3751645,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,67659,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7227,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,224451,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,89440,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,8898,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,43656,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,441331,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,8676,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,6926,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1751,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,284,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1387,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,207167,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,44005,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,106807,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,359650,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,80,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,47005,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,47084,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,252,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,90037,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,905,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,228244,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,33666,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,353103,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,9899,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,757,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8878,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,887,Yemen,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,265,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,15124,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3433,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,74678,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5401,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,39,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,98676,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,85116,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3777,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2570,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,43946,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,490,"Other Asia, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12190,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,9915,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,276,Germany,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12292,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,425,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,14,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,57,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,887,Yemen,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,84,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,15351,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,15994,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,493,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31994,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,278684,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17139,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,7940,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,236836,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,14634,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,66,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2069,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,112,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,112,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,205074,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3305,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,275,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,404,Kenya,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,201493,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,175,Mayotte,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,262,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,419,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,81620,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,167221,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,788,Tunisia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,101519,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,9854,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,586,Pakistan,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,839626,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5229,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,100520,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,177000,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1483271,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2623,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2238,,,0
+HS,2012,201201,January 2012,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,35440,,,0
+HS,2012,201201,January 2012,2,0,2,Exports,174,Comoros,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1714,,,0

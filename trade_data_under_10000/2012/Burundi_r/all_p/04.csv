@@ -1,0 +1,946 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,10,Cereals,,,,,,,,,5163360,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,10,Cereals,,,,,,,,,15,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,10,Cereals,,,,,,,,,14883,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,32,Argentina,,,,,,,,,10,Cereals,,,,,,,,,2431246,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,10,Cereals,,,,,,,,,574,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,10,Cereals,,,,,,,,,272238,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,,,281,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,124,Canada,,,,,,,,,10,Cereals,,,,,,,,,1002844,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,10,Cereals,,,,,,,,,109215,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,10,Cereals,,,,,,,,,1332638,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,10,Cereals,,,,,,,,,574,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,2066,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,1249,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,1073,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,512829,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,627,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,344,"China, Hong Kong SAR",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,127,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,584742,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,64712,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,2059,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,1053,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,134,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,9526,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,232104,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,1999,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,1581,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,145100,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,21812,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,40615,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,10282,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,62591,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,93040,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,37952,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,934644,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,108,Burundi,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,92379,,,0
+HS,2012,201204,April 2012,2,0,4,Re-imports,108,Burundi,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,92379,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,252005,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,8253,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,3684,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,351,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,7462,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,16800,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,351,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,132412,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,20369,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,1034,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,83063,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,31,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,20684,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,20652,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,358092,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,75697,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,2653,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,49738,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,305700,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,75697,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,532782,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,641770,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,202,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,2729,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,18376,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,800,Uganda,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,4593,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,800,Uganda,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,4593,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,63503,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,646,Rwanda,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,22235,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,646,Rwanda,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,22235,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,129354,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,102527,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,15841,,,0
+HS,2012,201204,April 2012,2,0,4,Re-imports,108,Burundi,,108,Burundi,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,92379,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,204913,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,236,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,5731,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,3,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,724,Spain,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,7158,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,26827,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,404,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,27036,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,63599,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,125214,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,705,Slovenia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,566655,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,28454,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,7051,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,666,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,6053,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,130497,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,2203,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,11603,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,606,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,91880,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,1226333,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,446596,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,3585675,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,6674,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,7322,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,710,South Africa,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,202,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,1889928,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,39498,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,90,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,276283,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,512,Oman,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,14923,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,73,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,6846,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,426449,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,5240,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,40433,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,220096,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,11459,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,422,Lebanon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,8021,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,22927,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,7051,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,620,Portugal,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,63535,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,139915,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,710,South Africa,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,15065,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1328,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,18368,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1339389,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,757,Switzerland,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1332,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,67,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,140234,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,615485,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,422,Lebanon,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,52415,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,16397,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,16397,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,89189,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,2706,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,5614,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,123595,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,8041,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1726,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,646,Rwanda,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,233856,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,3564,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,315,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,64810,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1012,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,192593,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,366,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1890,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,3718,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,710,South Africa,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,15065,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,482,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,757,Switzerland,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1332,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,480,Mauritius,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,210427,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,124,Canada,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1519,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,40,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,40,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,8277,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,950,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,69845,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,509,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,114877,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,746,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,950,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,20959,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,950,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,344,"China, Hong Kong SAR",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,12304,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,2177,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,61,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,950,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,792,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,2817,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,6648,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,1835,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,2393,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,96,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,462,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,30,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,106,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,2947,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,881,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,2368,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,236,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,56,Belgium,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,6773,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,9720,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,3620,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,784,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,2269601,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,75,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,276,Germany,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,282993,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,36,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,800,Uganda,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,203682,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,752,Sweden,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,118,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,11581,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,15232,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,314,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,2269,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,826,United Kingdom,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,83576,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,757,Switzerland,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,87502,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,2325,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1383733,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,512,Oman,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,225845,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,23334,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,10780,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,29123,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,16202,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,10,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,2598,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,102274,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,44085,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,4279,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,800,Uganda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,48630,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,646,Rwanda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2107,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,74896,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,7836,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3897030,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,480,Mauritius,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,868,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,608,Philippines,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,364,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,140,Central African Rep.,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,48,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,8617,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,311,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,753,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,48,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,206,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,34679,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,753,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,1828,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,33253,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,93,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,38140,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,20811,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,102803,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,380,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,196,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,8102,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,31245,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,20,Andorra,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,141,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,23691,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,344,"China, Hong Kong SAR",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,3258,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,71951,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,682,Saudi Arabia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,103372,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,1325,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,374018,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,3235,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,3258,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,63051,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,76008,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,,,15504,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,29,Organic chemicals,,,,,,,,,15544,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,29,Organic chemicals,,,,,,,,,1158,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,29,Organic chemicals,,,,,,,,,479,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,29,Organic chemicals,,,,,,,,,188,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,91407,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,29,Organic chemicals,,,,,,,,,4129,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,29,Organic chemicals,,,,,,,,,54404,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,18768,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,20,Andorra,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,3791,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,13455,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1523,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,668823,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,156,China,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,54066,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,381,Italy,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,170978,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,435434,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,800,Uganda,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,8345,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,858,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,157,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,101320,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1759,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,3470,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,112092,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1056,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,2231,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,55,Man-made staple fibres,,,,,,,,,5284,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,55,Man-made staple fibres,,,,,,,,,253,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,99880,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,466,Mali,,,,,,,,,55,Man-made staple fibres,,,,,,,,,451,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,55,Man-made staple fibres,,,,,,,,,93891,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,38797,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,641,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,104,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,43468,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,3754,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,171,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1841,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1817,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,24,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,78,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,2009,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,2636,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,197,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,352,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,10822,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,18060,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,68,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,179,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,116,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,16453,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,76473,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,305,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,2132,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,779,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,3511,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,8417,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,76473,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,52,Cotton,,,,,,,,,49,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,52,Cotton,,,,,,,,,2349,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,52,Cotton,,,,,,,,,6280,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,52,Cotton,,,,,,,,,1490,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,52,Cotton,,,,,,,,,835,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,52,Cotton,,,,,,,,,31,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,52,Cotton,,,,,,,,,1526,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,5576,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,7550,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1615,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,83,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,275,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1317,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,461,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,601,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,255,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,348566,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,69,Ceramic products,,,,,,,,,1575,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,69,Ceramic products,,,,,,,,,136323,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,69,Ceramic products,,,,,,,,,5672,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,69,Ceramic products,,,,,,,,,8494,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,69,Ceramic products,,,,,,,,,2689,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,69,Ceramic products,,,,,,,,,36154,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,,,27067,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,76,Brazil,,,,,,,,,69,Ceramic products,,,,,,,,,1422,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,69,Ceramic products,,,,,,,,,63751,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,69,Ceramic products,,,,,,,,,17539,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,,,47137,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,69,Ceramic products,,,,,,,,,744,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,74,Copper and articles thereof,,,,,,,,,4137,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,74,Copper and articles thereof,,,,,,,,,119,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,74,Copper and articles thereof,,,,,,,,,36,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,74,Copper and articles thereof,,,,,,,,,20,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,10019,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,,,5707,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,458,Malaysia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,678,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,59860,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,603612,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,12001,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,143462,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,249607,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,344,"China, Hong Kong SAR",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,157,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,30106,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,745,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,411,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,1899,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,2494,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,1899,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,2494,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,2494,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,2494,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1064,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1967,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,110,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3527,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,344,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,41,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1510,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,2961,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,52,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1399,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,46477,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,92369,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,25728,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,92369,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,6272,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,276,Germany,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,66134,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,528,Netherlands,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,507,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,682,Saudi Arabia,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,3054,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,25728,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,2318,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,66181,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,65697,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,3984106,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,296307,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,646,Rwanda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,105637,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,646,Rwanda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,105637,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,8220,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,15545,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,508,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1189254,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,124,Canada,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,8636,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,752,Sweden,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,10340,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,202023,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,414643,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,249607,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,23,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,356938,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,591,Panama,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,2506,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,47160,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,206935,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,68870,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,508,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,552,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,29690,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,140,Central African Rep.,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,1375,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,276,Germany,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,66134,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,528,Netherlands,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,507,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,2203,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,1013,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,301595,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,46926,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,143462,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1548,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,3069,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,29,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1240,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,155,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,372,Ireland,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,41253,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1177,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,208,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,48935,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,256,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,34242,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,92998,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,124,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,58632,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1866,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,10871349,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,240999,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,458,Malaysia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,569,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2407,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,648448,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2407,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3264959,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,9093,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,21752,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,529394,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1628113,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,462837,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,48814,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,74896,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,7198,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,5919,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,34785,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,526,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,800,Uganda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,48630,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,646,Rwanda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2107,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,610,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,50,Bangladesh,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,44297,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,8,Albania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,11285,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,12597,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,21752,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,473,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,98768,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,25488,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,203,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1261,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,115966,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,8608,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,8405,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,100,Bulgaria,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,159,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,134724,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,39545,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,51,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,101264,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,16,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,203,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,8405,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,8608,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,752,Sweden,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,6582,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,23180,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,547476,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,11207,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,5194,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,2529,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,148,Chad,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,5774,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,6588,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,288,Ghana,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,5077,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,446,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,73290,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,21567,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,56,Belgium,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,6813,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,157,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,288,Ghana,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,5077,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,19342,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,148,Chad,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,5774,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,56,Belgium,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,6813,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,313,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,17664,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,1087,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,17664,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,4861,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,01,Animals; live,,,,,,,,,366735,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,01,Animals; live,,,,,,,,,3130,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,369865,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,124082,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,842,United States of America,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,3067,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,11437,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,276,Germany,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,8370,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,135347,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,947,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,10318,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,1354720,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,105593,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,707127,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,12432,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,22,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,70640,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,266938,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,191967,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,593772,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,593658,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,114,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,345647,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,646,Rwanda,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,5836,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,332752,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,21923,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,1613,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,143463,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,12,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,933292,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,4287,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,104,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,5836,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,83490,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,57373,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,61944,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,62462,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,86265,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,17495,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,16397,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,150003,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,480,Mauritius,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,18279,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,748,Swaziland,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,110771,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,8,Albania,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,6099,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,656209,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,80158,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,109111,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,150003,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,25072,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,4783,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,5770,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,3046,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,62,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,2662,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,177210,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,422346,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,42253,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,360,Indonesia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,12399,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,7023,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,5762,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,8957,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,2215,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,132473,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,31918,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,665,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,1381,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,466,Mali,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,90,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,3952,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,23061,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,287,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,646,Rwanda,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,2228,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,2376,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,6387,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,106,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,450,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,287,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,287,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,5353,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,65009,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,23325,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,151636,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,7650,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,41887,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,7650,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,213821,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,823,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,6234,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,9856,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,2882,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,127,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,376,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,1271,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,1652,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,2923,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,177,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,3392,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,5697,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,1753,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,23601,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,515950,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,13088,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,28389,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,6683,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,433170,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,4,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,344,"China, Hong Kong SAR",,,,,,,,,26,"Ores, slag and ash",,,,,,,,,603278,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,2109685,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,40,Austria,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,593020,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,4,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,56,Belgium,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,913386,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11334213,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,456134,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,18724,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,506,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,92420,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,33000,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,456134,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,430,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,456134,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,803894,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,456134,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,304166,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,26763,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,35560,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,48,Bahrain,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,589384,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,512,Oman,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,190678,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,748,Swaziland,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,83169,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1383227,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,682,Saudi Arabia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,7190717,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,119230,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,462345,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,30,Pharmaceutical products,,,,,,,,,23535,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,30,Pharmaceutical products,,,,,,,,,884,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,30,Pharmaceutical products,,,,,,,,,71123,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,,,307801,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,12,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,30,Pharmaceutical products,,,,,,,,,500703,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,6046024,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,30,Pharmaceutical products,,,,,,,,,161918,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,,,204564,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,442,Luxembourg,,,,,,,,,30,Pharmaceutical products,,,,,,,,,13771,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,,,7446,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1546860,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,30,Pharmaceutical products,,,,,,,,,12,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,30,Pharmaceutical products,,,,,,,,,44527,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1434417,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,,,174987,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,,,109480,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,30,Pharmaceutical products,,,,,,,,,12,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,30,Pharmaceutical products,,,,,,,,,123813,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,30,Pharmaceutical products,,,,,,,,,6575,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1313619,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,12,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,31,Fertilizers,,,,,,,,,37898,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,31,Fertilizers,,,,,,,,,11991,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,49890,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,1017,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,4736,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,48219,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,65144,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,10695,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,47391,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,36337,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,344,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,336175,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,370,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,4836,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,9594,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,107492,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,633,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,108479,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,15473,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,86,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,8,Albania,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,69,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,332,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,141,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,410,Rep. of Korea,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,58282,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,37545,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,636356,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,37555,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,35050,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,62957,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,26630,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,83,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,76,Brazil,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,85501,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,166117,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,1425,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,50,Silk,,,,,,,,,1500,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,50,Silk,,,,,,,,,1278,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,50,Silk,,,,,,,,,222,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,80173,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,80173,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,80173,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,80173,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,1924,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,559,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,1335,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,30,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,41782,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,344,"China, Hong Kong SAR",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,143,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,475,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,475,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,752,Sweden,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,237,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,93,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,10423,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1499,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,466,Mali,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1682,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,475,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,432,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1633,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,15716,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,6575,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,475,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,686,Senegal,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,915,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,2514,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,466,Mali,,,,,,,,,54,Man-made filaments,,,,,,,,,1879,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,54,Man-made filaments,,,,,,,,,1071,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,54,Man-made filaments,,,,,,,,,237,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,54,Man-made filaments,,,,,,,,,3806,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,54,Man-made filaments,,,,,,,,,231,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,752,Sweden,,,,,,,,,54,Man-made filaments,,,,,,,,,592,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,7817,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,7,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,7,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,70,Glass and glassware,,,,,,,,,509,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,70,Glass and glassware,,,,,,,,,5937,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,70,Glass and glassware,,,,,,,,,202,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,,,995,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,70,Glass and glassware,,,,,,,,,683337,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,108,Burundi,,,,,,,,,70,Glass and glassware,,,,,,,,,93221,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,70,Glass and glassware,,,,,,,,,19469,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,70,Glass and glassware,,,,,,,,,104063,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,70,Glass and glassware,,,,,,,,,3729,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,1023752,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,70,Glass and glassware,,,,,,,,,55644,,,0
+HS,2012,201204,April 2012,2,0,4,Re-imports,108,Burundi,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,93221,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,,,92320,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,200747,,,0
+HS,2012,201204,April 2012,2,0,4,Re-imports,108,Burundi,,108,Burundi,,,,,,,,,70,Glass and glassware,,,,,,,,,93221,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,70,Glass and glassware,,,,,,,,,20755,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,86635,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,70,Glass and glassware,,,,,,,,,10049,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,70,Glass and glassware,,,,,,,,,432,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,646,Rwanda,,,,,,,,,70,Glass and glassware,,,,,,,,,80818,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,646,Rwanda,,,,,,,,,70,Glass and glassware,,,,,,,,,80818,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,800,Uganda,,,,,,,,,70,Glass and glassware,,,,,,,,,5817,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,800,Uganda,,,,,,,,,70,Glass and glassware,,,,,,,,,5817,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,,,47202,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1116,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,9287374,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,682,Saudi Arabia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,536,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1897,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,3166,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,410,Rep. of Korea,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,5164,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,47,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,15022,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,2137,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,114613,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,212234,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,81,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,47,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,7428,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,51,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,47,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,466,Mali,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,393,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,8984,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,110,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,2478,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,52607,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,47,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,1603,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,22708,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,2256,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,161,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,90460,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,7363,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,14604,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,144115,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,3690,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,1271,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,4383,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,26,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,784,United Arab Emirates,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,8449027,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,5525,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,20,Andorra,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,838348,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,134955,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,72,Iron and steel,,,,,,,,,830566,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,72,Iron and steel,,,,,,,,,356028,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,72,Iron and steel,,,,,,,,,19422,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,800,Uganda,,,,,,,,,72,Iron and steel,,,,,,,,,103649,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,,,76422,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,72,Iron and steel,,,,,,,,,224614,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,72,Iron and steel,,,,,,,,,6277,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,72,Iron and steel,,,,,,,,,20014,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,135375,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,72,Iron and steel,,,,,,,,,318836,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,72,Iron and steel,,,,,,,,,11292,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,72,Iron and steel,,,,,,,,,1009652,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,72,Iron and steel,,,,,,,,,20014,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,72,Iron and steel,,,,,,,,,11712,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,72,Iron and steel,,,,,,,,,687346,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,800,Uganda,,,,,,,,,72,Iron and steel,,,,,,,,,103649,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,72,Iron and steel,,,,,,,,,160398,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3699411,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,480,Mauritius,,,,,,,,,72,Iron and steel,,,,,,,,,9850,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,35737,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,125,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,125,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,119732,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,8028,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,69638,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,4862,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,2689,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,125,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,1169,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,10466,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,1880,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,260751,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,6550,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,125,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,506,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,939,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,1562,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,646,Rwanda,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,506,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,244,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,506,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,313,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,1654,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,135,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,4015,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,146760,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,646,Rwanda,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,506,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,167210,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,34,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,10063,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,1492,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,48473,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,348,Hungary,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,20310,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,4264,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,204620,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,330,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,46512,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,682,Saudi Arabia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3713,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3826636,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1068331,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,169354,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,66904,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,45361,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,4122,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1167524,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,376,Israel,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,590,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,8,Albania,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,831,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,221819,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,246,Finland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1590,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,11780,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,17739,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,336633,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,276308,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,68758,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,76,Brazil,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,70993,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,103772,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,35578,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1388,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,8126,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,46512,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,4264,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,54489,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,308,Grenada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,21,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,42,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,8667,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,125697,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,197275,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,231,Ethiopia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,15550,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,20,Andorra,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2006,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,8999,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,682,Saudi Arabia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3713,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,178,Congo,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3316,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,11957,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,5338,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,12215,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,2981,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,752,Sweden,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,13043,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,35665,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,7361,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,55,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,24844,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,66311,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,49461,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,35665,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,23126,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,384110,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,27017,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,97547,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,6324,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,76,Brazil,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,48486,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,7348,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,9721,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,2372,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,2977,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,10284,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,70,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,7236,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,84,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,174,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,56,Belgium,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,3885,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,3885,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,4,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,262,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,9745,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,1228,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,52,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,3280,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,6007,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,24584,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,1053,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,2130,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,164900,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,101020,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,360,Indonesia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,15801,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,2411,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,314,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,2097,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,45,Cork and articles of cork,,,,,,,,,2685,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,45,Cork and articles of cork,,,,,,,,,24,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,2709,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,381,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,381,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,41,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,2157,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,156834,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,129114,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,21201,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,41,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,45326,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,23300,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,956072,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,8109,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,41,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,85562,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,41,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,854,Burkina Faso,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,305,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,83503,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,124,Canada,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,127986,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,86611,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,67852,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,118212,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,,,2769,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,73,Iron or steel articles,,,,,,,,,535566,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,724,Spain,,,,,,,,,73,Iron or steel articles,,,,,,,,,371,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,,,20452,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,73,Iron or steel articles,,,,,,,,,34615,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,1498410,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,32834,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,,,517151,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,73,Iron or steel articles,,,,,,,,,32024,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,,,9687,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,480,Mauritius,,,,,,,,,73,Iron or steel articles,,,,,,,,,20865,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,404,Kenya,,,,,,,,,73,Iron or steel articles,,,,,,,,,32834,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,73,Iron or steel articles,,,,,,,,,49725,,,0
+HS,2012,201204,April 2012,2,0,3,Re-exports,108,Burundi,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,32834,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,73,Iron or steel articles,,,,,,,,,65088,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,478,Mauritania,,,,,,,,,73,Iron or steel articles,,,,,,,,,9896,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,73,Iron or steel articles,,,,,,,,,464,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,,,529,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,73,Iron or steel articles,,,,,,,,,13432,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,73,Iron or steel articles,,,,,,,,,2388,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,73,Iron or steel articles,,,,,,,,,20622,,,0
+HS,2012,201204,April 2012,2,0,2,Exports,108,Burundi,,404,Kenya,,,,,,,,,73,Iron or steel articles,,,,,,,,,32834,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,,,14755,,,0
+HS,2012,201204,April 2012,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,,,148011,,,0
