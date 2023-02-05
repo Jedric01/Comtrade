@@ -1,0 +1,427 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,7631,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,01,Animals; live,,,,,,,,,7631,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,237142,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,27409,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,85611,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,5766,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,29716,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,43297,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,45344,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,5995,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,5995,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,306128,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,1084,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,224192,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,80852,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,156,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,156,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,120806,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,276,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,97,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,147,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,17976,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,102311,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,16713,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,422,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,16291,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,10738,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,628,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,10110,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,10,Cereals,,,,,,,,,458065,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,10,Cereals,,,,,,,,,87,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,10,Cereals,,,,,,,,,327825,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,,,130153,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,361832,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,21,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,259,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,361553,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,1716,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,276,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,334,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,1106,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,11,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,11,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,374546,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,124,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,66101,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,308321,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,145198,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,48985,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,481,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,30023,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,65709,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,161946,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,26148,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,1539,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,134259,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,14516,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,2697,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,11819,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,275412,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,40667,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,4543,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,186112,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,682,Saudi Arabia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,27563,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,16503,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,24,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,116987,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,8061,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,14062,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,2949,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,99,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,91815,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,202976,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,500,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,1716,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,48265,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,152495,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,1075848,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,46,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,2330,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,1040021,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,33452,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,158368,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,1246,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,157122,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,2040,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,1419,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,460,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,161,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,509467,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,216225,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,31,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,293210,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,891439,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,747870,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,9135,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,22014,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,111431,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,989,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,119367,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,23,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,119344,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,3550,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,29,Organic chemicals,,,,,,,,,934,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,29,Organic chemicals,,,,,,,,,2616,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,40042,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,124,Canada,,,,,,,,,30,Pharmaceutical products,,,,,,,,,2887,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,132,Cabo Verde,,,,,,,,,30,Pharmaceutical products,,,,,,,,,191,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,174,Comoros,,,,,,,,,30,Pharmaceutical products,,,,,,,,,62,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,30,Pharmaceutical products,,,,,,,,,10411,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,,,30,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,,,,,,,,,30,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,30,Pharmaceutical products,,,,,,,,,26419,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,30,Pharmaceutical products,,,,,,,,,12,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,1239,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,31,Fertilizers,,,,,,,,,1239,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,20569,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,82,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,20308,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,179,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,67601,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,221,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,1840,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,3005,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,566,Nigeria,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,315,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,58094,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,4126,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,197417,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1396,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,17668,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,40,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,164626,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,11908,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1779,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,5865,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,64,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,172,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,169,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,2994,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,2466,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,16038,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,35,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,16003,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,958,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,958,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,56203,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,2478,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,184,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,53541,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,419083,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,5248,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,754,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,14451,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,927,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,166,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1784,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,365565,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,710,South Africa,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,71,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,23635,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,6484,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,51552,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,2854,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,68,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,40649,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,7895,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,87,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,36356,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1398,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,132,Cabo Verde,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,207,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,4132,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,174,Comoros,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1388,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,437,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,196,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,28597,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,71,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,71,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,707864,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,127,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,53,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,207,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,706947,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,337,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,192,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,1527,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,1527,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,114850,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,870,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,22599,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,821,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,78082,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,11905,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,573,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,15139,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,3541,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,603,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,10995,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,52,Cotton,,,,,,,,,268,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,52,Cotton,,,,,,,,,268,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,516,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,516,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,432,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,54,Man-made filaments,,,,,,,,,432,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,420,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,55,Man-made staple fibres,,,,,,,,,223,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,55,Man-made staple fibres,,,,,,,,,197,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,43272,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,559,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,180,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,1122,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,8862,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,30,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,26036,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,6484,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,4348,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,80,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,696,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,3571,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,791,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,69,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,483,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,239,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,54864,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,24,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,66,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,54726,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,47,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,21359,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,1421,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,132,Cabo Verde,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,874,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,751,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,93,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,18220,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,26037,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,3491,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,10038,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,132,Cabo Verde,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,2990,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,2081,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,368,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,149,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,6920,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,220060,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,14263,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,20736,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,132,Cabo Verde,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,987,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,697,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,174,Comoros,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,83,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,6189,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,1481,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,40709,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,101,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,400,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,13637,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,120066,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,47,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,490,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,176,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,106146,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,10955,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,132,Cabo Verde,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,3266,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,18412,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,1150,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,34,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,60710,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,11278,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,341,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,4006,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,63,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,1499,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,60,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,2383,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,5744,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,51,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,2463,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,3231,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1331,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,115,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,677,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,566,Nigeria,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,402,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,137,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,17574,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,17574,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,65883,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,69,Ceramic products,,,,,,,,,844,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,69,Ceramic products,,,,,,,,,66,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,586,Pakistan,,,,,,,,,69,Ceramic products,,,,,,,,,1839,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,69,Ceramic products,,,,,,,,,51072,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,,,9872,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,,,2190,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,73431,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,70,Glass and glassware,,,,,,,,,454,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,,,25,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,70,Glass and glassware,,,,,,,,,736,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,70,Glass and glassware,,,,,,,,,58322,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,,,13895,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,98,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,64,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,34,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,24518,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,72,Iron and steel,,,,,,,,,16,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,72,Iron and steel,,,,,,,,,24502,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,595486,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,73,Iron or steel articles,,,,,,,,,3430,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,73,Iron or steel articles,,,,,,,,,5174,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,,,24448,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,,,138,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,73,Iron or steel articles,,,,,,,,,69,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,73,Iron or steel articles,,,,,,,,,558226,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,,,1519,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,,,2482,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,18175,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,74,Copper and articles thereof,,,,,,,,,152,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,74,Copper and articles thereof,,,,,,,,,18022,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,147607,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,594,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,269,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,285,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,5146,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,137788,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,3525,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,6619,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,78,Lead and articles thereof,,,,,,,,,6619,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,27207,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,25580,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,1627,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,53404,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,1262,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,10747,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,19,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,34170,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,7207,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,35829,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,9096,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,1203,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,14036,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,11407,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,87,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,628060,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,19903,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,233,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,53198,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,9878,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,205,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,17344,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3462,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,519017,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1016,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3688,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,25,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,92,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,854753,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,52688,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,52163,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,167,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,276,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,4709,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,62,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,4944,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,586,Pakistan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3865,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,654668,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,22788,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,31142,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,27279,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,14145,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,8654,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,5491,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1253239,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,141338,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,163123,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,430435,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,27781,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,8088,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,3911,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,58058,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,442,Luxembourg,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4283,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,3798,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,285342,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,710,South Africa,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,16815,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,8490,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,89966,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,796,Turks and Caicos Isds,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,244,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,8840,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,2727,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,4205,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,4205,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,253566,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,214,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,132,Cabo Verde,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,20,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,25198,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,21910,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,150075,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,55329,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,821,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,598,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,381,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,217,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1506,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,976,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,529,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,176,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,176,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,535343,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,5437,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,59760,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,210,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,174,Comoros,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,789,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,230,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,29178,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,12629,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,426988,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,122,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,14789,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,414,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,575,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,50,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,13571,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,179,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,30637,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,78,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,72,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,174,Comoros,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,2090,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,392,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,142,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,20126,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,7737,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,365,,,0
+HS,2016,201608,August 2016,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,365,,,0

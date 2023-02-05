@@ -1,0 +1,932 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,208,Denmark,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,34889,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1254313,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,30643,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6960,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,52144,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,410,Rep. of Korea,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,40057,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,121729,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,39794,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,5200,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,818,Egypt,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,15141,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4360,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,170563,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,702921,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,17841,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,12070,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,721743,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,45130,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,608,Philippines,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,131624,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,208,Denmark,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1222,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,14390599,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,104884,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,702,Singapore,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,76483,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,88343,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,410,Rep. of Korea,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,98580,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,348,Hungary,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,13941,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,16946,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,392,Japan,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,230,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,351852,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,22934,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,682,Saudi Arabia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1921612,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,226108,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,522352,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,466,Mali,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5559,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,725,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,12197,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,48917,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,43981,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,704,Viet Nam,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,20378,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,50374,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,375463,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1377969,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,359951,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,855336,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2303636,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,174839,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5406,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,752,Sweden,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5339,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,634,Qatar,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3598100,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,48,Bahrain,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,41145,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10828,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,318725,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,14874,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,421594,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1278,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,203,Czech Rep.,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,25,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,616,Poland,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,344503,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,40618,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1869,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,88801,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,88165,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,599,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,243486,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,105088,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,26709,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,74098,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,76,Brazil,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,153621,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,5032,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,141646,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3309,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,10702,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,410,Rep. of Korea,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,4423,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2321809,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,93064,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,818,Egypt,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3649,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,43387,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,68622,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,772172,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,7118,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,344,"China, Hong Kong SAR",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1102,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,838,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1048,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1150,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,59294,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,28088,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,604,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,682,Saudi Arabia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3353,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,553,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,138070,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,8272,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,31542,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,13,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,490,"Other Asia, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3212,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,107,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1685,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1685,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,15503,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,43434,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,511449,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,21576,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1509,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,648088,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5280,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2718,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,32688,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,270,Gambia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1149,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10393,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,208,Denmark,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2389,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,31416,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,208469,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,790666,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,376,Israel,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1894,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,76800,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,528899,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,818,Egypt,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,439659,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1393,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2089,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5293,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,81161,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,112918,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,220822,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,228765,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,175767,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2288417,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,133139,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,372,Ireland,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,241205,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,40506,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,838,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2850,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,153,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,554895,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,15192,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,392878,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,5749,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2327,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,999407,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,14346,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,266,Gabon,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1509,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,76,Brazil,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,8672,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3927040,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,392,Japan,,,,,,,,,54,Man-made filaments,,,,,,,0,,3590061,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,0,,336979,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,20627,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,20627,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,70,Glass and glassware,,,,,,,0,,65205,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,70,Glass and glassware,,,,,,,0,,148031,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,70,Glass and glassware,,,,,,,0,,83978,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,32,Argentina,,,,,,,,,70,Glass and glassware,,,,,,,0,,4016,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,70,Glass and glassware,,,,,,,0,,118503,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,76,Brazil,,,,,,,,,70,Glass and glassware,,,,,,,0,,3321,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,70,Glass and glassware,,,,,,,0,,1740,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,70,Glass and glassware,,,,,,,0,,838,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,797542,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,363897,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,0,,8012,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,7270,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,6428,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,842,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,5145783,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,72,Iron and steel,,,,,,,0,,267176,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,72,Iron and steel,,,,,,,0,,189912,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,643,Russian Federation,,,,,,,,,72,Iron and steel,,,,,,,0,,4582,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,72,Iron and steel,,,,,,,0,,405732,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,72,Iron and steel,,,,,,,0,,1283759,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,72,Iron and steel,,,,,,,0,,33527,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,72,Iron and steel,,,,,,,0,,163,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,2062014,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,72,Iron and steel,,,,,,,0,,108122,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,72,Iron and steel,,,,,,,0,,316893,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,804,Ukraine,,,,,,,,,72,Iron and steel,,,,,,,0,,4357,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,72,Iron and steel,,,,,,,0,,209374,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,392,Japan,,,,,,,,,72,Iron and steel,,,,,,,0,,213776,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,0,,46396,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,764,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,764,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,376,Israel,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2910,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,21150,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5075,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,7112,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1278026,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8968,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,54967,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,10622,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1477875,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,76491,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,874,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,11680,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,153805,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,46937,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,300,Greece,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,219634,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,657,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3219,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,884801,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,73818,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,230729,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,802,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,6064,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,71036,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,78099,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,408643,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,222519,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1535133,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,288669,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,154915,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,198663,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1376622,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,583842,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,215949,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,586,Pakistan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3395,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,619260,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,140283,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,788,Tunisia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,385024,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,579,Norway,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,23571,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2561,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,576981,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,16826493,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,139208,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4562695,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,300,Greece,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,10428,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,103,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,32117,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,102825,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,48433,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,693542,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,275925,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2068495,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,92125,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,112844,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,65807,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,308224,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,643,Russian Federation,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2484169,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,104403,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4903,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,300,Greece,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,40272,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,10243077,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,749999,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2173,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,702,Singapore,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2000389,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1107586,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,28644,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,445,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,40683,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,854,Burkina Faso,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,14014,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,389988,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,196,Cyprus,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,109850,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8075919,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,26860,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4030,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,757,Switzerland,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,411807,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,25743,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,956095,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,78157,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,16724,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8848,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,566576,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,32832,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2438744,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,410,Rep. of Korea,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,21946,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,32,Argentina,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,278489,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,100492,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,208,Denmark,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,30240,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2571466,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,466,Mali,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7032,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,31,Fertilizers,,,,,,,0,,1657960,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,748,Swaziland,,,,,,,,,31,Fertilizers,,,,,,,0,,512958,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3076617,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,31,Fertilizers,,,,,,,0,,22541,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,616,Poland,,,,,,,,,31,Fertilizers,,,,,,,0,,725487,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,31,Fertilizers,,,,,,,0,,79883,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,31,Fertilizers,,,,,,,0,,677,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,31,Fertilizers,,,,,,,0,,77111,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,110282,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,7871,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,140,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,165169,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,300,Greece,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,26118,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,601852,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,702,Singapore,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1844,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,16329,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,168556,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,26413,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,7159,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,25955,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,392,Japan,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,766,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,39522,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1593,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4135,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,79110,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,19628,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,208,Denmark,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1398,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,528982,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,106423,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,12466,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,74175,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,45428,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,317891,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,10527,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1454003,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2246,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,84349,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,17169,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,3121,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7743,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,111351,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,12908,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2730,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2363,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,752,Sweden,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4347,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,203,Czech Rep.,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9649,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,17022,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,17022,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,788,Tunisia,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,6946,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,43356,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,36410,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,10060,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,586,Pakistan,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4727,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,473,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,704,Viet Nam,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,6789,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2071,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,311879,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1006,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,32611,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,254141,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,157416,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,788,Tunisia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,15764,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,143245,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,279324,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5454,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,702,Singapore,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,43585,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,34701,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,11420,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,818,Egypt,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,20755,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2827,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,196,Cyprus,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,8008,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5941,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4840,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,27153,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,342608,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,945625,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,29,Organic chemicals,,,,,,,0,,73821,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,29,Organic chemicals,,,,,,,0,,6890,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,29,Organic chemicals,,,,,,,0,,53016,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,29,Organic chemicals,,,,,,,0,,5473,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,29,Organic chemicals,,,,,,,0,,243254,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,0,,179939,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,29,Organic chemicals,,,,,,,0,,42640,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,29,Organic chemicals,,,,,,,0,,10538,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,29,Organic chemicals,,,,,,,0,,52925,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,29,Organic chemicals,,,,,,,0,,4199,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,978721,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,29,Organic chemicals,,,,,,,0,,269934,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,29,Organic chemicals,,,,,,,0,,36093,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,8012,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,24230,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,16219,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3180,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,657,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3837,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,697,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,350823,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,318785,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7543,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3017,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,14249,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6531,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,2664596,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,52,Cotton,,,,,,,0,,2818671,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,52,Cotton,,,,,,,0,,198542,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,52,Cotton,,,,,,,0,,302,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,52,Cotton,,,,,,,0,,138534,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6367,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11876,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,172011,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1230854,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2878,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,5277,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,85596,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,465,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,208,Denmark,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,28313,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,642,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,796,Turks and Caicos Isds,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3766,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,25782,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,642,Romania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1942,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1712,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7458285,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2044654,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,788,Tunisia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,15255,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,24218,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20512,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1761119,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,410,Rep. of Korea,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,7871,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,8642,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5700,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3353,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20418,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5523,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,445706,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,108769,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,96002,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2876,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,71087,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,34015,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,32826,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,757,Switzerland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,251,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,13394,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1051727,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,190217,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,17299,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,99703,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,547942,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,372,Ireland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,551,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,33527,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2024752,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,579,Norway,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2685,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,351648,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,118875,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,270,Gambia,,,,,,,,,52,Cotton,,,,,,,0,,7767,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5828411,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,562,Niger,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,17601,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,41400,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,335,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,141927,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,82590,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,8985,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,8985,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,69,Ceramic products,,,,,,,0,,12706,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,69,Ceramic products,,,,,,,0,,14378,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,0,,63491,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,0,,116399,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,69,Ceramic products,,,,,,,0,,79502,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,855881,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1231549,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,69,Ceramic products,,,,,,,0,,2682,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,69,Ceramic products,,,,,,,0,,446,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,69,Ceramic products,,,,,,,0,,838,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,69,Ceramic products,,,,,,,0,,3520,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,69,Ceramic products,,,,,,,0,,21864,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,704,Viet Nam,,,,,,,,,69,Ceramic products,,,,,,,0,,3017,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,69,Ceramic products,,,,,,,0,,56825,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,105145,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,410,Rep. of Korea,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,106,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,35723,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,29106,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,24977,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,15233,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,319134,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,11771,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,241,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,56186,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,23589,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,702,Singapore,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,16763,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,757,Switzerland,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4678,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5029,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,483329,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,12363,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2556,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1380434,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3673,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,376,Israel,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5365,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,89813,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,376464,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,752,Sweden,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3944,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,55412,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,135600,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,651,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,203,Czech Rep.,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,68594,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,616,Poland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4417,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,364,Iran,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1150,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,702,Singapore,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4560,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,119,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,33926,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,62312,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7043,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1006,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6894,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5029,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,11590,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,854,Burkina Faso,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6864,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,376,Israel,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,18006,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,56773,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1569,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6821,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,12374,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,12374,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,410,Rep. of Korea,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,62133,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,17769,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,164708,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,392,Japan,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,93756,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1182715,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,26403,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,36173,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,490,"Other Asia, nes",,,,,,,,,55,Man-made staple fibres,,,,,,,0,,53644,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,728130,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,503,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,29319,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,49654,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,79476,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,4784,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,298,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,682,Saudi Arabia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,4191,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,130893,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,25375,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1006,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,166547,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,32577,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,33757,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1181,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,503,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,340,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,13185,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,14363,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,335,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,11734,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,11734,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,372,Ireland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1588570,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2017,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2892243,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,818,Egypt,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2893,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2649,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,353377,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,10896,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,310834,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,579,Norway,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,18520,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1464771,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,66499,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1187474,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,32,Argentina,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,25245,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,40614,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,32464,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,586,Pakistan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,26254,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,96809,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,704,Viet Nam,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,318,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,146715,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3121,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,44433,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4727,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,292,Gibraltar,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,8391,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,192657,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,276400,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,13402038,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,218270,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,757,Switzerland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5973,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,194129,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,21813,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,36,Australia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4591,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,616,Poland,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3447,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,203,Czech Rep.,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,892,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,788,Tunisia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,46545,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,579,Norway,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,62061,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,13620,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,809,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,271354,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,932475,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,20992,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1106,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,757,Switzerland,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,90512,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,208,Denmark,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,138293,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,7045,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,126928,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,117,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,23432,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,20090,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,11081,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,17171,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,156189,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,11067,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,616,Poland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,90139,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,244265,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,381839,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,196,Cyprus,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,13063,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,154,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,10058,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,141137,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,57205,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,23569,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,151479,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,407125,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,616,Poland,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,10460,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1129301,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,199027,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,430398,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,127294,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,372582,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,252349,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1402802,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,130945,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,25329,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,156273,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3407,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3407,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,26318,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,103081,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,24139,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,703,Slovakia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,16093,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,36,Australia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,20116,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,177810,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,100,Bulgaria,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5364,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,148190,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,788,Tunisia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,10729,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,35906,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5029,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,428,Latvia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5364,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1538647,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,33996,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,694,Sierra Leone,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5364,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,586,Pakistan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5331,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,376,Israel,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,85833,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,8592,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,226225,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,408,Dem. People's Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,58552,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,642,Romania,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,155816,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3131844,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,150570,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,175282,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,466,Mali,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,45396,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,76,Brazil,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,35213,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,231853,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,752,Sweden,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,13083,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,854,Burkina Faso,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,52318,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3552,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4612350,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2977,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6593,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1537,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,11239,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,34815,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,12469,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,47434,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,210596,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,168519,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,329679,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2598,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5364,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,372,Ireland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,31203,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,227205,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,348,Hungary,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5364,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,18440,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,702,Singapore,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2514,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,616,Poland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,111829,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,21457,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,350366,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,440,Lithuania,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,53643,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,0,,985192,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,73,Iron or steel articles,,,,,,,0,,108465,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,344,"China, Hong Kong SAR",,,,,,,,,73,Iron or steel articles,,,,,,,0,,251806,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,203,Czech Rep.,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1578,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,0,,381466,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,73,Iron or steel articles,,,,,,,0,,49917,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,33443,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,73,Iron or steel articles,,,,,,,0,,40559,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,73,Iron or steel articles,,,,,,,0,,37147,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4491,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,505313,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1243115,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,73,Iron or steel articles,,,,,,,0,,11632,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,73,Iron or steel articles,,,,,,,0,,35888,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,0,,403063,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4230016,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,73,Iron or steel articles,,,,,,,0,,8510,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,0,,14188,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,73,Iron or steel articles,,,,,,,0,,63980,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,18196,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5239,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,227992,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,301,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11702,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1165,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,33868,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,10,Cereals,,,,,,,0,,8047,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,704,Viet Nam,,,,,,,,,10,Cereals,,,,,,,0,,6330,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,10,Cereals,,,,,,,0,,2695797,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,10,Cereals,,,,,,,0,,112831,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,1302445,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,76,Brazil,,,,,,,,,10,Cereals,,,,,,,0,,21886,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,0,,27157,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,591,Panama,,,,,,,,,10,Cereals,,,,,,,0,,139554,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,10,Cereals,,,,,,,0,,297,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,5752139,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,0,,1437796,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,374467,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1811107,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,12,Algeria,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,64371,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,170,Colombia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4365,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,18930,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,447,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,14162,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,20964,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,320,Guatemala,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,39602,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,169795,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6286,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,221813,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,76,Brazil,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,875905,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,752,Sweden,,,,,,,,,73,Iron or steel articles,,,,,,,0,,713,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,73,Iron or steel articles,,,,,,,0,,48391,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1159,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,359923,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,359923,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,14802,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13411,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,14876,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,470,Malta,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10689,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5029,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,596556,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,235,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,132833,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10058,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5448,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,704,Viet Nam,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,21917,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,818,Egypt,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,21713,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,29715,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,988584,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5999,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2792,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,854,Burkina Faso,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,21765,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3688,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,77058,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,34370,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,440,Lithuania,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,17439,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7605,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,95243,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,616,Poland,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,16093,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,67735,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1545540,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,94881,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,73759,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,152,Chile,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,10729,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,358772,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6705,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,196,Cyprus,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,5981,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,40361,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,39858,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,503,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,21796,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,61477,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,404,Kenya,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1643,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,466,Mali,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3084,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1336,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,15009,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,39949,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,153653,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,796,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8563,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,935,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,163766,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,162831,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,18976,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3479,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,18440,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,428,Latvia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,26989,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2906,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,76,Brazil,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,25652,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,788,Tunisia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,33313,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9957,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,116907,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,658395,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,103989,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1442156,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,161066,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,694,Sierra Leone,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,11265,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3772,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,818,Egypt,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,162014,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,32469,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,44438,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,757,Switzerland,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,440,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,144,Sri Lanka,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5771,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1919,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1319509,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,246,Finland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1146558,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3403,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,854,Burkina Faso,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,82077,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2953,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,609659,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,372,Ireland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2610,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,475113,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,752,Sweden,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,623968,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,208,Denmark,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,14634,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,59319,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,837411,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,757,Switzerland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2294,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,76,Brazil,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,22093,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,203,Czech Rep.,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,8915,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,702,Singapore,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4887,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,32,Argentina,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,16731,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,100,Bulgaria,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,10954,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,355206,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,14836,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,704,Viet Nam,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1222,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,50458,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5029,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,48236,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,365324,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1844,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,62388,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,757,Switzerland,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2514,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,616,Poland,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,81066,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,682,Saudi Arabia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2514,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,348,Hungary,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,535,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,40572,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,25234,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1256075,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,27038,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,33208,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,208,Denmark,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5122,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,124,Canada,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2179,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,102063,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,344,"China, Hong Kong SAR",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,9260,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,20226,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,5699,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,01,Animals; live,,,,,,,0,,5699,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,179488,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,45261,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,410,Rep. of Korea,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,40796,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,4560240,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,167890,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,12767,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,24,Angola,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,410426,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,516,Namibia,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,68284,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,60060,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,32,Argentina,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,14163,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,478,Mauritania,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1027860,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,505365,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,78006,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,309407,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,624,Guinea-Bissau,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1640467,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,268,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1318247,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4858,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,330241,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,151134,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,428,Latvia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,26821,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,804925,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,18276,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,372,Ireland,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,16995,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1281,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,549,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,523032,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3981622,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,612,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,22526,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3374916,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1207,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,52238,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,6543,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2934,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,616,Poland,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,32555,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,86409,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,7471,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1609702,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,363028,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2502,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,414789,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,120482,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,12824,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,79665,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,36,Australia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,47463,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6953,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,320,Guatemala,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,113093,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,7773,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,620,Portugal,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,51326,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,87251,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,44460,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,128725,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,34613,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,404,Kenya,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5867,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5651,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,129203,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2300,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,826,United Kingdom,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5924,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,69182,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5666,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2248,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1751664,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,384,Côte d'Ivoire,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,40283,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,344,"China, Hong Kong SAR",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3105,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,922,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,704,Viet Nam,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,6286,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,17277,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2029395,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2772,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,13746,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,764,Thailand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,23090,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,10587,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,120,Cameroon,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,46792,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,26188,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,29577,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,699,India,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,97074,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1901209,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,300,Greece,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,641045,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,123798,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,51237,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,422,Lebanon,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1021,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,504,Morocco,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,860421,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,9049,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,15009,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,4694,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,130089,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,65045,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,724,Spain,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1512,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,55698,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3140,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,710,South Africa,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,8058,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,6077,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9668,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,34210,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,113379,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,12458,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,381,Italy,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,12552,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,854,Burkina Faso,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4266,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,15244,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,196,Cyprus,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,10848,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2787,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,37955,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,7442,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2739,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,24987,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1103778,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,757,Switzerland,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,9255,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,284085,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,818,Egypt,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,91610,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,56,Belgium,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,30671,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,276,Germany,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6513,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,288,Ghana,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,44544,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,686,Senegal,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,100509,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,360,Indonesia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,503,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,784,United Arab Emirates,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1828,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,792,Turkey,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8801,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,528,Netherlands,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,40232,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,40,Austria,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4414,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,566,Nigeria,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,51044,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,332887,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,34820,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,768,Togo,,204,Benin,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,62062,,,0

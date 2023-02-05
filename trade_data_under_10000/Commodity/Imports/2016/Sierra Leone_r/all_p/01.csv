@@ -1,0 +1,494 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,14277,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,14277,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,738014,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,24770,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,26559,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,91432,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,504,Morocco,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,90692,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,528,Netherlands,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,122584,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,25443,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,217516,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,44032,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,94987,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,1905409,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,197672,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,1707737,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,61970,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,61970,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1641766,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,23013,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,208457,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,566,Nigeria,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,7368,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,27682,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,522365,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,145141,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,707740,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,10,Cereals,,,,,,,,,1224154,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,10,Cereals,,,,,,,,,126051,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,10,Cereals,,,,,,,,,30335,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,528,Netherlands,,,,,,,,,10,Cereals,,,,,,,,,6179,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,,,453084,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,10,Cereals,,,,,,,,,227264,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,,,11269,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,,,272098,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,10,Cereals,,,,,,,,,19588,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,,,78287,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,1548634,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,90973,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,39645,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,428,Latvia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,93496,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,68872,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,69107,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,933621,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,804,Ukraine,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,133724,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,119197,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,100085,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,21025,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,528,Netherlands,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,79060,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,509269,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,46391,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,79773,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,107893,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,498,Rep. of Moldova,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,9831,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,60960,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,37471,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,30985,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,135965,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,591726,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,32,Argentina,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,11753,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,84099,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,146553,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,792,Turkey,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,13892,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,72349,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,263080,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,1173565,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,71250,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,617566,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,61970,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,422779,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,403425,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,28269,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,504,Morocco,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,79944,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,724,Spain,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,29263,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,55826,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,90926,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,119197,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,3555183,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,144,Sri Lanka,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,60298,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,28566,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,27278,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,360,Indonesia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,52736,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,206485,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,498,Rep. of Moldova,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,9831,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,512,Oman,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,15399,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,528,Netherlands,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,6179,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,682,Saudi Arabia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,9389,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,239212,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,724,Spain,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,29263,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,1333643,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,788,Tunisia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,88740,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,486255,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,961910,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,3078671,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,50,Bangladesh,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,174834,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,175802,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,11472,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,646751,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,682,Saudi Arabia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,36992,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,710,South Africa,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,35947,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,724,Spain,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,14413,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,567117,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,792,Turkey,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,24853,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,544760,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,845730,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,2455926,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,360,Indonesia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,17579,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,234041,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,593503,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,277893,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,1332910,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,2006208,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,32,Argentina,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,32965,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,50,Bangladesh,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,199810,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,233,Estonia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,12312,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,276,Germany,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,59073,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,360,Indonesia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,17579,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,75696,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,19843,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,91661,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,710,South Africa,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,136193,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,86970,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,305529,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,792,Turkey,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,75746,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,504111,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,388720,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,732071,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,528,Netherlands,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,39486,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,51538,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,27270,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,464780,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,148996,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,122191,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,96247,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,25944,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,324834,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,288,Ghana,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,6662,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,197242,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,724,Spain,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,5896,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,27270,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,28165,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,59599,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,9507047,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,528,Netherlands,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,53604,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,686,Senegal,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,8596333,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,73519,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,724,Spain,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,230916,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,552675,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,63696,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,10103,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,682,Saudi Arabia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,36439,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,17154,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,468954,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,490,"Other Asia, nes",,,,,,,,,29,Organic chemicals,,,,,,,,,356550,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,29,Organic chemicals,,,,,,,,,81008,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,29,Organic chemicals,,,,,,,,,31396,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,4183658,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,,,735958,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,364,Iran,,,,,,,,,30,Pharmaceutical products,,,,,,,,,22439,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,372,Ireland,,,,,,,,,30,Pharmaceutical products,,,,,,,,,44809,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,,,2284989,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,30,Pharmaceutical products,,,,,,,,,291539,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,,,763613,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,,,40311,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,11106,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,31,Fertilizers,,,,,,,,,11106,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,354116,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,137032,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,38588,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,47883,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,30480,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,21095,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,792,Turkey,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,46431,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,32607,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,4872857,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,124,Canada,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,7838,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,1318605,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,288,Ghana,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,15511,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,19371,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,384,Côte d'Ivoire,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,2661002,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,84099,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,566,Nigeria,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,36158,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,30480,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,236481,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,264263,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,199050,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1500949,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,124,Canada,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,7838,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,40040,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,21135,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,58510,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,566,Nigeria,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,14735,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,41438,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,702,Singapore,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,33173,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,724,Spain,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,32925,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,710321,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,173917,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,366917,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,334877,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,244395,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,44582,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,45900,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,17351,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,17351,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,18422,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,18422,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,349114,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,100032,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,682,Saudi Arabia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,9389,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,30480,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,74942,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,134270,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,6815173,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,96247,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,2678275,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,288,Ghana,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,46640,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,39,Plastics and articles thereof,,,,,,,,,106395,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,53864,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,386603,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,566,Nigeria,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,7368,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,634,Qatar,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,247595,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,682,Saudi Arabia,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,391845,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,142621,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,85238,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1486284,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,879455,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,206742,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,4483815,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,36,Australia,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,17004,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,3007555,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,3131,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,288,Ghana,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,46635,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,410,Rep. of Korea,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,338948,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,172053,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,888420,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,10069,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,705613,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,36,Australia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,7408,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,386101,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,112336,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,28710,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,616,Poland,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,33276,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1965,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,91350,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,15930,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,28537,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,572794,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,250377,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,139732,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,38041,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,458,Malaysia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,11107,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,99494,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,34044,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,17220,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,17220,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,4663,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,4663,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,2155461,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,36,Australia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,7408,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,233406,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,17579,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,86779,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,504,Morocco,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,85770,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,176055,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,965205,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,792,Turkey,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,40840,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,221004,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,321415,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,575177,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,36,Australia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,7408,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,96247,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,137304,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,566,Nigeria,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,9040,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,129979,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,166334,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,9368,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,19497,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,25408,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,25408,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,52,Cotton,,,,,,,,,139202,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,52,Cotton,,,,,,,,,63530,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,52,Cotton,,,,,,,,,75672,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,25408,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,,,25408,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,292770,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,,,228924,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,55,Man-made staple fibres,,,,,,,,,63846,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,5610,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,251,France,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,5610,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,270054,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,68465,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,155192,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,41850,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,4546,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,25408,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,25408,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,145751,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,31102,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,276,Germany,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,59073,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,55576,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,334181,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,291857,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,28710,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,792,Turkey,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,13613,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,1927741,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,36,Australia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,22224,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,3893,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,124,Canada,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,258580,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,378540,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,142316,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,30961,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,21025,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,586,Pakistan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,99972,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,616,Poland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,195285,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,710,South Africa,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,15439,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,219032,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,220942,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,319533,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,214045,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,153570,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,19371,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,41104,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,165004,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,77048,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,276,Germany,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,59073,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,28883,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,71992,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,16416,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,55576,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,39028,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,29989,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,566,Nigeria,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,9040,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,221750,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,50148,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,42128,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,98993,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,30480,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,2332669,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,69,Ceramic products,,,,,,,,,832305,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,69,Ceramic products,,,,,,,,,68038,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,69,Ceramic products,,,,,,,,,80774,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,69,Ceramic products,,,,,,,,,307881,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,710,South Africa,,,,,,,,,69,Ceramic products,,,,,,,,,23612,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,,,567829,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,,,179798,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,69,Ceramic products,,,,,,,,,272433,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,865762,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,,,538561,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,,,10402,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,288,Ghana,,,,,,,,,70,Glass and glassware,,,,,,,,,6662,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,70,Glass and glassware,,,,,,,,,71990,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,,,105540,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,70,Glass and glassware,,,,,,,,,132606,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,23786,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,23786,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1639367,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,72,Iron and steel,,,,,,,,,486713,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,72,Iron and steel,,,,,,,,,602214,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,72,Iron and steel,,,,,,,,,103469,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,,,190287,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,72,Iron and steel,,,,,,,,,256684,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,1858906,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,,,1935,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,,,862540,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,,,3467,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,,,25433,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,288,Ghana,,,,,,,,,73,Iron or steel articles,,,,,,,,,19987,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,73,Iron or steel articles,,,,,,,,,49249,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,,,13931,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,73,Iron or steel articles,,,,,,,,,312837,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,566,Nigeria,,,,,,,,,73,Iron or steel articles,,,,,,,,,7368,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,,,91440,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,,,363100,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,,,107621,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,60705,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,,,17168,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,74,Copper and articles thereof,,,,,,,,,43537,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,902305,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,308953,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,105339,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,428415,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,59599,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,34409,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,34409,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,1572770,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,7751,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,318509,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,529344,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,566,Nigeria,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,16407,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,724,Spain,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,19641,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,424250,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,252322,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,4546,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,1036788,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,597953,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,11669,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,392,Japan,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,53946,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,188734,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,30480,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,710,South Africa,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,19049,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,134957,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,10980063,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,14816,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,91578,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1943456,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,208,Denmark,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,7103,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,260475,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,279761,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,288,Ghana,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,253181,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,18790,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,30186,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,530131,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1151928,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,480,Mauritius,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2551756,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,579,Norway,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,12306,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,169565,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,710,South Africa,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,135654,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2911780,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,800,Uganda,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,13265,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,553892,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,50445,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,9040183,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,22224,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6493,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2836804,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,12878,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,29340,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,288,Ghana,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,139933,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,19371,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,422239,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,886584,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,579,Norway,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,990,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,682,Saudi Arabia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,9389,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,710,South Africa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,98977,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3438143,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1066876,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,49944,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,6662,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,288,Ghana,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,6662,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4267437,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,154613,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,739450,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1350102,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,107892,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,38020,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,512,Oman,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,56205,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,566,Nigeria,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,16407,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,710,South Africa,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,61462,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1586923,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,818,Egypt,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,123028,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,33334,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1646425,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,594747,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,288,Ghana,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,6662,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,392,Japan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,422239,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,328567,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,10090,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,284121,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,200325,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,92662,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,28883,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,69412,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,9368,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,22968,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,18422,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,4546,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,3900137,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,36,Australia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,29632,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,56,Belgium,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,14243,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,1096519,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,276,Germany,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,29340,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,344,"China, Hong Kong SAR",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,37579,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,596111,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,528,Netherlands,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,34379,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,710,South Africa,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,704927,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,701937,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,600732,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,54738,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,993127,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,591913,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,95777,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,616,Poland,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,33276,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,197557,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,21020,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,53585,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,949295,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,272901,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,422,Lebanon,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,57421,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,566,Nigeria,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,7368,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,699,India,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,61328,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,259476,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,826,United Kingdom,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,112006,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,178796,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,6596,,,0
+HS,2016,201601,January 2016,2,0,1,Imports,694,Sierra Leone,,156,China,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,6596,,,0

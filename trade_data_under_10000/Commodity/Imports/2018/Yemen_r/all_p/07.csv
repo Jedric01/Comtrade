@@ -1,0 +1,827 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1519876,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,723611,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,9351821,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,1979762,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2608717,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,12836373,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,60105,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1013461,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,465240,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5106833,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,509121,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,319760,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,314465,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2993,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,30910,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,162757,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,53514,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,751,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,15177,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,781,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1095584,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,152552,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1984675,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,12012,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,399722,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,860632,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,7426300,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,644385,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,668948,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,1729594,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,7995,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,1730873,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,12317,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,4153304,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,547737,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,155072,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,916905,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4014675,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,759208,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1735842,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,468206,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1277354,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11148149,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,216641,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,135619,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4134282,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,29707,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1549988,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,115196,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5166755,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,66274,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1002197,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,94970611,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3015062,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2002238,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,84616,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1001,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,318776,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4353940,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3173757,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3520813,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,936524,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1978862,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,38538,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,104555202,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,6784633,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,237017,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,590209,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1632916,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,711027,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,351876,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,34966,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,229340,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,10293,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,18288,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,50,Silk,,,,,,,0,,12167,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7673,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,15618,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,8294,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4633496,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,363654,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,34015,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,44284,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,945078,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2594552,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,01,Animals; live,,,,,,,0,,166591,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,195323,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,24907,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1325339,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,36256,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,331300,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,368864,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,452344,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,10,Cereals,,,,,,,0,,1402983,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,293431,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,222623,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,28476,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,17585,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,20555,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5198,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,32935,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,10,Cereals,,,,,,,0,,1773588,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,60912,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,69,Ceramic products,,,,,,,0,,367088,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,70,Glass and glassware,,,,,,,0,,39404,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5037,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6006,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2512,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,72,Iron and steel,,,,,,,0,,17145,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,0,,19064,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,16289,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,11962,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3724,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,29529,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,118507,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,33317,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,5005,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,18983,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,72,Iron and steel,,,,,,,,,12237,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,,,,,,,0,,34922,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3495,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,,,,,,,0,,2135,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3283,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2553,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7457,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,571,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5856,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,10156,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,48649,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4805,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,127480,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,63354,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,62813,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,56113,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,404445,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,10408,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,16315,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,29,Organic chemicals,,,,,,,0,,47493,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1212194,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,20870,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,57571,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6192,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,24467,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,8138,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,259809,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,7991,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,164085,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,54,Man-made filaments,,,,,,,0,,147373,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,9293,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,205635,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,5752,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4805,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,14110,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4805,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,217689,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,22849,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2947,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,43273,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,135085,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,24775,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4773,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1134,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,102350,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,17853,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,66138,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,6320,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,38248,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,13641,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,26044,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,3610,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,96370,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,30,Pharmaceutical products,,,,,,,0,,26664,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7507,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,33325,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1983,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,7356593,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8745,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,53108,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,14059,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4271,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,601,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,231,Ethiopia,,,,,,,,,01,Animals; live,,,,,,,,,7042,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,20020,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,804,Ukraine,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,5285,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,233,Estonia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,2435,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,440,Lithuania,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,13755,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,7275,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,26600,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,11411,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,7029,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,3364,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,86402,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,7207,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,8611,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,348,Hungary,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,8364,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,16772,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,72539,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,706,Somalia,,,,,,,,,01,Animals; live,,,,,,,0,,73608,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,367234,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,827167,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,769125,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,34193,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,176204,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,41427,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,13124,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7886,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,,,40551,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,,,68814,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,69,Ceramic products,,,,,,,,,34914,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,70,Glass and glassware,,,,,,,,,2603,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,72,Iron and steel,,,,,,,,,31231,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,72,Iron and steel,,,,,,,,,18919,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,772,Tokelau,,,,,,,,,72,Iron and steel,,,,,,,,,13513,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,73,Iron or steel articles,,,,,,,,,61569,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,8749,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,42249,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,15706,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,69,Ceramic products,,,,,,,0,,2032,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,69,Ceramic products,,,,,,,0,,94236,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,72,Iron and steel,,,,,,,0,,83498,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,0,,6196647,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,72,Iron and steel,,,,,,,0,,40909,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,11188,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,11421,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,97732,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,33203,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5023875,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,59669,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,47946,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,267353,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,118100,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,40302,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,22174,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,752,Sweden,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,87857,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,60300,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,48985,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,402503,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,246,Finland,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,216284,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,616,Poland,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,47834,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,31089,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,62960,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,96346,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,434,Libya,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,13721,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,67788,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6286159,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,0,,86925,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,679800,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1485059,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,279357,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,30297,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,320195,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9111,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,69053,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2415607,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5986,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,232,Eritrea,,,,,,,,,01,Animals; live,,,,,,,0,,2314,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,01,Animals; live,,,,,,,0,,150167,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,147851,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,15129,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,43043,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1148642,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,232,Eritrea,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,90290,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,123786,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,89646,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,18546,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1755936,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,708364,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,616,Poland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,44204,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,11011,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,804,Ukraine,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,12012,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,192240,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,31551,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,161609,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,36,Australia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,60173,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,227259,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,15805,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,440,Lithuania,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,11892,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,124615,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,702,Singapore,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,51542,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,729,Sudan,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,24595,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,5423,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,124,Canada,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,111184,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,36,Australia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,93084,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,231,Ethiopia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,84617,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,156306,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,409,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,49347,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,14364,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7520,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,113070,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,58527,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1690,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1938,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,190025,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14452,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,144,Sri Lanka,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,10461,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,129227,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1661,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,26937,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,404,Kenya,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,137149,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,643,Russian Federation,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5067,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,10,Cereals,,,,,,,0,,9509,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,32,Argentina,,,,,,,,,10,Cereals,,,,,,,0,,14027542,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,10,Cereals,,,,,,,0,,4504,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,10,Cereals,,,,,,,0,,42275,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,10,Cereals,,,,,,,0,,30631,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,0,,1081570,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,643,Russian Federation,,,,,,,,,10,Cereals,,,,,,,0,,20396600,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,642,Romania,,,,,,,,,10,Cereals,,,,,,,0,,12927617,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,804,Ukraine,,,,,,,,,10,Cereals,,,,,,,0,,31626331,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,36,Australia,,,,,,,,,10,Cereals,,,,,,,0,,3905439,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,0,,50650,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,0,,334779,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2806,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,25185,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4084,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,31498,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,10717,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,174247,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,461134,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1951049,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,20298,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,32,Argentina,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1552095,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,23243,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,729,Sudan,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,110818,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,20715,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3797,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,4933,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,44887,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,70464,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,332735,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,804,Ukraine,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,49537,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,554,New Zealand,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,241790,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,9429,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,186623,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,6703,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,14994,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,110176,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,27102,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,40160,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,45696,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,10231,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,541,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2082490,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,190762,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,937,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,144,Sri Lanka,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,892,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4233,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,16674,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9041,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,36256,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,240764,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8563,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,5075,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,42118,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,111951,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,804,Ukraine,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,37518,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,788,Tunisia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,10107,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,735026,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,255271,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,15860,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,71892,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,12627,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,7453,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,23984,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,42556,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,788,Tunisia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,76160,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,64026,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,12,Algeria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5499,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,408289,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,28360,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,29101,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1009208,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,10728,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,100,Bulgaria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,19790,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,109446,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,788,Tunisia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,14213,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,156083,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,13392,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5313,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,143345,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,616,Poland,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,16041,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,202127,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,804,Ukraine,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,27695,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,26037,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4050,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,9671,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,89683,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,34034,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,86286,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,70,Glass and glassware,,,,,,,0,,257740,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,72,Iron and steel,,,,,,,0,,73659,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,84292,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1548067,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,304225,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,278606,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,894044,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,854249,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,31786,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1011459,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1949505,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,721768,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,16,American Samoa,,,,,,,,,69,Ceramic products,,,,,,,0,,3171,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1153,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4004,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6006,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,752,Sweden,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,32515,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,703,Slovakia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,12517,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3510,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21731,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2993,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,86281,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7388,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,82134,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,80604,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,300,Greece,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,14997,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,35060,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,17838,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1744304,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,611915,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,9437,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5005,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,38368,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,195831,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5592,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2886,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2848,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,107398,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,92764,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,45043,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,20626,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,36279,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,57557,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,504,Morocco,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,697,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,37481,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,665617,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,46912,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9369,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,73208,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,620,Portugal,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,61547,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2953,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,32,Argentina,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,6446690,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,30910,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10711,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,231,Ethiopia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,18769,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1055,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,45277,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,54794,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,69,Ceramic products,,,,,,,0,,101800,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,69,Ceramic products,,,,,,,0,,8249,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,70,Glass and glassware,,,,,,,0,,27200,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,70,Glass and glassware,,,,,,,0,,2843,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,4723,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,70,Glass and glassware,,,,,,,0,,11398,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,46207,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,72,Iron and steel,,,,,,,0,,71154,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,72,Iron and steel,,,,,,,0,,12296,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,72,Iron and steel,,,,,,,0,,3784,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,72,Iron and steel,,,,,,,0,,19453,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,73,Iron or steel articles,,,,,,,0,,192669,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2502,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,73,Iron or steel articles,,,,,,,0,,75721,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,120,Cameroon,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4655,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,270387,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,13054,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,702,Singapore,,,,,,,,,73,Iron or steel articles,,,,,,,0,,20255,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6575,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2605,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6976,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,481066,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,296689,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,58183,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5946,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,8008,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2803,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,197236,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8461,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,997,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,17345,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,15113,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,306183,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,65329,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8080,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,13513,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,25916,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,710,South Africa,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1496020,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,10887,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,6506,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,101562,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3243,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,246,Finland,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5044,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2411,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,119908,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,19006,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,12899,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,59971,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,152717,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5261,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,38538,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,83490,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,168265,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4805,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,15015,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,221856,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10676,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8150,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13076,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,11778,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,41210,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,132666,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3630,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,22016,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,378163,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,175195,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,8333,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5526,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1684110,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,781,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,668458,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,398460,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,94176,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,657486,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,388964,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,16909,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,21386044,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,75369227,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,28474,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,643,Russian Federation,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,46011,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,24257,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,14481,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,404,Kenya,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,14847,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,11517,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,300,Greece,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1835,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,6672,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,9009,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4387,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,26120,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,131947,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,23620,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,44679,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,41461,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,268308,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,298176,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,336077,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,237663,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,39318,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,290809,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1501,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,16986,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,30066,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2252,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2703,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,46451,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,94669,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,14204,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1501,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,120,Cameroon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1982,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,15836,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,11984,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,642,Romania,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,19019,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,221653,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,29,Organic chemicals,,,,,,,0,,16570,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,29,Organic chemicals,,,,,,,0,,12172,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,29,Organic chemicals,,,,,,,0,,4830,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,29,Organic chemicals,,,,,,,0,,46008,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,29,Organic chemicals,,,,,,,0,,12195,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,710,South Africa,,,,,,,,,29,Organic chemicals,,,,,,,0,,15375,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,29,Organic chemicals,,,,,,,0,,4004,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,29,Organic chemicals,,,,,,,0,,4003,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,29,Organic chemicals,,,,,,,0,,11590,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,29,Organic chemicals,,,,,,,0,,39658,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8842,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,157938,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,262,Djibouti,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,19301,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,642,Romania,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,52933,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,9332,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,311910,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,15818,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,6006,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,60781,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,390784,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,42858,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,52268,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,27774,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1092245,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,494042,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,223754,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,643993,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,25443,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,372,Ireland,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,371192,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,50,Bangladesh,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,54054,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,504,Morocco,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,136441,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,28886,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,32,Argentina,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,10090,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,169121,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,31,Fertilizers,,,,,,,0,,4877,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,31,Fertilizers,,,,,,,0,,3924,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,31,Fertilizers,,,,,,,0,,28904,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,31,Fertilizers,,,,,,,0,,88131,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,31,Fertilizers,,,,,,,0,,5170,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,31,Fertilizers,,,,,,,0,,14715,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,31,Fertilizers,,,,,,,0,,1441,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,210766,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,76678,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10078,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,23248,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,27468,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,15299,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,16645,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,16489,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,788,Tunisia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5275,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7709,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,23466,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5505,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,748,Swaziland,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7957,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,141100,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,182020,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,510025,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,13527,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,249234,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1782,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,56314,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2683,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,16011,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5831,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2107,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,48432,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,77415,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,112139,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,122753,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,50117,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7688,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,68168,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,23071,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,49305,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3183,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,52364,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,65966,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,9854,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2638,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,6131,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,13515,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,23810,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,5046,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,39942,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,28874,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1282,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6103,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3103,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,126675,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,5933,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,44777,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,33274,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,74807,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,16416,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,57658,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,183895,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,129074,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,90766,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,47189,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,107157,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4407,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,593249,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,20180,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,43416,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,62906,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,303872,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,17633,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,300166,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,38714,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,801,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,631,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,181344,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2366,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3605,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,622945,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,144,Sri Lanka,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4982,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2302,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,6970,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,86122,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,620,Portugal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,19286,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1051,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,12910,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,53319,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,50,Bangladesh,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3516,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,353501,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,132504,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3520,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1778689,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,8495,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,123201,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,61943,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1702,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,9009,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,50,Silk,,,,,,,0,,10815,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,50,Silk,,,,,,,0,,1351,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7673,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,3203,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,52,Cotton,,,,,,,0,,12014,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,5438,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,0,,3362027,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,54,Man-made filaments,,,,,,,0,,29471,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,54,Man-made filaments,,,,,,,0,,29765,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,608,Philippines,,,,,,,,,54,Man-made filaments,,,,,,,0,,17399,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,54,Man-made filaments,,,,,,,0,,20344,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,54,Man-made filaments,,,,,,,0,,14379,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,54,Man-made filaments,,,,,,,0,,86884,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,54,Man-made filaments,,,,,,,0,,13880,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,540,New Caledonia,,,,,,,,,54,Man-made filaments,,,,,,,0,,6800,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,13871,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,42145,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,52138,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5683,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,35667,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,702,Singapore,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,57378,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,6456,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,16627,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,166834,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,77266,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,393259,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,22556,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4004,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1201,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1922,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,44284,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7673,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8040,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9264,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,199124,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,110982,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,10510,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,196509,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,29029,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,26056,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,125193,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,423050,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,13213,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,237601,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3784,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,251088,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,7507,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3453,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3754,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,248117,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,426,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5125,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,963059,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,328356,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,277438,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,162770,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,16288,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,12012,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,29641,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,69,Ceramic products,,,,,,,0,,494795,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,7307,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,74,Copper and articles thereof,,,,,,,0,,18739,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,150047,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,78,Lead and articles thereof,,,,,,,0,,751,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1223,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,118560,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,70478,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1839847,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,105041,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3724,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,123258,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,50581,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,211659,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,70,Glass and glassware,,,,,,,0,,99095,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,72,Iron and steel,,,,,,,0,,1828408,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,73,Iron or steel articles,,,,,,,0,,446770,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,680212,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2325870,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,26531,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4459,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,23204,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5854,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,266842,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1508841,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,113258,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,9009,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,816,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,13513,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,68268,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1001,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1391127,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,195046,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,626226,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,155187,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,853213,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,643227,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,835834,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,73308,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,256408,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,28081,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,7133827,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,29,Organic chemicals,,,,,,,0,,167384,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,30,Pharmaceutical products,,,,,,,0,,819932,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,31,Fertilizers,,,,,,,0,,89856,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,205802,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,387100,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,203345,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,62404,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,22474,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4074,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,303872,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,42025,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7578,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,52,Cotton,,,,,,,0,,400,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2856,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,54,Man-made filaments,,,,,,,0,,905173,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,93633,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6253,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,29279,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,966885,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,85191,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,584947,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,98238,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,119594,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1158764,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,701162,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,403498,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,489452,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3303,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,56651,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,36391,,,0
+HS,2018,201807,July 2018,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,2292,,,0

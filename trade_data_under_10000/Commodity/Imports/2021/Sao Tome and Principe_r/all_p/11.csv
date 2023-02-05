@@ -1,0 +1,428 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,20599,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,01,Animals; live,,,,,,,0,,20599,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,924922,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,178752,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,61701,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,109935,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,23762,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,52180,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,172986,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,253222,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,71816,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,568,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,17918,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,17918,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,387557,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,380185,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,7364,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,8,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,378912,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,33117,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,124,Canada,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,21559,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,324237,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,81706,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7051,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,74655,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,19254,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,108,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8020,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11074,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,52,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,507472,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,10,Cereals,,,,,,,0,,115455,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,10,Cereals,,,,,,,0,,180,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,392,Japan,,,,,,,,,10,Cereals,,,,,,,0,,379054,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,10,Cereals,,,,,,,0,,8593,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,10,Cereals,,,,,,,0,,10,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,10,Cereals,,,,,,,0,,4102,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,77,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,477329,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,215,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,477113,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3336,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1132,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2204,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,21,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,21,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,14,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,14,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,603223,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1599,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,116443,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,83802,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,278826,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,699,India,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,122305,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,248,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,264468,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3811,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,237644,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,23013,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,604251,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,100577,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,487819,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,15855,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,48180,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,45359,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2821,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,511381,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,190,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,341997,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1429,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,167553,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,212,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,457971,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,441533,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13100,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,665,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2027,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,646,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,147027,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1808,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2908,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,109898,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31768,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,645,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1638657,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10615,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1555580,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,50085,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,11265,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6514,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4598,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,240599,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,240599,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,8891,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,5193,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3698,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,625883,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,565116,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,60767,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3091208,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,827621,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,317,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,12656,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,83080,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,56750,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2082811,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,27973,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,48851,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,48592,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,259,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,573,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,29,Organic chemicals,,,,,,,0,,573,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,106449,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,106356,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,92,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,34014,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,31,Fertilizers,,,,,,,0,,34014,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,69594,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,449,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,586,Pakistan,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,33,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,69112,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,135945,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1129,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,126763,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,6807,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,395,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,851,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,115104,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,239,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,83,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,83047,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,699,India,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,10281,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3098,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,386,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,818,Egypt,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,17940,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,31,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5109,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,560,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4462,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,87,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,187,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,166,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,21,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,28,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,28,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,73322,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,432,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,10989,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,56531,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,5152,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,217,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,487967,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,370,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,17243,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,95,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,251,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,233,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,409567,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,97,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,51323,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6536,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2251,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,123402,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,25785,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,14,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,89815,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,757,Switzerland,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,140,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6842,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,116,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,690,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,26331,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,38,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1550,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1203,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,13413,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1072,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1425,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7630,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,35571,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,20596,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,372,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,36,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,11677,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2889,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,607,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,607,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2603,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2603,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,114085,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,119,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,54,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,108277,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,45,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,128,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,4261,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1203,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,30592,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,10606,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,6630,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,819,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,12512,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,25,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,50,Silk,,,,,,,0,,239,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,50,Silk,,,,,,,0,,239,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,19372,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,52,Cotton,,,,,,,0,,39,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,52,Cotton,,,,,,,0,,19334,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1089,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,54,Man-made filaments,,,,,,,0,,1089,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5019,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,222,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,4797,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,33124,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,9022,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6061,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,449,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,674,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,16918,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6394,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,431,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3961,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1885,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,757,Switzerland,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,110,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,15541,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,142,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1066,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1252,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,13080,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2888,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2427,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,220,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,241,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,769,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,769,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,51823,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,418,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,36720,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,208,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,14466,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,43783,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1195,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,955,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,119,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,233,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4987,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,25907,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,10387,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,319176,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8505,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,19396,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,651,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2419,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,26078,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,359,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,512,Oman,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,237,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,128,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,192595,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1619,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,757,Switzerland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,17,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,194,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,66977,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,37930,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,4945,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,19959,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,712,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,54,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,586,Pakistan,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,21,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3530,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,8026,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,682,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,5427,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,158,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,72,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2763,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,47,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,899,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1487,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,10334,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,10334,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,3936,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,63,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1936,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1936,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,60101,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,292,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,472,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,59337,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,87587,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,69,Ceramic products,,,,,,,0,,594,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,15471,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,69,Ceramic products,,,,,,,0,,5367,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,69,Ceramic products,,,,,,,0,,144,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,69,Ceramic products,,,,,,,0,,65121,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,0,,891,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,84907,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,70,Glass and glassware,,,,,,,0,,237,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,70,Glass and glassware,,,,,,,0,,237,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,70,Glass and glassware,,,,,,,0,,1023,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,70,Glass and glassware,,,,,,,0,,80175,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,70,Glass and glassware,,,,,,,0,,861,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,70,Glass and glassware,,,,,,,0,,614,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,1759,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,615,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,302,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,313,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,79442,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,72,Iron and steel,,,,,,,0,,3598,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,0,,75844,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,202731,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,73,Iron or steel articles,,,,,,,0,,123,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,36488,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,72,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,8741,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,73,Iron or steel articles,,,,,,,0,,112703,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,73,Iron or steel articles,,,,,,,0,,41,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,73,Iron or steel articles,,,,,,,0,,44218,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,87,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,258,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,11678,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,11678,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,56215,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,855,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1239,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6523,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,37050,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,765,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,7521,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,174,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2088,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,260,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,260,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,23806,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,23806,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,26758,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3027,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,215,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3584,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,18697,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,103,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,826,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,307,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,46969,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1052,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,45141,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,732,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,45,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,584375,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1701,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,35708,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2199,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1878,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,497901,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,25969,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,15641,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3378,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,748885,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2352,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,85530,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,594,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,962,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,141968,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,496408,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,710,South Africa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,733,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,201,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,757,Switzerland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12201,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,6023,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1901,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1174,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1174,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,964819,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1881,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7916,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,29592,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9309,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,189317,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,18,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,19224,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,522740,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,18378,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2607,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,757,Switzerland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7520,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,22864,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,46914,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,86458,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,83,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,44652,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,10545,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,26053,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,23,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,8031,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,4597,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,935,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3627,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,36,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1247,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1247,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,2477,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,2477,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,172537,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,19898,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,11868,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5367,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,71,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,121799,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,9446,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3494,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,594,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,64746,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,10975,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,197,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,41438,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,11633,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,502,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,31151,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,508,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1379,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,14,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,27401,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,367,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,469,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1011,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1018,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,360,Indonesia,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,197,,,0
+HS,2021,202111,November 2021,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,821,,,0

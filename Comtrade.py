@@ -22,14 +22,32 @@ class Comtrade:
         pass
 
     def get_reporting_totalRecords(self, parameters):
+        print('Making data availability request with parameters:')
+        print(parameters)
         response = self.__get(self.apiRequest, parameters)
+
+        if response.status_code !=  200:
+            print('Error, Stopping Requests')
+            print('Response Text:')
+            print(response.text)
+            exit()
+
         rText = response.text.encode().decode("utf-8-sig")
         r_list = json.loads(rText)
         # sorted_r_list = sorted(r_list, key=lambda d: d['TotalRecords'])
         return r_list
         
-    def getResponse(self, parameters):
-        return self.__get(self.apiResponse, parameters)
+    def getDataResponse(self, parameters):
+        print('Making data extraction request with parameters:')
+        print(parameters)
+        response = self.__get(self.apiResponse, parameters)
+
+        if response.status_code !=  200:
+            print('Error, Stopping Requests')
+            print('Response Text:')
+            print(response.text)
+            exit()
+        return response
 
     def getPartnerAreas(self):
         print("Retrieving list of partner areas")
@@ -56,7 +74,7 @@ class Comtrade:
     def __get(self, api, parameters):
         response = requests.get(api, params=parameters)
         print("Response with status:", response.status_code)
-        print(response.text)
+        # print(response.text)
         
 
         return response

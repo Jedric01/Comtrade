@@ -11,7 +11,7 @@ writer = Writer()
 
 # params for data availability
 availParams = {
-    "type": "C", 
+    'type': 'C',
     "freq": "M", 
     "px": "HS", 
 }
@@ -25,23 +25,13 @@ dataParams = {
     "ps": "2012",
     "px": "HS"
 }
+dataParams['type'] = availParams['type']
 
-# years = [str(year) for year in range(int(start_year), 2023)]
-# months = ["{:02d}".format(month) for month in range(int(start_month), 13)]
-# periods = []
-# for y in years:
-#     for m in months:
-#         periods.append(y+m)
-# writer.writeYearsAndMonths('Progress.txt', periods)
+# reset progress
+# writer.resetProgress()
 
+# read progress
 periods = writer.readYearsAndMonths('Progress.txt')
-
-
-# past 10 years
-# currentYear = dt.today().year
-# periods = [currentYear - i - 1 for i in range(11)]
-# periods.sort()
-# periodStr = (str(p) for p in periods)
 
 while len(periods) > 0:
     p = periods[0]
@@ -54,12 +44,14 @@ while len(periods) > 0:
         print('Total Records:', a['TotalRecords'])
         print(type(a))
         total_records = a['TotalRecords']
-        # check if total records is over limit
-        if total_records <= MAX_RESULT:
-            dataParams['ps'] = availParams['ps']
-            dataParams['r'] = a['r']
-            dataParams['p'] = 'all'
-            response = reqHandler.getResponse(dataParams)
-            writer.writeToCSV(response, p[:4], p[4:], a['rDesc'], "all", True)
+        # assign parameters
+        dataParams['ps'] = availParams['ps']
+        dataParams['r'] = a['r']
+        dataParams['p'] = 'all'
+        for rg in [1, 2]:
+            dataParams['rg'] = rg
+            response = reqHandler.getDataResponse(dataParams)
+            writer.writeToCSV(response, p[:4], p[4:], a['rDesc'], "all"
+                , top_level=writer.DATA_DIR_UNDER_10000, trade_type = dataParams['type'], rg = dataParams['rg'])
     del periods[0]
     writer.writeYearsAndMonths('Progress.txt', periods)

@@ -1,0 +1,721 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5301,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,51261,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,328,Guyana,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3051,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,403550,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,79035,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,80,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,99448,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,165374,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,25945,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,42871,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,72442,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,461,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,56,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,170,Colombia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3108,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,458,Malaysia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,104,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,19724,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,215660,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,19,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5497,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,16657,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,139,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,809,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4665,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,792,Turkey,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,44783,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,76,Brazil,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,38200,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2665,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,84,Belize,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,24460,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,218026,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1797,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,593205,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3635614,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1926,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,43422,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,214,Dominican Rep.,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1408,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,25,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,116334,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,57842,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,136,Cayman Isds,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,298514,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,15463,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3100679,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,662,Saint Lucia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,16912,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,500,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,428,Latvia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4986,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,6038,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,792,Turkey,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,10409,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,23286,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,748,Swaziland,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1245,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7753,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,28,Antigua and Barbuda,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,97,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,112167,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,410,Rep. of Korea,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4640,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,225853,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,458,Malaysia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1834,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,757,Switzerland,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1844,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1468,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,157,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,76570,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,495758,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,31,Fertilizers,,,,,,,0,,1936,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,31,Fertilizers,,,,,,,0,,13175,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,15111,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,28,Antigua and Barbuda,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,111,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,57106,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,384,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,254024,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,107,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,24823,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1391,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1467,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,91129,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,757,Switzerland,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,64703,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,792,Turkey,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,12804,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,11603,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,408,Dem. People's Rep. of Korea,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,257,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,52,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,63658,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,56,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,73028,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4559,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,37,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,278672,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,27344,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,927058,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,25675,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,142440,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,382152,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,67664,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3111,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,55751,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,208,Denmark,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,81362,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,76,Brazil,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,23352,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3462,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,126513,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,174,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,377641,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,87027,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,318163,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,212,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,748,Swaziland,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2701,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,757,Switzerland,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,15033,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,337443,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,278,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,8044,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,29411,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,722,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,237,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,271,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,192211,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,50,Silk,,,,,,,0,,1,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2900,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2900,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,765,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,92,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2979,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,46,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,19,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,187133,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,52548,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,257069,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4610,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4208,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,28,Antigua and Barbuda,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,37,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,410,Rep. of Korea,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4545,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,86,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,237,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7162,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,544,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,660,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,214,Dominican Rep.,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1334,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2696,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,6341,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,41833,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,845,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,37,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5670,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,116,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,26128,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,365935,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1835,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,132493,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,122277,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3379,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,79052,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,19079,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,179,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,13289,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,121,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,147,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,50506,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,28166,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1661,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1081,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,246,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,100,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1183,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,134,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1890,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6423,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,105320,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,92601,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,410,Rep. of Korea,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1710,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1505,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,458,Malaysia,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1109,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,8000,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,12324,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,463710,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,88,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,93,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,197070,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4933,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,188,Costa Rica,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,32488,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13724,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13681,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,201634,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1620,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1620,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,103,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,422,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,101,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,757,Switzerland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,80,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,662,Saint Lucia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5720,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1190,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3594,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2949,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,14571,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,315254,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,705,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6979,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,10,Cereals,,,,,,,0,,163,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,21963,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,10,Cereals,,,,,,,0,,5414,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,10,Cereals,,,,,,,0,,5287,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,328,Guyana,,,,,,,,,10,Cereals,,,,,,,0,,58473,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,91299,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4912,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,41884,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12585,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,232207,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,291588,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,188,Costa Rica,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2556,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,25792,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1250,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,80524,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,76,Brazil,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,17533,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,52,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,124465,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,74,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,439,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,316151,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,63466,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,35156,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,234,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,715750,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,325,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,96551,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1325,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,724,Spain,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3806,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,33729,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,364,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,76,Brazil,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,109,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,8697,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,800,Uganda,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3707,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11025,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1873,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5860,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,87,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,13919,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,95,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,76,Brazil,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,201,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,26832,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,11540,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,996,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,81,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,245,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,508,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,263,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,536,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,619,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,82,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1567,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,9593,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,531,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,11691,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3312,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,01,Animals; live,,,,,,,0,,25464,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,01,Animals; live,,,,,,,0,,3533,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,28997,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,37554,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,328,Guyana,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,843,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,49161,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,4354,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,579,Norway,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,86234,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,178147,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,12242,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7255,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,79249,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,216329,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,117584,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,27923,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1528,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,29451,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,5334,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,67584,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,24998,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,48,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,85689,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,207,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1963,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,28,Antigua and Barbuda,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,27439,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,213263,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,662,Saint Lucia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,147347,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,249497,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,214,Dominican Rep.,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,55946,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,135400,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,702,Singapore,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,950,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,20517,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1016503,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,328,Guyana,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,29576,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,130607,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,83666,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,20130,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,54418,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,66677,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,11582,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10191,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,102460,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,11358,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,52591,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,36778,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1733,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2516,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,99988,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1787,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,142,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,119624,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5079,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,356746,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1642,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,392,Japan,,,,,,,,,73,Iron or steel articles,,,,,,,0,,53,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1180,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,73,Iron or steel articles,,,,,,,0,,17927,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,408,Dem. People's Rep. of Korea,,,,,,,,,73,Iron or steel articles,,,,,,,0,,88,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1303,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,73,Iron or steel articles,,,,,,,0,,79318,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,724,Spain,,,,,,,,,73,Iron or steel articles,,,,,,,0,,179,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,0,,733,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,0,,27555,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,73,Iron or steel articles,,,,,,,0,,3137,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,73,Iron or steel articles,,,,,,,0,,1596,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2259,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,217031,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6531,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,0,,134,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,360664,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,46,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2556,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2440,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,71,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,28,Antigua and Barbuda,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,408,Dem. People's Rep. of Korea,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,19,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,192256,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,42536,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,410,Rep. of Korea,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,99,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2380,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,21140,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,21644,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,792,Turkey,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,463,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,240173,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,166915,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6001,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,28,Antigua and Barbuda,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,52840,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,87,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,84,Belize,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,227,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,18816,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,114947,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,295,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,12216,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,51,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,694143,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,752,Sweden,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2362,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3167,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,222,El Salvador,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,9348,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,292328,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1193,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,730,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,81,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1160,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,13467,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,483,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,555,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,555,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,973007,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,308,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,76,Brazil,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,87220,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,10753,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,855835,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,63,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,78,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,458,Malaysia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1117,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,100,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,340,Honduras,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,17396,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,14,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,124,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,35233,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,410,Rep. of Korea,,,,,,,,,54,Man-made filaments,,,,,,,0,,32124,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,54,Man-made filaments,,,,,,,0,,90,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,54,Man-made filaments,,,,,,,0,,3019,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,17,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,17,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,70,Glass and glassware,,,,,,,0,,31300,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,70,Glass and glassware,,,,,,,0,,15476,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,70,Glass and glassware,,,,,,,0,,122,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,70,Glass and glassware,,,,,,,0,,455,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,70,Glass and glassware,,,,,,,0,,40187,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,12679,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,70,Glass and glassware,,,,,,,0,,298,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,70,Glass and glassware,,,,,,,0,,3162,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,70,Glass and glassware,,,,,,,0,,32321,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,408,Dem. People's Rep. of Korea,,,,,,,,,70,Glass and glassware,,,,,,,0,,38,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,0,,310,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,139790,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,70,Glass and glassware,,,,,,,0,,1166,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,70,Glass and glassware,,,,,,,0,,63,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,458,Malaysia,,,,,,,,,70,Glass and glassware,,,,,,,0,,1619,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,70,Glass and glassware,,,,,,,0,,596,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,36,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5314,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,526,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,4648,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,104,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,260814,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,408,Dem. People's Rep. of Korea,,,,,,,,,72,Iron and steel,,,,,,,0,,48775,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,72,Iron and steel,,,,,,,0,,46,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,36,Australia,,,,,,,,,72,Iron and steel,,,,,,,0,,44926,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,72,Iron and steel,,,,,,,0,,46613,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,214,Dominican Rep.,,,,,,,,,72,Iron and steel,,,,,,,0,,120454,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,410,Rep. of Korea,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,519,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,519,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2205,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,9889,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,10593,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,87,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,146,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,88399,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,937,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2546,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,560,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,77,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,48412,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,84,Belize,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,217,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,773,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,11710,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,724,Spain,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,246,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,40,Austria,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,351,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,408,Dem. People's Rep. of Korea,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,37,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,662,Saint Lucia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,143,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,258,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,131,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,126356,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2461,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1530,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,440,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,392,Japan,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,114,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,161556,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,702,Singapore,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,11796,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,43,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,201,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,8299,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,214,Dominican Rep.,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,4323,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,392,Japan,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,214,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,315,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,187,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,8682,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,56,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,30409,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,20955,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3646,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,338,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,344,"China, Hong Kong SAR",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,342,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,410,Rep. of Korea,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,922,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,223,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5976,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,855,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,51577,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9053,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,792,Turkey,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,201,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,30020,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,80,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,66213,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,102,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,699,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,333,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,6411,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,9706,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,348,Hungary,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,547,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,702,Singapore,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2785,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,10,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1870,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2890,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,18029,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,296,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,20012,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,11,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,151112,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,858,Uruguay,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,78469,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,19358,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2423,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,64654,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,35237,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,662,Saint Lucia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3836,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,11052,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1602,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1637202,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1125070,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,113,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3503,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,50,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,28,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,246,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,792,Turkey,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,302,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,738,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,478,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,53,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,77,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6825,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,20,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,449,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,9187,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,74,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,80,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,27101,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1540,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,28795,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3866,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,8033,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,130,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,4037,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1074,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,516,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,503,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,56,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,26111,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,55173,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,757,Switzerland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,21166,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,20862,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1286,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,229,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,295,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,66,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,17457,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2600,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,17048,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,421,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,100,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,742,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,8297,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,214,Dominican Rep.,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12699,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,784,United Arab Emirates,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,23333,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,84,Belize,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,111,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,72762,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,344,"China, Hong Kong SAR",,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,10243,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,12963,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,292,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7411,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,78763,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2018,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2648,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,17,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,52,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,170,Colombia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,686,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,566,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,44981,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,870,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1579,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7381,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,214,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2860,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,702,Singapore,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,17172,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,800,Uganda,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,723,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,200,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5220,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,9894,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,410,Rep. of Korea,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,553,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,285315,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,45834,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,25931,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,433442,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,724,Spain,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,395,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,796,Turks and Caicos Isds,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,851,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,15147,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1265,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,724,Spain,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,13382,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5367,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5569,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1107976,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1376,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,836152,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,37538,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,21040,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,208,Denmark,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1639,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,261,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,28,Antigua and Barbuda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,512,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,13282,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4771,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,73281,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,408,Dem. People's Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,164,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,259,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,541,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,549,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,561503,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,55,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,408,Dem. People's Rep. of Korea,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,106,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2167,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,360,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,71,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4640,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,60,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,527650,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,13619,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,242,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,757,Switzerland,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4056,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,592,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2315,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3310,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,909,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,74,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,996,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,214303,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5664,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,880,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,40232,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,22,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,163994,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1687,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,241,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,98,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,320,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,46,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,48,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,294919,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1106125,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,489913,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,259036,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,784,United Arab Emirates,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,55102,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7077,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,79,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7727,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,64419,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,225,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5742,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,50726,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,18861,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,37,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,93079,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,170,Colombia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4568,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,16373,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,132932,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,670,Saint Vincent and the Grenadines,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,15,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,33281,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,37744,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,748,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,320,Guatemala,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3715,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,226044,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,425666,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,168,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,772709,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,38337,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,32183,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1490,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,214,Dominican Rep.,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,8789,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,170,Colombia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,12901,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,27131,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,45976,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,95166,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,39207,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,9921,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,62,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,29,Organic chemicals,,,,,,,0,,91627,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,52,Barbados,,,,,,,,,29,Organic chemicals,,,,,,,0,,1029,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,29,Organic chemicals,,,,,,,0,,1394,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,97280,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,29,Organic chemicals,,,,,,,0,,3204,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,29,Organic chemicals,,,,,,,0,,26,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,30079,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,32540,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,662,Saint Lucia,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2462,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,168,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,168,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,748,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,480,Mauritius,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,30,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,9397,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1256,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,276,Germany,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,227,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,846,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,944,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,344,"China, Hong Kong SAR",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,17370,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7326,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,47830,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,207,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,783,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,114,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,137,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,8443,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,9,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,52,Cotton,,,,,,,0,,9,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,706,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,706,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4308,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,42,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4266,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,69,Ceramic products,,,,,,,0,,97,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,69,Ceramic products,,,,,,,0,,249,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,69,Ceramic products,,,,,,,0,,551,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,699,India,,,,,,,,,69,Ceramic products,,,,,,,0,,10922,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,792,Turkey,,,,,,,,,69,Ceramic products,,,,,,,0,,5455,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,69,Ceramic products,,,,,,,0,,16210,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,118953,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,76,Brazil,,,,,,,,,69,Ceramic products,,,,,,,0,,21651,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,0,,52789,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,69,Ceramic products,,,,,,,0,,2860,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,6118,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,69,Ceramic products,,,,,,,0,,1417,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,69,Ceramic products,,,,,,,0,,633,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,74,Copper and articles thereof,,,,,,,0,,130,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,18236,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,10803,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,34869,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1896,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3048,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,756,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,484,Mexico,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,23662,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,531,Curaçao,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,67,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,631110,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,187539,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,70813,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,780,Trinidad and Tobago,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,799,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4248,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,862,Venezuela,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,200,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2275,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16276,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5194,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,28,Antigua and Barbuda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,73,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,124,Canada,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6201,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,293744,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16603,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3416,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,899,"Areas, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1536,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,388,Jamaica,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1018,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,21886,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,381,Italy,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2384,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,410,Rep. of Korea,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,21996,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,28,Antigua and Barbuda,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,140,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,528,Netherlands,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,252,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,591,Panama,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1556,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,76794,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,26026,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,842,United States of America,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,23,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,308,Grenada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,23,,,0

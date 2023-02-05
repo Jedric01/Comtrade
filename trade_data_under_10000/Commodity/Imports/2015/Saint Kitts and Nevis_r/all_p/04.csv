@@ -1,0 +1,827 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,586862,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,143112,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,342095,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,23919,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,69259,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,21340,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,275461,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,230392,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,203685,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,267216,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,379622,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,564881,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,578004,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,281393,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,134730,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,367072,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1324014,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,45588,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2537,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,14988,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,143181,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,91966,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,18730,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,109876,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,30994,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,285652,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,29560,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,261252,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,205524,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,265107,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,18007,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,91842,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,272656,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,657074,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,221582,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3071,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,99149,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,633833,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1057,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,610453,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,128226,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,10704,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,14959,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9995,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,474,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,81230,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,56984,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,162097,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,25318,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1140,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,261,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,36,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3976,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,764,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,43,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,588,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,797,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3733,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,8271,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,4880,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,8998,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,11385,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,121,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,10266,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1830,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4320,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,9771,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,24926,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,241,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,74436,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,838,Free Zones,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,270,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,45857,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,5955,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,116871,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,127246,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,109595,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,578129,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,296379,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,619468,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,221319,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,96,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,1139,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,67512,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,168227,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1957207,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4059160,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1360179,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,300234,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,210388,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,7321,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6686,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,420792,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,88746,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,51626,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,581,United States Minor Outlying Islands,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,37,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,757,Switzerland,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,35,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,757,Switzerland,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,93,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,203,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,29,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,365561,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,57123,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,23649,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,57273,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,16606,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,34151,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,38719,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,34009,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,146387,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,174455,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,415450,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,181526,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,74686,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,32988,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,13692,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,219844,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,34837,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,132480,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1691,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,49463,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,10147,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,8362,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2776,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,12236,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,8356,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,884,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1814,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3400,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2656,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,29,Organic chemicals,,,,,,,0,,563,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,30,Pharmaceutical products,,,,,,,0,,646,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6615,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,9342,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,799,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,65,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2317,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,85,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,163,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,417,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,830,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,842,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,489,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,69,Ceramic products,,,,,,,0,,2513,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,828,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,74,Copper and articles thereof,,,,,,,0,,480,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,10510,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1617,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,17517,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,5430,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,17914,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5340,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,8161,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6918,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6998,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2542,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,5306,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,43785,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2004,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1579,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,42,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,70,Glass and glassware,,,,,,,0,,2516,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,73,Iron or steel articles,,,,,,,0,,1660,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,14988,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,128131,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,74147,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3654,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,98601,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,24792,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,01,Animals; live,,,,,,,0,,2025,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8625,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,212,Dominica,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4208,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,500,Montserrat,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2468,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,555,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,660,Anguilla,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,93,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,148,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5471,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1092,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,01,Animals; live,,,,,,,0,,512,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2549,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4524,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10023,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,605,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,32,Argentina,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,363,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,32,Argentina,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,10,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,32,Argentina,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,48,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,32,Argentina,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,16,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,32,Argentina,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,134,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2239,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,6198,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,899,"Areas, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9215,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,581,United States Minor Outlying Islands,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,89,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,581,United States Minor Outlying Islands,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,71,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,581,United States Minor Outlying Islands,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,323,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,581,United States Minor Outlying Islands,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,931,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,838,Free Zones,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,463,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,838,Free Zones,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,494,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,838,Free Zones,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4116,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,838,Free Zones,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,143,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,838,Free Zones,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,400,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,838,Free Zones,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,99,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,838,Free Zones,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,31,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,510,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3416,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,757,Switzerland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,264,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,757,Switzerland,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,32938,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1060,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1273,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,64632,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7522,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,20517,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,48045,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,55950,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,10596,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,56,Belgium,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,28381,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,127977,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,76,Brazil,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,56,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,76,Brazil,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,25019,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,76,Brazil,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,57,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,84,Belize,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,16750,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,100,Bulgaria,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,36,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,51971,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,24725,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,65,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,452,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,573,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,10,Cereals,,,,,,,0,,60,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,40,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,349,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,190,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,232,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,632,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,88,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1168,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3946,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1376,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,262,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,,,,,,,0,,34208,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,490,"Other Asia, nes",,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,246,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,995711,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,324,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,581,United States Minor Outlying Islands,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,468,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,581,United States Minor Outlying Islands,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,192,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,581,United States Minor Outlying Islands,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1059,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,581,United States Minor Outlying Islands,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1635,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,581,United States Minor Outlying Islands,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,172,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,757,Switzerland,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,126,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,757,Switzerland,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2521,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,757,Switzerland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,813,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,757,Switzerland,,,,,,,,,73,Iron or steel articles,,,,,,,0,,81,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,838,Free Zones,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,37561,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2742,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3328,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,262,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,67851,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5702,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,93,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,7286,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,144,Sri Lanka,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,10,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,152,Chile,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,44,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,152,Chile,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,755,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,127,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,224,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,32,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,405,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1117,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,251,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,190,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,181,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,863,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1982,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,65,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,170,Colombia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,278,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,170,Colombia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,47306,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,170,Colombia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,181,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,188,Costa Rica,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2618,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,196,Cyprus,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,16015,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,208,Denmark,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,22327,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,208,Denmark,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,75,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,212,Dominica,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,313917,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,11507,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7467,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1446,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,218,Ecuador,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,68,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,20425,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,10,Cereals,,,,,,,0,,27,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,113,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,27,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1368,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,308,Grenada,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,103396,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,308,Grenada,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,39289,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,320,Guatemala,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,78,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,320,Guatemala,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,29340,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,320,Guatemala,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,297,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,328,Guyana,,,,,,,,,10,Cereals,,,,,,,0,,17403,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,328,Guyana,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,8528,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,328,Guyana,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1972,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,328,Guyana,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1407,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,328,Guyana,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4976,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,340,Honduras,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,26,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,21,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,376,Israel,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,14912,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,214,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,844,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,142,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,93,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,0,,300,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,248,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,29,Organic chemicals,,,,,,,0,,28772,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,78922,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,31,Fertilizers,,,,,,,0,,29560,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,177157,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,157080,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,162614,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,15336,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,54957,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,168545,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,497277,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,158099,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2172,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,88453,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,625209,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1057,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,407674,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,69814,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,52,Cotton,,,,,,,0,,10704,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9147,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,474,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,50678,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,250623,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,33321,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,52794,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,10528,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,5955,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,113043,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,69,Ceramic products,,,,,,,0,,52800,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,70,Glass and glassware,,,,,,,0,,103378,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,331539,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,72,Iron and steel,,,,,,,0,,49259,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,311921,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,31048,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,200427,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,96,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,893,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,53389,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,149581,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1762025,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,381,Italy,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,262,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,381,Italy,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,17,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,381,Italy,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,33,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,25617,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4596,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,861,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,7965,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7208,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,99757,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,484,Mexico,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,424,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,484,Mexico,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,224,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,484,Mexico,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,89,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,484,Mexico,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,18516,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,484,Mexico,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,16015,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,500,Montserrat,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,30345,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,504,Morocco,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,62,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,504,Morocco,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,64,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,13072,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,528,Netherlands,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18065,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,19,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,5077,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,554,New Zealand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,45,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1742,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2720545,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,415225,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,251103,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,168080,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,7321,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6686,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,349162,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,52233,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,42864,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,37256,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,718,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,54,Man-made filaments,,,,,,,0,,2718,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2776,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,11058,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,8951,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,6016,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,884,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,179,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3400,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2656,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,251,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,28,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,113,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,148,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,344,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,87,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,0,,99,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3893,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,183,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,20564,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,23,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,160,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,32,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,604,Peru,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,94399,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,604,Peru,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,34,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,604,Peru,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,194,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,604,Peru,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,54,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,604,Peru,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,608,Philippines,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,873,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,662,Saint Lucia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6770,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,662,Saint Lucia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,90920,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,582,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,12,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,105943,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,151345,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,701,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,44,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,619,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,99,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,73,Iron or steel articles,,,,,,,0,,769,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,20,Andorra,,,,,,,,,70,Glass and glassware,,,,,,,0,,46,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2417,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,542,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,63,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,14492,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,44,Bahamas,,,,,,,,,29,Organic chemicals,,,,,,,0,,314,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,75243,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2356,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1044,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,92,Br. Virgin Isds,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,225,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,92,Br. Virgin Isds,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,165,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7831,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,24,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,69,Ceramic products,,,,,,,0,,111,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,726,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,49166,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,33471,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,523,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1776,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,724,Spain,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,63,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,724,Spain,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,46,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,724,Spain,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,50,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,35,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,724,Spain,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,48,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,740,Suriname,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,34941,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,748,Swaziland,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,26,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,752,Sweden,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,20659,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,0,,228,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,764,Thailand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,40,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,764,Thailand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,659,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,764,Thailand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,81,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,4285,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,6936,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,59207,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,28221,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,41193,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,29351,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,68197,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,40542,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,434,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,65658,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,336,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,189000,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5992,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3787,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,344,"China, Hong Kong SAR",,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,115,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,460,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,31,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,345,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,70,Glass and glassware,,,,,,,0,,2652,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1055,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,21878,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,10336,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6873,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7125,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,660,Anguilla,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,113,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,662,Saint Lucia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,896,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,662,Saint Lucia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,59,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,662,Saint Lucia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,152,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,662,Saint Lucia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,23966,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1280,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1343,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,92257,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,26350,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,70,Glass and glassware,,,,,,,0,,90,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,22057,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,114,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,800,Uganda,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,65045,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6703,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,967,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,588,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,0,,30044,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,502,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,23297,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2794,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,23,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,44,Bahamas,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,434,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,212,Dominica,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,60,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,15,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,44,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,23,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2499,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1648,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,99,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,199,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,230,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,155,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,208,Denmark,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3145,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,340,Honduras,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,21,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,762,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,344,"China, Hong Kong SAR",,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1174,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1474,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,952,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,636,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,122,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,586,Pakistan,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,516,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,48,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,277,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,17261,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,704,Viet Nam,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,847,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,752,Sweden,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,114,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,768,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3424,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4417,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,5050,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,344,"China, Hong Kong SAR",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1207,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,555,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,458,Malaysia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,9403,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,484,Mexico,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2711,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,662,Saint Lucia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,90,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,764,Thailand,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,624,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,4,Afghanistan,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,6219,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,56,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3621,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,8,Albania,,,,,,,,,72,Iron and steel,,,,,,,0,,30,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,20,Andorra,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,135,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,14519,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,860,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,72,Iron and steel,,,,,,,0,,80490,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6617,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,595,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,32,Argentina,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2641,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,32,Argentina,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2999,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,36,Australia,,,,,,,,,72,Iron and steel,,,,,,,0,,930,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,44,Bahamas,,,,,,,,,73,Iron or steel articles,,,,,,,0,,33722,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,44,Bahamas,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1504,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,29,Organic chemicals,,,,,,,0,,69,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,52164,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1480,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,61881,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,135,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,534,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,25661,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,73,Iron or steel articles,,,,,,,0,,145462,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,414,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,307,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,162,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,56,Belgium,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,89,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,76,Brazil,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,273,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,76,Brazil,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2944,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,76,Brazil,,,,,,,,,69,Ceramic products,,,,,,,0,,12384,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,92,Br. Virgin Isds,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1489,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,100,Bulgaria,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,265,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,100,Bulgaria,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,106,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,100,Bulgaria,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,94,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,100,Bulgaria,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,212,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,29,Organic chemicals,,,,,,,0,,857,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,11710,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,120,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,208,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,56,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9619,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6561,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,394,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,180871,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,73,Iron or steel articles,,,,,,,0,,3609,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13223,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2097,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,9632,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,219,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,14027,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7341,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,873,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,285,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1754,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,772,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11628,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1287,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4866,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,645,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2946,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,0,,373,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,242,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2340,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,4376,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,41261,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,733,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,990,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,1181,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,424,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6651,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2767,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3548,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6478,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1917,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2902,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3898,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1099,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,170,Colombia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2427,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,170,Colombia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2436,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,170,Colombia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,169,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,170,Colombia,,,,,,,,,70,Glass and glassware,,,,,,,0,,78,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,170,Colombia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,137,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,188,Costa Rica,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,11356,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,188,Costa Rica,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1769,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,188,Costa Rica,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3178,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,208,Denmark,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,242,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,212,Dominica,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,210,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,212,Dominica,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,123,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6292,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,57403,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,814,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,30,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,79,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,72,Iron and steel,,,,,,,0,,114609,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,73,Iron or steel articles,,,,,,,0,,18108,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,11,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,133,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,214,Dominican Rep.,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,62,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,218,Ecuador,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,277,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,218,Ecuador,,,,,,,,,69,Ceramic products,,,,,,,0,,12893,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,218,Ecuador,,,,,,,,,73,Iron or steel articles,,,,,,,0,,490,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,218,Ecuador,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2104,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,222,El Salvador,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,582,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1575,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1560,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,851,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3957,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1117,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,276,Germany,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,244,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,320,Guatemala,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,17,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,340,Honduras,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,370,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,344,"China, Hong Kong SAR",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,56577,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,348,Hungary,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,690,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,700,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,265,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4097,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1807,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,54,Man-made filaments,,,,,,,0,,5271,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,12903,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2937,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,70,Glass and glassware,,,,,,,0,,198,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,492,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,32,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,519,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,436,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2839,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,360,Indonesia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1231,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,372,Ireland,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,191,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,381,Italy,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4547,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,381,Italy,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5035,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,20869,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,16323,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,14516,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2821,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,350,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,229,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,13932,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,10452,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,416,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4023,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1842,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1777,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,257,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7977,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,506674,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,392,Japan,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2743,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,410,Rep. of Korea,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,24,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,410,Rep. of Korea,,,,,,,,,73,Iron or steel articles,,,,,,,0,,92,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,239890,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,458,Malaysia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3308,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,102,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,458,Malaysia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,676,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,458,Malaysia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,203,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,484,Mexico,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,192,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,484,Mexico,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2886,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,484,Mexico,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,146,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,651,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,528,Netherlands,,,,,,,,,69,Ceramic products,,,,,,,0,,45137,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2581,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,728,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,759,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,91,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,11669,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,16486,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3488,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,69,Ceramic products,,,,,,,0,,227,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,73,Iron or steel articles,,,,,,,0,,245,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,265,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,531,Curaçao,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1967,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,554,New Zealand,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,72,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,554,New Zealand,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,106,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1918,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4025,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,645,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,447,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,70,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9480,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,3819,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,583,FS Micronesia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,399,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,586,Pakistan,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,446,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,29,Organic chemicals,,,,,,,0,,139,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,228,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,917,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,106,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,14,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,14,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,397,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,232,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1531,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,968,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,55346,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,916,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,73,Iron or steel articles,,,,,,,0,,69,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,591,Panama,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,99,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,604,Peru,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,126,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,604,Peru,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,125,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,604,Peru,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,53,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,604,Peru,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1805,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,616,Poland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,14939,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,662,Saint Lucia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,222,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,662,Saint Lucia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,713,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,662,Saint Lucia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6103,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2430,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1482,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,5580,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,19608,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,8223,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,229,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,25,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,737,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,72,Iron and steel,,,,,,,0,,50588,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,73,Iron or steel articles,,,,,,,0,,12199,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3131,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,7608,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,271,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,22,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,8033,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,670,Saint Vincent and the Grenadines,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,65478,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,704,Viet Nam,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,18,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,704,Viet Nam,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,441,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,704,Viet Nam,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,11380,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,724,Spain,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,900,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,752,Sweden,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,36820,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,61,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,764,Thailand,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2448,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,68040,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,764,Thailand,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,424,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,29,Organic chemicals,,,,,,,0,,246,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1245,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,11115,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2342,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,62270,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,18195,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,26675,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,848,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3277,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,953,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1408,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,73,Iron or steel articles,,,,,,,0,,3802,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,794,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,4908,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,32414,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3565,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,29761,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,788,Tunisia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21036,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,792,Turkey,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,5162,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,792,Turkey,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2033,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,29,Organic chemicals,,,,,,,0,,35,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,37,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,4541,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4676,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1089757,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,780,Trinidad and Tobago,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,10598,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,792,Turkey,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,25,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,792,Turkey,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,23,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,28619,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,17461,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,34924,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9753,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,430,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7353,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1348,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,35660,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3408,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,17921,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2261,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,58,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6792,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,43462,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,9429,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,95,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,21720,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,62,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,193,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,72,Iron and steel,,,,,,,0,,472,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,369,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,377,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,225,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,40265,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,33688,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,826,United Kingdom,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1644,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,862,Venezuela,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1019,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,124,Canada,,,,,,,,,74,Copper and articles thereof,,,,,,,,,21318,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,388,Jamaica,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,381,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,325138,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,62013,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,48,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,510,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,48,,,0
+HS,2015,201504,April 2015,2,0,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,510,,,0

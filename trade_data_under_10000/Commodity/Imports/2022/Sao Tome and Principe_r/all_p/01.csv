@@ -1,0 +1,435 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3299,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,01,Animals; live,,,,,,,0,,3299,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,308838,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,26634,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,54222,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,103066,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,28012,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,43901,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,53003,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,5154,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,5154,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,132323,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,713,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1195,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,32566,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,97848,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,81,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,81,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,259071,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,13632,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,26958,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,221,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,218257,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,20648,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,46,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,186,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,20416,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3955,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3955,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,368300,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,76,Brazil,,,,,,,,,10,Cereals,,,,,,,0,,57199,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,10,Cereals,,,,,,,0,,48042,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,10,Cereals,,,,,,,0,,3624,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,392,Japan,,,,,,,,,10,Cereals,,,,,,,0,,133315,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,10,Cereals,,,,,,,0,,6,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,10,Cereals,,,,,,,0,,5273,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,699,India,,,,,,,,,10,Cereals,,,,,,,0,,120842,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,402720,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,148,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,258959,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,143613,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2837,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2082,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,754,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,235843,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,47,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,164005,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,60583,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,11208,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,102177,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1661,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3520,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,80245,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,16751,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,31429,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1199,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,23936,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6294,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,30638,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1035,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,27784,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1819,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,235047,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1957,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5569,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,121,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4362,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,114245,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,108789,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,151519,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,26230,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6520,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1537,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,87820,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10219,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,19194,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,114161,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,70,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,151,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1289,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5894,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7756,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,67915,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31086,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,674923,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,26951,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,67,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,237,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,32718,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4900,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,575994,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,34050,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,145993,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,145993,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,10476,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6390,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4070,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,16,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,640442,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,433834,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,157871,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,48737,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3965942,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2475842,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,14358,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,23657,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1450838,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1247,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,65098,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,698,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,64400,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1634,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,29,Organic chemicals,,,,,,,0,,1634,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,69581,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,40890,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,28691,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3228,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,31,Fertilizers,,,,,,,0,,3228,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,75733,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,272,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,191,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,73235,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1141,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,894,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,41178,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,139,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2556,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,748,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,34751,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1477,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,953,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,553,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,139880,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,83,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,672,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,130218,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,670,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,8238,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5073,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,63,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3847,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1163,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3442,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,23,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3419,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,127838,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,42440,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,11681,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,342,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,73304,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,71,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,264576,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,106788,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,860,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,30,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,223,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,920,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1356,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,148227,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,429,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5121,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,617,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,141343,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,40669,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,529,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,15098,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1932,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,74155,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2631,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6200,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,120,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,25641,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,348,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,13975,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,454,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,9093,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1292,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,479,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,8098,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,744,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,296,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,7059,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,377,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,377,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,119028,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3486,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,15,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,668,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,114859,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,172869,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,875,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,186,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,163981,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7778,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,49,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,739,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,26,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,52,Cotton,,,,,,,0,,232,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,52,Cotton,,,,,,,0,,75,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,52,Cotton,,,,,,,0,,406,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,370,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,54,Man-made filaments,,,,,,,0,,15,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,54,Man-made filaments,,,,,,,0,,5,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,54,Man-made filaments,,,,,,,0,,349,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,301,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,228,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,73,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,79161,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,117,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2443,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,8131,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,68456,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,14,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3962,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,17,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3942,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,875,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,290,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,586,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,412,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,308,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,46,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,27,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,31,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,48582,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1266,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,13550,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,22708,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,11058,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,14932,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,8014,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2925,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2980,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1013,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,342084,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4992,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2356,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2556,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,253,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1153,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,13990,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,69188,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,458,Malaysia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,152740,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,57,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,54279,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7011,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,33466,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,37,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,899,"Areas, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,9,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,96775,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,19086,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,49594,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,51,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,9,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,18204,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,6419,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3411,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,12392,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,5372,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6686,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,334,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4279,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3118,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1161,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,18963,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1810,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,16039,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,953,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,160,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,16620,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1143,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15477,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,123064,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,69,Ceramic products,,,,,,,0,,55,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,32544,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,69,Ceramic products,,,,,,,0,,1813,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,69,Ceramic products,,,,,,,0,,167,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,69,Ceramic products,,,,,,,0,,49472,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,0,,37244,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,0,,1770,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,35643,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,70,Glass and glassware,,,,,,,0,,892,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,15117,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,70,Glass and glassware,,,,,,,0,,209,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,70,Glass and glassware,,,,,,,0,,15,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,70,Glass and glassware,,,,,,,0,,88,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,70,Glass and glassware,,,,,,,0,,15233,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,4089,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,328,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,328,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,32513,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,72,Iron and steel,,,,,,,0,,1279,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,0,,31233,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,295548,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,85300,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,73,Iron or steel articles,,,,,,,0,,534,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,73,Iron or steel articles,,,,,,,0,,45,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,73,Iron or steel articles,,,,,,,0,,256,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1185,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,73,Iron or steel articles,,,,,,,0,,115,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,73,Iron or steel articles,,,,,,,0,,152504,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,73,Iron or steel articles,,,,,,,0,,54094,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1060,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,455,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7442,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,15,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7183,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,244,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,71520,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6375,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,511,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,185,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,63369,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1079,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1265,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1265,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,18367,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,6055,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,12311,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,6181,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,93,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1860,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,90,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,21,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3708,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,364,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,44,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,93401,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,44287,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3120,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,15,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,77,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,45512,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,390,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,596017,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,963,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,119658,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4434,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,135325,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,383,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,860,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2884,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,89,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2108,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,316343,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7410,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3273,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,796,Turks and Caicos Isds,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,157,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2131,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,667502,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4809,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,34374,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2050,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,130687,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,225,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,101,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,69,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,422,Lebanon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5826,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,735,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,379857,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1721,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,14320,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,274,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,92455,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,941826,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,33798,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,124281,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2105,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,11045,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,10992,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,348765,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,348,Hungary,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16067,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,381,Italy,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4136,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,13949,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5245,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,279432,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,22136,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,724,Spain,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3701,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,22373,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7402,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2585,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,19789,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,14025,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,14,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,14,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,44203,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1721,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,19685,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,82,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,72,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,19352,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,710,South Africa,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2761,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,530,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2365,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1563,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,802,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,810,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,461,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,349,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,623,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,623,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,88531,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,20119,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,9866,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,178,Congo,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4229,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,226,Equatorial Guinea,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,7,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,799,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,586,Pakistan,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,85,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,52487,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,768,Togo,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,84,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,142,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,713,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,12966,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,233,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2407,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,266,Gabon,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,19,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,528,Netherlands,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,23,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,304,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,9093,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,888,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,32603,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,24,Angola,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,398,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2094,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,562,Niger,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,349,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,28791,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,971,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,692,,,0
+HS,2022,202201,January 2022,2,0,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,692,,,0

@@ -1,0 +1,554 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,18147,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,01,Animals; live,,,,,,,,,18147,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,2111854,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,186,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,30564,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,628406,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,1452698,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,99176,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,40052,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,59124,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,770878,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,178704,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,324,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,5174,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,4414,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,455169,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,127093,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,2071,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,2071,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,1246,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,1246,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,229005,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,17,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,220382,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,8607,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,98419,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,48535,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,49884,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,62445,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,81,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,9783,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,5276,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,17175,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,15233,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,598,Papua New Guinea,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,13033,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1865,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,10,Cereals,,,,,,,,,404369,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,10,Cereals,,,,,,,,,159914,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,10,Cereals,,,,,,,,,683,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,10,Cereals,,,,,,,,,3480,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,10,Cereals,,,,,,,,,4099,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,,,236193,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,517296,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,100128,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,405,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,283629,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,51566,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,1519,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,11676,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,54651,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,13721,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,19982,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,5482,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,8607,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,1432,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,776,Tonga,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,2192,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,2269,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,6197,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,6197,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,235124,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,12,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,1846,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,9429,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,68550,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,111883,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,38575,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,4828,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,411014,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,62,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,160838,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,1977,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,21695,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,226443,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,734777,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,127023,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,94231,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,458,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,22003,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,136665,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,22101,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,58615,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,82281,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,191400,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,14423,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,1121,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,6809,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,3871,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,2621,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,737916,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,402,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,19748,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,170882,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,134841,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,94157,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,408,Dem. People's Rep. of Korea,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,26784,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,75563,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,85737,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,608,Philippines,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,39351,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,1894,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,23857,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,64702,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,143912,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,833,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,6088,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,729,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,2235,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,408,Dem. People's Rep. of Korea,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,827,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,86436,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,608,Philippines,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,28473,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,18291,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,385284,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,14679,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,37981,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,22675,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,7660,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,157988,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,13522,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,130778,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,248460,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,13532,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,124,Canada,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,113,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,72989,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,372,Ireland,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,1168,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,388,Jamaica,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,626,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,42172,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,3873,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,113989,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,134461,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,15414,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,114039,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,5008,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,160188,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,1029,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,110993,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,354,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,47813,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,509183,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,3,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,24891,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,9389,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,457467,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,5597,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,4974,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,6862,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,10884271,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,124993,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,121116,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,130886,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,10482910,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,24365,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,223735,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,2330,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,14592,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,5425,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,20416,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,180971,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,20207,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,29,Organic chemicals,,,,,,,,,1505,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,29,Organic chemicals,,,,,,,,,6791,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,29,Organic chemicals,,,,,,,,,11911,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,353824,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,118116,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,30,Pharmaceutical products,,,,,,,,,12794,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1930,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,10067,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,30,Pharmaceutical products,,,,,,,,,207589,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,,,3327,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,1784,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,31,Fertilizers,,,,,,,,,1784,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,120022,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,14974,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,78,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,531,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,8769,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,23263,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,776,Tonga,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,46606,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,25800,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,457618,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,62,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,270424,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,121406,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,480,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,27061,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,18118,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,7075,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,12993,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,508830,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,18,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,133913,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,813,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,63835,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,189543,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,31841,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,88866,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,29630,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1406,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,50,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,5163,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,22325,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,776,Tonga,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,454,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,233,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,4056,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,15,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,4041,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,48111,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,7025,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,385,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,723,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,2911,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,37066,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,118856,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,71600,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,117,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,2932,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,16173,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,28034,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1291692,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,32,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,66331,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,148725,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,3970,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,139,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,39,Plastics and articles thereof,,,,,,,,,31084,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,753,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,436002,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,7829,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,,,18074,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,528,Netherlands,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,14957,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,298144,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,12183,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,757,Switzerland,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,171,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,140325,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,112973,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,250041,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,9716,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,125037,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,2535,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,40,Rubber and articles thereof,,,,,,,,,3054,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,51179,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,,,31337,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,19478,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,47,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,2853,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,4806,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,31625,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,508,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,22904,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1632,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,141,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,5610,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,830,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,837649,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,25692,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,176412,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,66974,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,431716,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,43444,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,92770,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,641,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,8309,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,45,Cork and articles of cork,,,,,,,,,8300,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,45,Cork and articles of cork,,,,,,,,,9,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,265,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,265,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,388914,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,127,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,36800,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,124,Canada,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,5,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,52294,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,38433,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,68,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,1292,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,119894,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,73818,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,66184,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,540308,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,14643,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,124,Canada,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,0,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,35876,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,12,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,18,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,2229,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,443680,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,287,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,4320,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,39245,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,52,Cotton,,,,,,,,,63724,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,52,Cotton,,,,,,,,,144,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,52,Cotton,,,,,,,,,56754,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,52,Cotton,,,,,,,,,6825,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,31383,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,,,25563,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,54,Man-made filaments,,,,,,,,,5820,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,256152,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,,,126615,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,55,Man-made staple fibres,,,,,,,,,7206,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,55,Man-made staple fibres,,,,,,,,,35374,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,55,Man-made staple fibres,,,,,,,,,86957,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,3638,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,707,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,1315,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,1594,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,22,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1166,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,629,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,536,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,14712,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,13566,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1145,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,1813,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,59,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,1754,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,55528,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,920,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,1869,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,4911,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,15707,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,10153,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,6744,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,274,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,8464,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,843,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,5642,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,409493,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,3471,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,2831,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,46912,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,54588,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,294446,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,56,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,389,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,16,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,5676,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1109,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,141262,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,8512,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,7133,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,7370,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,116523,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,150,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,238,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,1336,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,48231,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,1908,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,8608,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,927,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,3571,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,849,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,15722,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,11176,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,5468,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,3393,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,2095,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,484,Mexico,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,30,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,377,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,891,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,320,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,56,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,6,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,258,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,4470,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,4470,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,91842,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,11938,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,17299,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,27638,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,17009,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,16084,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1874,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,75495,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,69,Ceramic products,,,,,,,,,3300,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,69,Ceramic products,,,,,,,,,28713,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,69,Ceramic products,,,,,,,,,11,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,69,Ceramic products,,,,,,,,,16532,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,69,Ceramic products,,,,,,,,,17864,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,69,Ceramic products,,,,,,,,,9076,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,361216,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,70,Glass and glassware,,,,,,,,,5384,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,70,Glass and glassware,,,,,,,,,2713,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,,,18857,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,70,Glass and glassware,,,,,,,,,765,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,70,Glass and glassware,,,,,,,,,134073,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,70,Glass and glassware,,,,,,,,,199423,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,2840,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,661,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,743,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,259,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1177,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,614961,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,72,Iron and steel,,,,,,,,,1036,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,72,Iron and steel,,,,,,,,,9622,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,72,Iron and steel,,,,,,,,,116329,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,,,,,,,,,94715,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,72,Iron and steel,,,,,,,,,358237,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,72,Iron and steel,,,,,,,,,34730,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,72,Iron and steel,,,,,,,,,292,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,674674,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,73,Iron or steel articles,,,,,,,,,7664,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,,,46877,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,,,211593,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,73,Iron or steel articles,,,,,,,,,42856,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,,,308,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,73,Iron or steel articles,,,,,,,,,2531,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,73,Iron or steel articles,,,,,,,,,205675,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,,,,,,,,,1,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,540,New Caledonia,,,,,,,,,73,Iron or steel articles,,,,,,,,,174,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,73,Iron or steel articles,,,,,,,,,136332,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,,,20662,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,3523,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,74,Copper and articles thereof,,,,,,,,,1673,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,,,406,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,74,Copper and articles thereof,,,,,,,,,106,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,74,Copper and articles thereof,,,,,,,,,1217,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,74,Copper and articles thereof,,,,,,,,,120,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,135498,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,62,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,5761,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,83657,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,24112,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,6756,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,15149,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,77,,,,,,,,,,2124,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,77,,,,,,,,,,427,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,77,,,,,,,,,,309,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,372,Ireland,,,,,,,,,77,,,,,,,,,,427,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,77,,,,,,,,,,747,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,77,,,,,,,,,,214,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,18697,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,78,Lead and articles thereof,,,,,,,,,18697,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,13372,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,80,Tin; articles thereof,,,,,,,,,13372,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,160416,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,73153,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,40373,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,996,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,456,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,90,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,41850,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,3498,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,60870,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,42016,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,1644,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,370,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,16481,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,359,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1256182,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,368618,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,93535,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,13587,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1998,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,26193,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,75606,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,75,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,33214,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,386,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,9424,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,569536,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,598,Papua New Guinea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2610,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,757,Switzerland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,535,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,14387,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,16082,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,30395,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1324782,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,251126,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,135717,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,71871,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,300212,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,13062,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,36,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,73383,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1572,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,239468,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,598,Papua New Guinea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2437,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,88,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,752,Sweden,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,173892,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1175,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,387,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,60355,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,732575,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,61000,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4477,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,2894,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,192,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,372,Ireland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,855,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,331494,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,408,Dem. People's Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,61077,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,57580,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,598,Papua New Guinea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,538,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1760,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,188309,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,22398,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,126031,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,13624,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,112408,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,72537,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,15723,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,56814,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,542731,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,255476,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,949,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,473,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,268,Georgia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,374,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,66,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,376,Israel,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,27,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,153,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,51,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,285049,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,112,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,5840,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,124,Canada,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3490,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,881,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,74,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1395,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,2686,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,711,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1975,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,10677,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,10677,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,322388,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,214,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,51323,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,111137,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,20889,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,16600,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,430,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,17815,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,82605,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,1713,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,19662,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,42080,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,8231,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,2824,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,488,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,2871,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,14573,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,586,Pakistan,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1466,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,11628,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,271523,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,28,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,33983,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,124,Canada,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,44,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,49595,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,20389,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,59861,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,38539,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,381,Italy,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,44,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,2592,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,32560,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,23872,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,10014,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,2436,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,26,,,0
+HS,2014,201401,January 2014,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,2410,,,0

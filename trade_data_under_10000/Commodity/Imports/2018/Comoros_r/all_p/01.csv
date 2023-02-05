@@ -1,0 +1,513 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,7536,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1477848,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,63271,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,436296,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,54248,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2354,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,328948,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1681,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,92,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,184371,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,2128,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,342251,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,34671,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,121883,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,272267,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,99747,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,446619,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,75479,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,176198,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1367380,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,109377,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4056,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,28659,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,400498,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,18298,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,103647,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,38371,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,53496,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2651,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,30322,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,178,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4051,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,201784,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,93286,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,152948,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,415,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,40048,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,158309,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2576,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,751,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,79267,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,26,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,620,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1351,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,595,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,8271,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,10914,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1385,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,68404,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,117709,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,566,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2846,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,383,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,527,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,604213,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,20182,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,71883,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,316752,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15309,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,89302,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,12270,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2479779,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,87669,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,10,Cereals,,,,,,,0,,446,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,435,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,97000,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,54973,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,346,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1169,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2034,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,84610,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1133,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2297,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,393,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,861,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3718,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,8758,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,19520,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,16377,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,38343,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,56975,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,11,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1338,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,29,Organic chemicals,,,,,,,0,,11,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,105479,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,269,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1642,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2376,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,48,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,187,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6479,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,26805,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,14657,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,11372,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,156150,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,26,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,334,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,26,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,128,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8780,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,303,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5796,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,936,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2095,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,26,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,69,Ceramic products,,,,,,,0,,15932,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,0,,180,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,72,Iron and steel,,,,,,,0,,61688,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4428,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,28821,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,69,Ceramic products,,,,,,,0,,8923,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,167455,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,47373,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,10,Cereals,,,,,,,0,,58518,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,13257,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,11100,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,56417,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,142724,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,11700,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,285,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,52,Cotton,,,,,,,0,,69322,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,54,Man-made filaments,,,,,,,0,,496,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,16591,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2637,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3396,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,72,Iron and steel,,,,,,,0,,22477,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1051,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,39507,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,899,"Areas, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5967,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,9471,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9240,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,69,Ceramic products,,,,,,,0,,64,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,186,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,64382,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,276,Germany,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,66455,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,72683,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,32,Argentina,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,199657,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,724,Spain,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,563775,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,103899,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,381,Italy,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,103036,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,724,Spain,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,32923,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,29630,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,159026,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,702,Singapore,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,32103,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,62772,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,20,Andorra,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,414,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,512,Oman,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,18159,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,125,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,397,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,0,,2353072,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,10,Cereals,,,,,,,0,,74,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,586,Pakistan,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,20177,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,27765,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,399,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,796,Turks and Caicos Isds,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,10223,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,44845,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,53,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,93485,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,21564,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,22878,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20872,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,528,Netherlands,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,26680,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,117468,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,764,Thailand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,80722,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,170,Colombia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,20783,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,443,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,792,Turkey,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,10850,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,512,Oman,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6856,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,15609,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,50,Bangladesh,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,19433,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,619,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,100,Bulgaria,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12609,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,25504,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,11121,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,51480,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,50,Bangladesh,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12243,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,724,Spain,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12078,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5349,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,15853,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2912,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,333,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,76,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,109111,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4033,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5342,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9749,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,276,Germany,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,28883,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,359,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,704,Viet Nam,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8645,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,12757,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,729,Sudan,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,22031,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,440,Lithuania,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,24344,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,404,Kenya,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,151005,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,646797,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,586,Pakistan,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,565410,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,290,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,404,Kenya,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5269,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,31,Fertilizers,,,,,,,0,,25,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,31,Fertilizers,,,,,,,0,,12498,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,7865,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,504,Morocco,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,26549,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,130,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,562,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,15982,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,149,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,31,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,30322,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,19615,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,541,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,702,Singapore,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,15087,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,74,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,404,Kenya,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,264,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,469,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,694,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,15800,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,43,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,404,Kenya,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,59,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,198,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1355,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,248,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,167,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,85,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,634,Qatar,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,66,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,478,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,686,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1886,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,404,Kenya,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,422,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,37,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,13,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,166,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,102,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,404,Kenya,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,132,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,69,Ceramic products,,,,,,,0,,886,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,69,Ceramic products,,,,,,,0,,1433,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,70,Glass and glassware,,,,,,,0,,37,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,586,Pakistan,,,,,,,,,72,Iron and steel,,,,,,,0,,21191,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,0,,228628,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,73,Iron or steel articles,,,,,,,0,,37,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,117523,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20759,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1735,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,34729,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,61747,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,24609,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,310,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,80806,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,13525,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,260,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2718,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1621,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,878,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,65,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,52,Cotton,,,,,,,0,,991,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,10494,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,580,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3832,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,268,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,620,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,30046,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,383,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1425,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1021,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1502,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,0,,2122,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5075,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2376,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,268,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,178,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,45048,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9263,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,12430,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,69274,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,149,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3463,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,50,Silk,,,,,,,0,,149,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,1214,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,471,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,616,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,248,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,124,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,22067,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,46366,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4689,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,70718,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,186,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,458,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,35,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,178510,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,4483,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,152615,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,46990,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,01,Animals; live,,,,,,,0,,3756,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,718,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,783,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,33967,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,125,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,21,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,496,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,40,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,42,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,12362,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,105,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1213,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5092,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2409,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,597,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,56554,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,132,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,15875,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,277988,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,177608,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,190,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,450160,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,7854,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1495333,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1585,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,372,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6174,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,17187,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,574446,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,16200,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1342,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1585,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,19628,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,401,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,53,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,75775,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,66,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,12200,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1167,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,303,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2145,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,295,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1798,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,70,Glass and glassware,,,,,,,0,,803,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,73,Iron or steel articles,,,,,,,0,,120,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,01,Animals; live,,,,,,,0,,3780,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,692,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,354,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4998,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,53,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,237,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3650,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,204,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6488,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,134,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,19711,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,849,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,36167,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,6991,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,10,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,61128,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,44029,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,563407,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4035,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,34958,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,977,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1266,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,130,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,335,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1866,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,699,India,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1128,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,302,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,56352,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1028,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4954,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7389,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,24931,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2254,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1159,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,149,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,186,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,29,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,99,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,191,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,9807,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1760,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1262,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,90347,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,185,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,204,Benin,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3908,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1492,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,903,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,678,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,682,Saudi Arabia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,79168,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,56,Belgium,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1242,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,710,South Africa,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,12758,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,292,Gibraltar,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,34986,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,887,Yemen,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,14871,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,265765,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,36,Australia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5544,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1131,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,682,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,458,Malaysia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,15451,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,96,Brunei Darussalam,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,117,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,818,Egypt,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,42606,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,74,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,480,Mauritius,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,193,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,297,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,14843,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3489,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,104001,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,351798,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,103804,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,11084,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,110613,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2156,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,92869,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5088,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,31,Fertilizers,,,,,,,0,,5775,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,53,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,4829,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,168,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1280,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,23302,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,653,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5002,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1245,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,31,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2015,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,92,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,52,Cotton,,,,,,,0,,3557,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1351,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,26,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,428,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7924,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,25036,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,12249,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,132,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,149,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,70,Glass and glassware,,,,,,,0,,11,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,79,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,73,Iron or steel articles,,,,,,,0,,108,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,79266,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,149,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1060,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,0,,67668,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5151,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2279,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,57359,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,19659,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,59923,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,85169,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2314,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,218344,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7436,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3774,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,99851,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1206,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,29,Organic chemicals,,,,,,,0,,26526,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,50181,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,22734,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,20402,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,6463,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,53,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1217,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,37239,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1792,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,450,Madagascar,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,94,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,62,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,132,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,281,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,26,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4112,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,545,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2437,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,22440,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,568,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,834,United Rep. of Tanzania,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,423,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,597,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,21657,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,10198,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,7000,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2304,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2585,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,102483,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,41405,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1516,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,39078,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,235,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,21111,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,392,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,50,Silk,,,,,,,0,,2428,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,751,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,52,Cotton,,,,,,,0,,4182,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,54,Man-made filaments,,,,,,,0,,124,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,124,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6907,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,119,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,705,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2778,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,9800,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,26068,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,27944,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,248,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,294,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,234,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,466,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,0,,111005,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,9795,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,72,Iron and steel,,,,,,,0,,117614,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,36383,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,597,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,251,France,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,517,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,123063,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,50,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,494204,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,74,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,102525,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2286,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,23749,,,0
+HS,2018,201801,January 2018,2,0,1,Imports,174,Comoros,,784,United Arab Emirates,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,59,,,0

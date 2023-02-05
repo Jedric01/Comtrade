@@ -1,0 +1,97 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,5212,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,01,Animals; live,,,,,,,,,256,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,242,Fiji,,,,,,,,,01,Animals; live,,,,,,,,,3934,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,586,Pakistan,,,,,,,,,01,Animals; live,,,,,,,,,275,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,842,United States of America,,,,,,,,,01,Animals; live,,,,,,,,,746,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,5445088,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,115,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,156,China,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,1234,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,619370,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,381,Italy,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,3894074,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,392,Japan,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,465376,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,704,Viet Nam,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,80159,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,724,Spain,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,222087,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,764,Thailand,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,162673,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,42262,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,26,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,704,Viet Nam,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,42236,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,20062,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,242,Fiji,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,320,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,296,Kiribati,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,103,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,18949,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,540,New Caledonia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,691,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,720478,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,156,China,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,37742,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,251,France,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,41005,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,608,Philippines,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,629429,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,704,Viet Nam,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,12302,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,593744,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,27820,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,211922,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,354001,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,492348,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,242,Fiji,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,399821,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,296,Kiribati,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,39343,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,53184,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,883276,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,458,Malaysia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,883276,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,23362,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,296,Kiribati,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,23362,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,136916,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,3948,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,125258,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,554,New Zealand,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,7711,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,221,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,221,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,2819,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,2819,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1833,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1833,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,23874266,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,68457,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,50,Bangladesh,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,593344,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,20567781,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,242,Fiji,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,15281,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,360,Indonesia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,18382,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,303389,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,458,Malaysia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,23622,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,1047880,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,540,New Caledonia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,16215,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,554,New Zealand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,147476,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,608,Philippines,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,49575,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,699,India,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,1022864,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,3948,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,3948,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,203,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,242,Fiji,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,203,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,317671,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,666,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,236761,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,64071,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,792,Turkey,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,2153,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,796,Turks and Caicos Isds,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,14020,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,26130,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,72,Iron and steel,,,,,,,,,3491,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,458,Malaysia,,,,,,,,,72,Iron and steel,,,,,,,,,22639,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,21,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,,,21,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,10261,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,6665,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,3596,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,4546,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,4546,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,41341,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,39698,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,458,Malaysia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,710,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,932,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,23328,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,5940,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,242,Fiji,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,17250,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,548,Vanuatu,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,138,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,667,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,667,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,22,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,22,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,641,,,0
+HS,2015,201503,March 2015,2,0,2,Exports,90,Solomon Isds,,36,Australia,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,641,,,0

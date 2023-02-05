@@ -1,0 +1,807 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,36,Australia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,15359,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,192,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,546,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,36,Australia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,155,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1619,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,8725,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,39159,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,82,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,2442,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,19219,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,43940,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,74256,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,11062,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4862,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24206,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3731,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,689,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,69,Ceramic products,,,,,,,0,,3460,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,70,Glass and glassware,,,,,,,0,,391,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,124,Canada,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,612,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,124,Canada,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,42126,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,0,,15850,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,45,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,5531,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,71066,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,69500,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1234,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,477,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,38,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,77149,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,46590,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,341503,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,385722,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,12605,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,36280,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,86878,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1022991,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,380,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,29927,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,339,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,52,Cotton,,,,,,,0,,1101,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2465982,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,259,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,120706,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,535576,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,3813,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,334,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7150,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7335,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,64030,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,123373,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,329,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,816,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1469,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1881,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,648,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20896,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,419399,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,46433,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,269,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2712,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,16988,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1129,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,0,,10846,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2448,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,5465,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,384,Côte d'Ivoire,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,22,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,384,Côte d'Ivoire,,,,,,,,,52,Cotton,,,,,,,0,,696,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,197,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9597,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3405,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,288404,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,29,Organic chemicals,,,,,,,0,,3088,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,85651,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6019,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,49203,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,98435,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1230,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,471,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,70,Glass and glassware,,,,,,,0,,9793,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,73,Iron or steel articles,,,,,,,0,,329810,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,8547,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,466,Mali,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,111,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,504,Morocco,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,49936,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2027,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,980,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1979,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,69,Ceramic products,,,,,,,0,,865,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,70,Glass and glassware,,,,,,,0,,285,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,27145,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,10652,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,647,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,608,Philippines,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,41076,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,616,Poland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9943,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,10,Cereals,,,,,,,0,,1021666,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,70,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,602,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,53910,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,32,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,16507,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4418,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5271,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,151,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,52,Cotton,,,,,,,0,,108,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2125,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,70,Glass and glassware,,,,,,,0,,818,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,652,Saint-Barthélemy,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,47,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,686,Senegal,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,194,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,686,Senegal,,,,,,,,,52,Cotton,,,,,,,0,,2828,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,686,Senegal,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,392,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,686,Senegal,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,472,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2555840,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,606,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,32789,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,54,Man-made filaments,,,,,,,0,,108274,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,25,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,69,Ceramic products,,,,,,,0,,15739,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,78,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,462,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,81856,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2709,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,748,Swaziland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,11368,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,752,Sweden,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,8974,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,6,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,25,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1542,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,12720,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3502,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,3852,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,335,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,278123,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,788,Tunisia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,13506,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,788,Tunisia,,,,,,,,,70,Glass and glassware,,,,,,,0,,672,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,796,Turks and Caicos Isds,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5392,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,796,Turks and Caicos Isds,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,32,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,24932,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4962,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1974,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,31272,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6645,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3482,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5628,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2705,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,25912,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1038,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,95,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,269,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,11536,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,777,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,69,Ceramic products,,,,,,,0,,2833,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,519,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,28825,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18097,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,79,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,680281,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,207,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,9,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,69,Ceramic products,,,,,,,0,,19,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,150496,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,582,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1591,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,9586,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,26198,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1194,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,51962,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,89,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,20867,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,11,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,72,Iron and steel,,,,,,,0,,102140,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,169,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,36,Australia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,16,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,56,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,67404,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3532,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,852,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1257,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,10121,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,70,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,25117,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6496,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,17,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2913,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,10855,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3695,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,16919,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1389,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1598,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,101,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,122,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,23,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6114,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,90820,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,134,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,28385,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,698,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,10,Cereals,,,,,,,0,,118071,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,9,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,103,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6089374,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3727,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1221,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,92,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,471,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12942,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,495274,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,9,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,166,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,57904,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,586,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2924,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,21900,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,157,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4036,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,788,Tunisia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3361,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,50935,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5564,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,889,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,672,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4762,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,562,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,152396,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,113,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,8464,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,52,Cotton,,,,,,,0,,4914,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,54,Man-made filaments,,,,,,,0,,251,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,143,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1502,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,70,Glass and glassware,,,,,,,0,,208,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,68,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,73,Iron or steel articles,,,,,,,0,,300766,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,43143,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,11307,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,267090,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,16,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,553,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,15,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,210,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4542,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,454,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,12801,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,923,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1139,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,11,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,19,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,271,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1558,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,379,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,280,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,574,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2948,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,181774,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,262,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,164,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1076,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,23,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1663,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3384,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,0,,263142,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,25558,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,97650,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,282891,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,704,Viet Nam,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,80507,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,54466,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,57,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,23,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,101,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,152,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2662,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,135490,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3045,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,18621,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,0,,27483,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,150,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,10123,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2090,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,9186,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,35638,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,115499,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,22102,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,54,Man-made filaments,,,,,,,0,,361,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,181,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,88898,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,43,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2339,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4300,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1145,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,253541,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,410,Rep. of Korea,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1170783,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,466,Mali,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,721,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,504,Morocco,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,43089,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,504,Morocco,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,308,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,512,Oman,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,603,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,36274,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,21080,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,11952,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,14391,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16112,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,0,,23219,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,140,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,70,Glass and glassware,,,,,,,0,,140,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,73,Iron or steel articles,,,,,,,0,,70,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,104,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,77666,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,165,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,23,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5053,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,82,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,662,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,813,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,10484,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1742,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,682,Saudi Arabia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3947856,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,686,Senegal,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3755,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,686,Senegal,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,124,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,10,Cereals,,,,,,,0,,349059,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,6781,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,360,Indonesia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,199,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,360,Indonesia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2066,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,364,Iran,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,27,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,10,Cereals,,,,,,,0,,472,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,277414,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,13,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,215,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,10,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,269,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,45930,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,69,Ceramic products,,,,,,,0,,140,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,70,Glass and glassware,,,,,,,0,,161,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,296,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,844,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,160826,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,12958,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,55205,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,21627,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,8020,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,85265,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1552,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1666,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,72018,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,69,Ceramic products,,,,,,,0,,11149,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1657,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,72,Iron and steel,,,,,,,0,,2395,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,215090,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,88,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,20989,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,29,Organic chemicals,,,,,,,0,,73200,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,19936,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2892,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,76,Brazil,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,32509,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,124,Canada,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,23429,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,124,Canada,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,34655,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,178,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,132,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,21009,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,758,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,141,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,160329,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,208570,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,2759,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,41512,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,15979,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,65,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,137,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,74,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1038,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,248861,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,31192,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,342066,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,12629,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,77107,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,104,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4429,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3567,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,47,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,485,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,251,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,652,Saint-Barthélemy,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,124,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,491,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11335,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4244,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,420,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,492,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,51,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,9286,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3674,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,50609,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,6134,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,278725,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,55825,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,100228,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,318,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6348,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2434,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,142448,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,36,Australia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,40,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,36,Australia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,10,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,40,Austria,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,21437,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,40,Austria,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,882,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,48,Bahrain,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,142,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,50,Bangladesh,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,18951,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1185,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,266,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,10,Cereals,,,,,,,0,,123,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,38441,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4935,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6825,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,152189,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26279,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8449,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1013612,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,44081,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,139507,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,340115,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,303931,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,590681,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,7557737,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,13154,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,4655,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,562503,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,547,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,234,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,11084,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,283901,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,114141,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,135,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,2011,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,24198,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1141036,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5282,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,206,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,135850,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,8094,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1758,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,435330,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,804,Ukraine,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,34126,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,15707,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,34430,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,26818,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,69,Ceramic products,,,,,,,0,,61883,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,43936,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6642,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,266,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,10,Cereals,,,,,,,0,,1646993,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,171386,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,24167,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7218,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,527404,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,32853,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,29,Organic chemicals,,,,,,,0,,477,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,19536,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,52,Cotton,,,,,,,0,,2525,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,18872,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2514034,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4170,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,69,Ceramic products,,,,,,,0,,13291,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,73,Iron or steel articles,,,,,,,0,,31613,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7005,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,788,Tunisia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,753,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,788,Tunisia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,220,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,788,Tunisia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4903,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,130381,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,796,Turks and Caicos Isds,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,246,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4169,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1111,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,19524,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,31431,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,153083,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,79636,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,36612,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,231,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,686,Senegal,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,369,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1778,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,18919,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,183788,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,704,Viet Nam,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,29084,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,117203,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,45390,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,209436,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,44,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,716,Zimbabwe,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,223,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,772,Tokelau,,,,,,,,,72,Iron and steel,,,,,,,0,,16453,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,740,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,439,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,0,,30,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,168700,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,11276,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3007,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,36731,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,83335,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,70,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,52,Cotton,,,,,,,0,,2794,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,10968,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1373,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,443,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8037,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,466,Mali,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,118,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,466,Mali,,,,,,,,,52,Cotton,,,,,,,0,,8115,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,466,Mali,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5870,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,480,Mauritius,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7195,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,480,Mauritius,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,92533,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,512,Oman,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,508,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5397,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,138275,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,60896,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4963,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,8419,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,34281,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,799,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,634,Qatar,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,187,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,7689,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1529,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,464,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1347,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,449,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1608,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,72,Iron and steel,,,,,,,0,,167242,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,73,Iron or steel articles,,,,,,,0,,20306,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,217,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,29,Organic chemicals,,,,,,,0,,33947,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,61491,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,496,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,386,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,80126,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,360,Indonesia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,100,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,360,Indonesia,,,,,,,,,52,Cotton,,,,,,,0,,21107,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,348656,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,832798,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1898643,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1675,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,23001,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,4655,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,21239,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,24158,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,40026,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,72,Iron and steel,,,,,,,0,,487321,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,25439,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,108685,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,10,Cereals,,,,,,,0,,189,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,64,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5205,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,20417,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,363,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4808,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4104,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,50249,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,10976,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,201,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,21416,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,221607,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2067,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2545,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2487,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,47,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5015,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,178002,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,124,Canada,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,24,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,10,Cereals,,,,,,,0,,1800830,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,11119,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,101320,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,278219,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,9610,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,0,,3544,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,31113,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,425,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,136617,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,19537,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1258,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,70748,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,161022,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,20,Andorra,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,20,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,40,Austria,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3186,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,52,Barbados,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,15467,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,766,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4020,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,278647,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,13540,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,111,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5461,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,39831,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6298746,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8641,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,131850,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,960171,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,170430,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,591586,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,30844,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,163101,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3939839,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,12752,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1660,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,702,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2540074,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1072,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,447192,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,74641,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,504,Morocco,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,37728,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,16979,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,18800,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,528,Netherlands,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2577,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,10154,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,586,Pakistan,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3741,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,591,Panama,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,729,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,616,Poland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,37514,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,642,Romania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12036,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,196,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,140,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,643,Russian Federation,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2736,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,74,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,29,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,565,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2574,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,392,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,54,Man-made filaments,,,,,,,0,,40,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,69,Ceramic products,,,,,,,0,,1264,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,646,Rwanda,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,157,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,894,Zambia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,23,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3242,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,47951,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,145575,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,56038,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,17489,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1174,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3355,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,40314,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,46,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,70,Glass and glassware,,,,,,,0,,14965,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,3925,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,834,United Rep. of Tanzania,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,20409,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,50,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,599,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,13,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,64468,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,20,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,171,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1814,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,39281,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,818,Egypt,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,49687,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,146,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,15303,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,57787,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,788,Tunisia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,15886,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3460,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,28,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,0,,220459,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,125,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,315,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,98090,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,590681,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2210,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,29,Organic chemicals,,,,,,,0,,5287,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,149343,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,47272,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,8,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2917,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,21647,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,273863,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,95741,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,2299,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,72,Iron and steel,,,,,,,0,,1020294,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,800,Uganda,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,443,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1174,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5291,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1075,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1070,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10036,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,0,,6528,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,72,Iron and steel,,,,,,,0,,308719,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,14,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3350,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,209267,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,686,Senegal,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,251,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,686,Senegal,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,20281,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,47678,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3109604,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,142426,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,81079,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,119041,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,21,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,699,India,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,16,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4427,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,10,Cereals,,,,,,,0,,157184,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,95,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3838,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,710,South Africa,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,534,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,724,Spain,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,17373,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,752,Sweden,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1171,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,757,Switzerland,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,10328,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,764,Thailand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,50682,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,7916,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,114,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,55,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,122,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,22,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1875,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,15964,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1118,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,784,United Arab Emirates,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,135,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,344,"China, Hong Kong SAR",,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,11942,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,32292,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,360,Indonesia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,56,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,795,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,2118,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,424,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4547,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,661,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,381,Italy,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3028,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,303,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4616,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,392,Japan,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,8124,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,171039,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,13869,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,42858,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,125297,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,10751,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,460388,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,335,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,52,Cotton,,,,,,,0,,15676,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,9010,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5870,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,404,Kenya,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1072,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,76,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,180,Dem.Rep. of the Congo,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4757,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,58989,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,28525,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,208,Denmark,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,56734,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,685,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,89714,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,49505,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,268,Georgia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,146,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,10,Cereals,,,,,,,0,,492988,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,95359,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,70,Glass and glassware,,,,,,,0,,1996,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,73096,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,76,Brazil,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9374,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,120,Cameroon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2721,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,124,Canada,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4977,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,115,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,59,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,8974,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2296,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,185810,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2384,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,161189,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,101,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,10,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,50,Bangladesh,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,61745,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,01,Animals; live,,,,,,,0,,81,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,31792,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2070,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,42839,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,34441,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,613,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,106493,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,946,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,72,Iron and steel,,,,,,,0,,2663,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4097,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,14788,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,97841,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,622208,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,56,Belgium,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,303227,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,81,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1185,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,70630,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,45302,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6247,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,47326,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1425918,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1101418,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,160372,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,137,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,150721,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,362,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,120054,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,357874,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1858,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2340291,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1037679,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,125758,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,282205,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,203213,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3369653,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,434514,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7940517,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,94163,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,963731,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,458179,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1665513,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,5638308,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,735065,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3357,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,68838,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,112471,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1653,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,29410,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,502892,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,219091,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,7896,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,17142,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,135,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,108,Burundi,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,30696,,,0

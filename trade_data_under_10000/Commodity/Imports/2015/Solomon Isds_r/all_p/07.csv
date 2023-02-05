@@ -1,0 +1,756 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,1116411,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,880403,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,852,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,548,Vanuatu,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,131304,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,103852,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,19357,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,6051,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,13230,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,76,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,398452,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,86095,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,23616,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,39840,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,1103,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,4183,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,219510,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,24104,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,81,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,81,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,115500,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,56226,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,769,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,245,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,2,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,58258,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,67769,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,30730,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,279,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,24,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,2248,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,34481,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,8,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,264008,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,67775,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,104,Myanmar,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,24502,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,61879,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,118,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,8047,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,613,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,418,Lao People's Dem. Rep.,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,708,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,25715,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,4216,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,39159,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,31151,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,804,Ukraine,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,125,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,10,Cereals,,,,,,,,,5178042,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,10,Cereals,,,,,,,,,5137483,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,10,Cereals,,,,,,,,,459,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,10,Cereals,,,,,,,,,11,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,10,Cereals,,,,,,,,,120,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,10,Cereals,,,,,,,,,57,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,704,Viet Nam,,,,,,,,,10,Cereals,,,,,,,,,39911,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,353200,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,315595,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,662,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,17059,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,861,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,23,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,19000,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,45349,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,63,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,31,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,188,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,12,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,9590,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,699,India,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,35464,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,8562,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,500,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,8063,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,183069,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,2940,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,200,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,375,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,112447,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,29295,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,17990,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,19823,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,434705,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,46527,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,122922,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,90998,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,151,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,650,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,608,Philippines,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,59939,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,456,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,113060,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,416651,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,39774,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,1295,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,17775,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,49345,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,4573,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,234325,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,69565,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,42775,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,18799,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,297,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,23679,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,1219896,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,26568,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,232368,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,419159,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,18311,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,141966,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,149,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,65,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,418,Lao People's Dem. Rep.,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,5861,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,74009,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,32229,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,168934,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,608,Philippines,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,6171,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,94106,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,108577,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,45838,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,34403,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,1959,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,2784,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,20207,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,3219,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,699,India,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,62,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,105,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,263721,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,73229,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,86956,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,32150,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,10452,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,1972,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,2440,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,303,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,4992,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,4216,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,18016,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,992,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,349,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,27653,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,2400939,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,2005858,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,40,Austria,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,2497,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,116,Cambodia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,11927,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,465,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,328,Guyana,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,59,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,4116,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,22936,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,372,Ireland,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,806,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,388,Jamaica,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,370,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,409,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,1019,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,98631,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,484,Mexico,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,2963,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,57954,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,570,Niue,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,132,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,116522,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,608,Philippines,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,7059,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,643,Russian Federation,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,664,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,20511,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,752,Sweden,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,3158,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,31092,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,11795,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,202765,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,59420,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,23006,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,13297,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,107042,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,1444426,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,1127243,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,141514,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,175669,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,313590,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,16077,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,969,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,75256,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,8547,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,617,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,24,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,2556,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,107059,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,699,India,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,16926,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,704,Viet Nam,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,73705,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,11853,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,701,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,26,"Ores, slag and ash",,,,,,,,,701,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2039704,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,169301,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,37739,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1026,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1127,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,50853,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2524,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1777134,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,120122,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,51247,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,10446,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,310,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,89,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,3471,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,998,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,7910,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,45650,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,153123,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,29,Organic chemicals,,,,,,,,,1159,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,,,50,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,29,Organic chemicals,,,,,,,,,39520,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,29,Organic chemicals,,,,,,,,,14797,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,29,Organic chemicals,,,,,,,,,26,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,29,Organic chemicals,,,,,,,,,756,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,29,Organic chemicals,,,,,,,,,3153,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,29,Organic chemicals,,,,,,,,,46909,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,29,Organic chemicals,,,,,,,,,46753,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,265979,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,100490,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,,,820,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,30,Pharmaceutical products,,,,,,,,,41420,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,30,Pharmaceutical products,,,,,,,,,356,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,30,Pharmaceutical products,,,,,,,,,24,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,92,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,,,5508,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,548,Vanuatu,,,,,,,,,30,Pharmaceutical products,,,,,,,,,858,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1382,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,30,Pharmaceutical products,,,,,,,,,3197,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,,,86919,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,,,10752,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,,,14161,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,21753,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,31,Fertilizers,,,,,,,,,7135,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,31,Fertilizers,,,,,,,,,13217,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,31,Fertilizers,,,,,,,,,1402,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,345373,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,135599,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,19734,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,120343,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,16574,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,590,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,156,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,6488,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,76,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,516,Namibia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,18199,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,11412,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,1870,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,3996,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,10337,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,175779,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,119496,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,8376,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,25987,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,6409,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,8328,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,1,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,47,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,3084,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,404,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,22,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,49,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,3142,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,804,Ukraine,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,430,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,5,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,396868,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,64182,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,4516,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,10730,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1353,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,123925,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,666,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,97,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,160107,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1244,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,78,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,982,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,28329,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,659,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,47404,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,9859,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1886,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,3631,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,553,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,9542,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,4278,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,16193,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,13,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1451,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,16,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,16,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,19578,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,4628,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,14950,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,162029,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,70910,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,14558,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,27,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,2770,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,1219,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,941,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,65112,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,1265,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,1237,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,710,South Africa,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,3566,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,424,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,851952,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,96882,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,144,Sri Lanka,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,449,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,342778,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,56034,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,39,Plastics and articles thereof,,,,,,,,,64687,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,145,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,3248,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,5228,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,99117,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1444,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,528,Netherlands,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,14525,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,548,Vanuatu,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,8,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,67536,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1323,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1247,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,84491,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,757,Switzerland,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1682,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,9513,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,100,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1517,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,364047,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,24211,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,119134,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,333,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,157,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,3,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,40,Rubber and articles thereof,,,,,,,,,7433,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,591,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,381,Italy,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,624,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,52079,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,1838,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,33486,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,,,72334,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,7590,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,40826,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,3208,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,58,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,142,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,38638,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,5391,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,21154,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,8778,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1018,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,50,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,2178,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,4,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,64,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,426009,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,177023,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,40,Austria,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,5,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,67880,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,7590,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,49,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,1828,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,68139,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,48316,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,699,India,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,17262,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,7,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,37910,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,3583,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,3433,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,150,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,290,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,290,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,534961,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,86464,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,111066,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,70901,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,18978,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,32430,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,49,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,220,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,15322,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,15217,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,56965,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,9750,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,699,India,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,38690,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,64723,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,704,Viet Nam,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,1178,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,13007,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1697554,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,201689,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,104,Myanmar,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,40,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,967,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,276747,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,110,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,5302,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,186,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,20955,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1309,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,53,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1190196,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,1909,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,1909,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,52,Cotton,,,,,,,,,36798,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,52,Cotton,,,,,,,,,3598,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,52,Cotton,,,,,,,,,3851,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,52,Cotton,,,,,,,,,86,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,52,Cotton,,,,,,,,,29188,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,52,Cotton,,,,,,,,,75,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,5777,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,54,Man-made filaments,,,,,,,,,1875,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,,,3901,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,153,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,,,153,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,35583,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,2047,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,23702,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,2,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,842,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,5433,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,1199,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,1523,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,69,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,768,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,63748,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,14654,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,32013,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1741,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,15340,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,5567,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1490,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,3716,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,172,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,182,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,882,Samoa,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,8,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,18264,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,4527,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,7432,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,275,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,1299,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,388,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,114,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,2268,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,1961,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,774,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,382,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,392,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,85234,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,2610,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,34270,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,1741,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,10243,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,160,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,390,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,35819,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,78869,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,10734,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,25627,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,6565,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,9724,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,2598,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,14679,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,7187,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,505,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,900,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,351,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,463291,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,335010,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,50,Bangladesh,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,29370,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,28220,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,24038,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,75,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,6171,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,130,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,4597,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,11819,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,699,India,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,20891,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,2971,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,99817,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,27335,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,38463,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,3217,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,5695,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,210,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,46,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,657,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,14,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,9717,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,699,India,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,13857,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,606,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,4322,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,1696,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,1074,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,6,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,65,Headgear and parts thereof,,,,,,,,,1330,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,3,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,212,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,9658,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,817,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,4231,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,4579,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,31,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,825,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,638,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,187,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,43494,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,5479,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,7419,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,3116,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,381,Italy,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1998,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,201,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,13815,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,257,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,4783,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,44,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,3059,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,3324,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,100235,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,69,Ceramic products,,,,,,,,,21808,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,69,Ceramic products,,,,,,,,,16256,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,69,Ceramic products,,,,,,,,,11631,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,69,Ceramic products,,,,,,,,,18963,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,69,Ceramic products,,,,,,,,,31557,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,69,Ceramic products,,,,,,,,,19,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,75444,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,70,Glass and glassware,,,,,,,,,7362,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,,,3196,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,70,Glass and glassware,,,,,,,,,11056,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,70,Glass and glassware,,,,,,,,,994,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,70,Glass and glassware,,,,,,,,,453,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,70,Glass and glassware,,,,,,,,,1803,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,70,Glass and glassware,,,,,,,,,16637,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,70,Glass and glassware,,,,,,,,,32965,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,70,Glass and glassware,,,,,,,,,939,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,70,Glass and glassware,,,,,,,,,39,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1512,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,947,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,565,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,870291,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,72,Iron and steel,,,,,,,,,20394,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,72,Iron and steel,,,,,,,,,351902,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,72,Iron and steel,,,,,,,,,6195,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,72,Iron and steel,,,,,,,,,37184,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,72,Iron and steel,,,,,,,,,101077,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,72,Iron and steel,,,,,,,,,136677,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,72,Iron and steel,,,,,,,,,109,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,704,Viet Nam,,,,,,,,,72,Iron and steel,,,,,,,,,176136,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,72,Iron and steel,,,,,,,,,40616,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,1251155,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,,,244051,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,,,342418,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,73,Iron or steel articles,,,,,,,,,3707,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,,,147,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,73,Iron or steel articles,,,,,,,,,107199,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,73,Iron or steel articles,,,,,,,,,3060,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,,,32,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,73,Iron or steel articles,,,,,,,,,159895,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,73,Iron or steel articles,,,,,,,,,35,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,73,Iron or steel articles,,,,,,,,,148775,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,,,,,,,,,7075,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,73,Iron or steel articles,,,,,,,,,120706,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,73,Iron or steel articles,,,,,,,,,15513,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,73,Iron or steel articles,,,,,,,,,96455,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,704,Viet Nam,,,,,,,,,73,Iron or steel articles,,,,,,,,,920,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,,,1167,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,33784,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,74,Copper and articles thereof,,,,,,,,,9128,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,,,217,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,74,Copper and articles thereof,,,,,,,,,311,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,74,Copper and articles thereof,,,,,,,,,7,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,74,Copper and articles thereof,,,,,,,,,756,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,74,Copper and articles thereof,,,,,,,,,19305,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,74,Copper and articles thereof,,,,,,,,,55,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,74,Copper and articles thereof,,,,,,,,,4005,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,860947,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,31733,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,218693,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,3804,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,14832,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,521883,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,6353,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,63649,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,46,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,78,Lead and articles thereof,,,,,,,,,46,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,25297,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,25297,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,429786,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,99234,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,25770,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,182,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,276,Germany,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,115687,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,16163,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,10799,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,24,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,16378,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,2091,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,5272,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,11196,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,55586,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,70658,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,746,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,186736,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,36197,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,46463,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,445,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,15783,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,17753,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,4498,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,15027,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,148,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,26721,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,2622,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,20838,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,241,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,7684456,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1482789,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,40,Austria,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,198,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,363585,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,20182,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2679,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,139523,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,220025,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,206,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2296777,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,84,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,16019,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1568822,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,4071,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,504,Morocco,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,76679,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,618983,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,548,Vanuatu,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,101,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,294883,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,25436,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,608,Philippines,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2262,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,46,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,412640,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,705,Slovenia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,347,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,334,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,132575,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2823,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2386,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3041174,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,685768,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,467527,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,233,Estonia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,220,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6601,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,150398,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,148273,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,395,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,694465,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,759,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,10939,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,51028,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,498,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,528,Netherlands,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,145485,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,183320,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,39395,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,117512,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,705,Slovenia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,545,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,22959,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,315086,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,10137,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,1577,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,2597,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,5962,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4216925,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,403446,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,111889,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,51074,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,360,Indonesia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,147568,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,2472204,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,261408,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,329400,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,462,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,7946,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1975,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,137920,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,250067,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,804,Ukraine,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,54,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,6344,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,35168,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,177854,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,4896,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,918,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,172040,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,40072,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,23279,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,320,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,32,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,5856,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,5797,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,4788,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,347831,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,48986,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,10363,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,208,Denmark,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,6326,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,563,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,170,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,2591,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,431,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,2745,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,747,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,196,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,260445,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1789,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,3093,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1370,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,8017,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4868,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1227,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2287,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,126,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1229,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,20472,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,107,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,2913,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,189,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,17263,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,593780,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,180370,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,23890,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,233,Estonia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,157,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,116427,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,15816,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,845,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,781,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,410,Rep. of Korea,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,17889,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,25823,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,207736,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,33,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,3401,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,432,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,180,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,124248,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,35249,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,8488,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,184,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,23528,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,51389,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,30,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,3514,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,270,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1596,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,96952,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,10,Antarctica,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,320,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,43220,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,56,Belgium,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,74,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,37847,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,471,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,8455,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,392,Japan,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,341,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,408,Dem. People's Rep. of Korea,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,250,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,1078,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,967,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,5,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,2899,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,764,Thailand,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,1026,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,197,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,197,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,46199,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,25387,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,344,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,344,"China, Hong Kong SAR",,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,4489,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,458,Malaysia,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,171,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,554,New Zealand,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,3515,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,598,Papua New Guinea,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,11991,,,0
+HS,2015,201507,July 2015,2,0,1,Imports,90,Solomon Isds,,702,Singapore,,,,,,,,,99,Commodities not specified according to kind,,,,,,,,,303,,,0

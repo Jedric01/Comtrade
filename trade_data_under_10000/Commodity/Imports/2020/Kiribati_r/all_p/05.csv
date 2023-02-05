@@ -1,0 +1,503 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,604911,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,576936,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,23529,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1723,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,724,Spain,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2723,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,58654,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2115,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1606,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,53917,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,699,India,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1017,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,219967,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,166060,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,8,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5593,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,45745,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1459,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1102,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,106089,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,15058,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,218,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1972,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,21172,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,61836,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5833,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,29461,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,10498,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5555,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,13408,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,73550,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,60654,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,408,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11714,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,774,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,255207,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,10,Cereals,,,,,,,0,,88,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,10,Cereals,,,,,,,0,,251141,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,10,Cereals,,,,,,,0,,3978,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,137197,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,973,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,29,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,107089,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1573,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,19621,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7912,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,677685,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,404,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,21,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,202,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,548,Vanuatu,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,677057,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,6700,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,393,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,603,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4244,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,912,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,549,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,395141,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,108358,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,121272,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,31012,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,11665,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,28956,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,55,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,608,Philippines,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,52635,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,41187,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,34303,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,28910,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1810,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2044,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1539,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,102099,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,87525,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6907,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6784,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,883,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,527162,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,64876,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,104423,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,192224,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,31166,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1027,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,381,Italy,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3276,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,28306,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,24910,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,58188,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,12473,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6293,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,68425,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,44846,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2077,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7917,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,804,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1547,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,699,India,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10775,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,459,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,118487,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,36941,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,17881,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,33298,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6236,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2278,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,15,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,581,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,12023,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4367,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4869,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,292852,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,24220,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,90,Solomon Isds,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2741,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,30788,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,49472,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,375,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,23860,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,98,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,13462,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,46940,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,682,Saudi Arabia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1631,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,702,Singapore,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,50534,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,704,Viet Nam,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,12042,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,34976,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,792,Turkey,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,973,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,739,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,56480,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,26434,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,687,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,29359,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,275518,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,76,Brazil,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,34103,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,729,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,208,Denmark,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,239774,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,911,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,116270,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,314,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,9645,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,70903,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,30031,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,704,Viet Nam,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1677,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3700,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1624358,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1169,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,34439,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,145335,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,702,Singapore,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1443085,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,331,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2703,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,19,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2685,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3997,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3381,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,10,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,30,Pharmaceutical products,,,,,,,0,,322,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,16,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,268,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,34,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,31,Fertilizers,,,,,,,0,,34,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,62801,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,2193,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4524,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,11497,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,108,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,26743,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,17735,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,219555,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,192114,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,12202,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1752,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1830,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,9721,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,327,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1413,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,197,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,143516,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,30135,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,25726,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5521,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,79160,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1709,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,208,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,638,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,418,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2886,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1370,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,488,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,553,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,475,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,31,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,31,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,165,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,165,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,134200,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,43714,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,65009,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,11992,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,10128,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2150,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1146,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,61,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,198312,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6134,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,59443,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,49679,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,13962,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1629,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2672,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,34715,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11568,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,23,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,757,Switzerland,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5386,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,804,Ukraine,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,12580,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,519,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,78932,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,14154,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,18625,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4537,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,78,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,13800,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2981,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,685,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7490,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,757,Switzerland,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,16371,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,212,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,30633,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1036,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,19256,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1279,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7065,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1462,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,463,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,72,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,234989,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1077,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,887,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,77826,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1341,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,195,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,128,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,153535,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,107813,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,7808,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24987,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,63211,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1618,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,730,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,178,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,8908,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,374,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,8135,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2060,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,217,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2701,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3110,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,47,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,74359,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,916,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,52,Cotton,,,,,,,0,,38784,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,52,Cotton,,,,,,,0,,34,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,699,India,,,,,,,,,52,Cotton,,,,,,,0,,3227,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,702,Singapore,,,,,,,,,52,Cotton,,,,,,,0,,26121,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,52,Cotton,,,,,,,0,,5277,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,411,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,411,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,31297,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,54,Man-made filaments,,,,,,,0,,31297,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,59,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,59,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,432,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,195,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,81,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,39,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,117,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,463,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,206,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,257,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,198,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,177,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,21,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,20855,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1328,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,29,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,699,India,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,19497,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,28921,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,28921,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,44235,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6195,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,14459,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,12792,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3494,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5315,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1917,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,63,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,26192,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,437,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,22000,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1175,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2513,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,67,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,75159,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,28927,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,25710,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,15088,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,751,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,363,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1100,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3220,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,15898,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,991,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7344,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,680,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1935,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,2372,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,2086,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,489,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,8490,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,18,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2562,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,525,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2917,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1915,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,553,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2315,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,66,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2174,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,76,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1784,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,13,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,859,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,900,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,12,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,271026,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,269958,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,139,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,34,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,894,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,6362,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,69,Ceramic products,,,,,,,0,,446,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,3315,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,69,Ceramic products,,,,,,,0,,123,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,69,Ceramic products,,,,,,,0,,141,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,69,Ceramic products,,,,,,,0,,2337,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,7590,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,70,Glass and glassware,,,,,,,0,,4813,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,980,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,70,Glass and glassware,,,,,,,0,,586,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,70,Glass and glassware,,,,,,,0,,781,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,70,Glass and glassware,,,,,,,0,,428,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,70,Glass and glassware,,,,,,,0,,3,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,49,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,49,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,71929,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,72,Iron and steel,,,,,,,0,,33,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,5378,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,72,Iron and steel,,,,,,,0,,66268,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,72,Iron and steel,,,,,,,0,,251,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,232153,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4366,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,135348,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,73,Iron or steel articles,,,,,,,0,,24866,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,73,Iron or steel articles,,,,,,,0,,564,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,73,Iron or steel articles,,,,,,,0,,40409,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2252,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6607,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,,,,,,,0,,2461,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,73,Iron or steel articles,,,,,,,0,,9350,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,757,Switzerland,,,,,,,,,73,Iron or steel articles,,,,,,,0,,5701,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,228,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3127,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,154,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1632,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,35,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,804,Ukraine,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1306,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5648,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2010,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1169,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2215,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,57,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,119,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,79,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3007,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3007,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,39732,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3865,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,17020,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4019,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2284,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1502,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,873,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,382,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,744,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1661,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,6340,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,757,Switzerland,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,1043,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,32936,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,70,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,11032,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2643,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,187,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2231,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,56,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1965,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,7596,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,699,India,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,7055,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,100,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,879005,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,555621,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,140954,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,41421,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4829,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2484,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,72225,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9556,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5749,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,10760,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,23810,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,757,Switzerland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5873,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,804,Ukraine,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5461,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,262,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,406426,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,39346,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,220780,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,48321,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2256,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1827,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4531,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,20638,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,15684,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,804,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1637,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,20816,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,702,Singapore,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,20820,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,757,Switzerland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5404,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3563,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,616330,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,78959,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,217653,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2014,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1694,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,207116,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,103713,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3841,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,757,Switzerland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1340,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,2930,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1653,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,36,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1241,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,193178,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,7675,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,137690,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,41808,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,6005,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,151353,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,14155,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,120166,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,516,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,36,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,12875,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,2519,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,140,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,946,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1078,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,142,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,936,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,40486,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5367,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,35118,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,14,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,14,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,63750,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2422,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,26549,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12881,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,600,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1836,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,15,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,10579,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,757,Switzerland,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,8869,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,106974,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,784,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,39837,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,941,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,979,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,249,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2417,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,61512,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,255,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,187666,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,62204,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,93149,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,10437,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3325,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5100,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,6525,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1081,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,676,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3423,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1746,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,9810,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1010,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,425,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1865,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,6510,,,0

@@ -1,0 +1,959 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,5323125,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,336020,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,116,Cambodia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,1140,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,231471,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,203,Czech Rep.,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,1989,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,323,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,879660,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,27401,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,300,Greece,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,5,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,1252872,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,531,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,3301,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,151624,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,686,Senegal,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,1412198,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,152803,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,83926,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,2112,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,41917,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,818,Egypt,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,416574,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,327258,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,454423,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,31534,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,124,Canada,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,161,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,328,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,208,Denmark,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,42838,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,127835,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,213605,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,19010,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,11404,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,7708,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,184868,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,155938,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,21387,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,7543,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,2568364,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,1412,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,422522,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,2144287,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,143,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,4228591,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,846,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,2987,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,1423234,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,17085,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,293411,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,610358,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,686,Senegal,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,38451,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,30424,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,1750279,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,788,Tunisia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,56515,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,5002,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,14628421,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,48,Bahrain,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2139035,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,257239,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,447,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,21247,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,12975,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1425987,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,78737,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,373773,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,410,Rep. of Korea,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,626795,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,54837,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,274992,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,5488579,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,616,Poland,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,127374,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,682,Saudi Arabia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,406,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,686,Senegal,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,387274,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1521117,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,261420,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,39086,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1535597,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,533,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,972,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,791931,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,32,Argentina,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,10458,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,6569,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,51048,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,14647,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,22475,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,348,Hungary,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,200961,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,1184,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,410,Rep. of Korea,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,422696,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,2374,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,22261,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,445,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,10744,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,26067,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,41169,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,29,Organic chemicals,,,,,,,,,6417,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,,,8279,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,29,Organic chemicals,,,,,,,,,178,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,29,Organic chemicals,,,,,,,,,6696,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,29,Organic chemicals,,,,,,,,,15727,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,29,Organic chemicals,,,,,,,,,1648,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,818,Egypt,,,,,,,,,29,Organic chemicals,,,,,,,,,789,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,29,Organic chemicals,,,,,,,,,1434,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,5527276,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,8,Albania,,,,,,,,,30,Pharmaceutical products,,,,,,,,,24864,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,30,Pharmaceutical products,,,,,,,,,303,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,32,Argentina,,,,,,,,,30,Pharmaceutical products,,,,,,,,,570,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,36,Australia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,11622,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,40,Austria,,,,,,,,,30,Pharmaceutical products,,,,,,,,,12799,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,50,Bangladesh,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1273,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,30,Pharmaceutical products,,,,,,,,,27330,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,116,Cambodia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,29697,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,,,548420,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,178,Congo,,,,,,,,,30,Pharmaceutical products,,,,,,,,,10014,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,196,Cyprus,,,,,,,,,30,Pharmaceutical products,,,,,,,,,25218,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,203,Czech Rep.,,,,,,,,,30,Pharmaceutical products,,,,,,,,,45726,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,30,Pharmaceutical products,,,,,,,,,111,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,208,Denmark,,,,,,,,,30,Pharmaceutical products,,,,,,,,,272669,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,231,Ethiopia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,8395,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1661716,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,,,235641,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,30,Pharmaceutical products,,,,,,,,,3066,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,300,Greece,,,,,,,,,30,Pharmaceutical products,,,,,,,,,57001,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,348,Hungary,,,,,,,,,30,Pharmaceutical products,,,,,,,,,13032,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,372,Ireland,,,,,,,,,30,Pharmaceutical products,,,,,,,,,4290,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,376,Israel,,,,,,,,,30,Pharmaceutical products,,,,,,,,,334,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,30,Pharmaceutical products,,,,,,,,,85089,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,30,Pharmaceutical products,,,,,,,,,8283,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,410,Rep. of Korea,,,,,,,,,30,Pharmaceutical products,,,,,,,,,15017,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,478,Mauritania,,,,,,,,,30,Pharmaceutical products,,,,,,,,,8049,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,480,Mauritius,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1808,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,,,,,,,,,68,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,30,Pharmaceutical products,,,,,,,,,142621,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,,,98912,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,586,Pakistan,,,,,,,,,30,Pharmaceutical products,,,,,,,,,14324,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,620,Portugal,,,,,,,,,30,Pharmaceutical products,,,,,,,,,11156,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,686,Senegal,,,,,,,,,30,Pharmaceutical products,,,,,,,,,63218,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1438604,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,705,Slovenia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,2431,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,30,Pharmaceutical products,,,,,,,,,61968,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,752,Sweden,,,,,,,,,30,Pharmaceutical products,,,,,,,,,2946,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,30,Pharmaceutical products,,,,,,,,,369318,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,30,Pharmaceutical products,,,,,,,,,292,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,788,Tunisia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,8516,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,30,Pharmaceutical products,,,,,,,,,74548,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,818,Egypt,,,,,,,,,30,Pharmaceutical products,,,,,,,,,28145,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,,,48808,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,,,48926,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,30,Pharmaceutical products,,,,,,,,,140,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,394469,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,31,Fertilizers,,,,,,,,,17429,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,434,Libya,,,,,,,,,31,Fertilizers,,,,,,,,,344906,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,31,Fertilizers,,,,,,,,,32134,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,173463,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,37646,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,394,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,711,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,169,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,6517,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,12781,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,12361,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,400,Jordan,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,4313,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,1577,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,3852,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,349,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,682,Saudi Arabia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,677,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,8688,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,752,Sweden,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,781,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,13947,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,2790,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,25691,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,788,Tunisia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,30730,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,2529,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,1144,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,5816,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,181821,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,2892,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,89204,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,830,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,677,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,44076,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,315,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,169,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,56,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,12472,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,166,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,228,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,25987,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,3990,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,826,United Kingdom,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,760,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,524770,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,3672,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,342,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,116,Cambodia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,305,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1282,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,185,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,7340,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,943,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,17593,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,2588,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,433177,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,27282,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,6811,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1096,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,15120,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,2293,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,2200,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,2543,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,19254,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1776,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,3076,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1501,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,372,Ireland,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,3880,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,89,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,296,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,7645,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,990,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,4887,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,2444,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,2444,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,4463,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,585,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,643,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,3235,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,271281,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,6363,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,116,Cambodia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,273,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,47486,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,60491,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,3250,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,72342,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,234,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,368,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,49,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,11073,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,20639,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,48154,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,558,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1528552,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,6,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,76,Brazil,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,120,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,112431,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,203,Czech Rep.,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,284,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,9356,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,214585,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,223894,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,324,Guinea,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,2707,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,26842,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,386375,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,75142,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,116722,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,8823,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,18590,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,15737,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,752,Sweden,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1077,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,5738,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,38108,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,92116,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,38261,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,68645,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,72990,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,810156,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,36,Australia,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,3643,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,1328,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,124,Canada,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,155,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,297288,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,188,Costa Rica,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,186,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,203,Czech Rep.,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,20102,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,60948,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,164849,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,13808,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,3879,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,376,Israel,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,9058,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,7531,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,25537,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,484,Mexico,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,495,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,,,1146,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,2503,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,30260,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,59558,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,752,Sweden,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,7975,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,156,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,764,Thailand,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,23791,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,3975,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,4307,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,1858,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,65693,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,127,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,139372,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,75587,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,208,Denmark,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,21370,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,26545,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,12,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1015,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,7563,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,682,Saudi Arabia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1347,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,5171,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,762,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,909799,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,6543,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,655,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,213,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,571206,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,326229,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,929,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,1869,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,2154,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,64587,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,35896,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,3145,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,25546,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,1523,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,1523,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,362932,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,19607,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,81284,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,11006,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,6619,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,1900,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,86861,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,150,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,422,Lebanon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,2590,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,11,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,3716,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,604,Peru,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,120,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,620,Portugal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,17371,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,686,Senegal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,1649,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,36,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,118718,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,752,Sweden,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,343,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,254,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,849,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,746,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,9103,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1799338,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,49,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,124,Canada,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,21917,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,37245,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1626884,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,348,Hungary,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,442,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,364,Iran,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,203,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,2655,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,17,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1920,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,422,Lebanon,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,5993,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,282,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,686,Senegal,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1819,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,49173,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,804,Ukraine,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,561,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,50165,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,14,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,52,Cotton,,,,,,,,,662096,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,52,Cotton,,,,,,,,,112391,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,52,Cotton,,,,,,,,,60765,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,52,Cotton,,,,,,,,,2303,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,52,Cotton,,,,,,,,,465710,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,466,Mali,,,,,,,,,52,Cotton,,,,,,,,,774,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,478,Mauritania,,,,,,,,,52,Cotton,,,,,,,,,3513,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,52,Cotton,,,,,,,,,10330,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,52,Cotton,,,,,,,,,778,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,52,Cotton,,,,,,,,,4605,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,52,Cotton,,,,,,,,,926,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,10287,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,10287,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,90146,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,,,2257,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,54,Man-made filaments,,,,,,,,,13444,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,478,Mauritania,,,,,,,,,54,Man-made filaments,,,,,,,,,1774,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,54,Man-made filaments,,,,,,,,,71993,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,54,Man-made filaments,,,,,,,,,678,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,30348,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,,,22844,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,55,Man-made staple fibres,,,,,,,,,6976,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,55,Man-made staple fibres,,,,,,,,,528,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,4073,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,508,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,1523,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,1827,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,215,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,62745,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,219,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,31375,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1458,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,905,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,28789,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1193,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1193,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,2005,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,368,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,1486,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,151,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,57221,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,535,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,21950,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,362,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,27885,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,742,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,166,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,682,Saudi Arabia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,4061,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,124,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,1343,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,27,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,25,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,318112,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,280025,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1991,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,27186,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,100,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,159,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,8279,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,372,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,1771692,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,8100,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,16,American Samoa,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,2617,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,150937,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,124,Canada,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,213,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,226583,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,18149,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,86011,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,40608,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,83326,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,96445,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,67999,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,43672,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,410,Rep. of Korea,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,56632,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,430,Liberia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,13536,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,33840,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,59220,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,575,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,586,Pakistan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,29510,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,616,Poland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,106596,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,620,Portugal,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,10152,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,682,Saudi Arabia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,49241,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,27072,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,702,Singapore,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,57528,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,200820,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,306,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,17545,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,66470,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,788,Tunisia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,152280,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,1634,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,63949,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,124,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,423476,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,8,Albania,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,629,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,348558,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,14560,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,47372,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,2837,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,1800,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,2446,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,132,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,3943,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,788,Tunisia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,1199,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,89183,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,193,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,78619,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,1792,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,643,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,2064,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,4616,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,814,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,442,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,9631,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,9622,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,9,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,3647,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,3647,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,68336,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,56634,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,208,Denmark,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,296,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1194,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,677,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1071,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,422,Lebanon,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,6487,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,454,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1525,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,942385,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,69,Ceramic products,,,,,,,,,654784,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,69,Ceramic products,,,,,,,,,46,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,69,Ceramic products,,,,,,,,,15102,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,69,Ceramic products,,,,,,,,,3807,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,69,Ceramic products,,,,,,,,,1127,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,69,Ceramic products,,,,,,,,,6305,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,69,Ceramic products,,,,,,,,,14475,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,,,20449,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,69,Ceramic products,,,,,,,,,609,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,,,12223,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,69,Ceramic products,,,,,,,,,213457,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,102476,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,,,84919,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,,,7638,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,70,Glass and glassware,,,,,,,,,1260,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,490,"Other Asia, nes",,,,,,,,,70,Glass and glassware,,,,,,,,,394,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,70,Glass and glassware,,,,,,,,,195,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,70,Glass and glassware,,,,,,,,,954,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,70,Glass and glassware,,,,,,,,,761,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,,,1242,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,70,Glass and glassware,,,,,,,,,5112,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,11787,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,4455,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,255,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,2500,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,4577,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2300639,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,72,Iron and steel,,,,,,,,,125600,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,72,Iron and steel,,,,,,,,,182249,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,72,Iron and steel,,,,,,,,,852090,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,72,Iron and steel,,,,,,,,,661158,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,72,Iron and steel,,,,,,,,,105176,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,72,Iron and steel,,,,,,,,,17207,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,682,Saudi Arabia,,,,,,,,,72,Iron and steel,,,,,,,,,423,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,72,Iron and steel,,,,,,,,,217619,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,,,69942,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,72,Iron and steel,,,,,,,,,69176,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,2462196,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,73,Iron or steel articles,,,,,,,,,166,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,124,Canada,,,,,,,,,73,Iron or steel articles,,,,,,,,,2284,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,,,159694,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,73,Iron or steel articles,,,,,,,,,13510,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,,,239158,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,,,11,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,73,Iron or steel articles,,,,,,,,,32678,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,,,27972,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,73,Iron or steel articles,,,,,,,,,47446,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,73,Iron or steel articles,,,,,,,,,1199,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,484,Mexico,,,,,,,,,73,Iron or steel articles,,,,,,,,,4107,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,,,,,,,,,435,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,73,Iron or steel articles,,,,,,,,,43067,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,73,Iron or steel articles,,,,,,,,,22514,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,579,Norway,,,,,,,,,73,Iron or steel articles,,,,,,,,,18,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,682,Saudi Arabia,,,,,,,,,73,Iron or steel articles,,,,,,,,,541,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,686,Senegal,,,,,,,,,73,Iron or steel articles,,,,,,,,,40822,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,,,1546623,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,73,Iron or steel articles,,,,,,,,,1883,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,752,Sweden,,,,,,,,,73,Iron or steel articles,,,,,,,,,309,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,764,Thailand,,,,,,,,,73,Iron or steel articles,,,,,,,,,167,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,73,Iron or steel articles,,,,,,,,,42174,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,,,10046,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,73,Iron or steel articles,,,,,,,,,36639,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,804,Ukraine,,,,,,,,,73,Iron or steel articles,,,,,,,,,31,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,818,Egypt,,,,,,,,,73,Iron or steel articles,,,,,,,,,146772,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,,,2714,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,,,38622,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,73,Iron or steel articles,,,,,,,,,592,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,19170,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,,,194,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,74,Copper and articles thereof,,,,,,,,,16776,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,74,Copper and articles thereof,,,,,,,,,2200,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,49378,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,40814,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,312,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,609,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,977,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,6667,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,1750,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,80,Tin; articles thereof,,,,,,,,,1721,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,80,Tin; articles thereof,,,,,,,,,29,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,35994,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,13593,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,208,Denmark,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,913,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,15897,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,459,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,1298,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,490,"Other Asia, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,3136,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,11,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,686,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,1,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,130595,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,22079,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,465,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,68734,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,3,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,348,Hungary,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,221,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,13936,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,57,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,53,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,752,Sweden,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,206,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,850,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,13610,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,944,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,9437,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,7086777,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,16,American Samoa,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,450,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,11894,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,25306,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,76,Brazil,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1876,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,124,Canada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,10626,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3958127,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,203,Czech Rep.,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,13551,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,5485,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,208,Denmark,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,22446,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,634727,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,28988,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,5368,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,348,Hungary,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,46745,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,360,Indonesia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,23970,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,239847,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1181,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,47596,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,11870,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,434,Libya,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,390,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,69,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,484,Mexico,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,7506,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1560,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,249564,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,9344,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,11826,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,579,Norway,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,25,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,608,Philippines,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,153,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,616,Poland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2720,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,642,Romania,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,41,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,566815,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,702,Singapore,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,63,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,710,South Africa,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,791,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1858,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,28076,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,49950,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2309,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,26111,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,788,Tunisia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,646,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,29822,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,818,Egypt,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2150,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,18132,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,986434,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,899,"Areas, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,367,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,11123238,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6602,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,124,Canada,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,167450,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3634025,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,203,Czech Rep.,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,7707,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,8762,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,208,Denmark,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,64152,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,628360,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,9422,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,348,Hungary,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3923,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,376,Israel,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3809,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,288267,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,39153,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,13592,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,422,Lebanon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,10163,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,308647,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,484,Mexico,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,10567,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,19621,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,53741,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,7099,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,579,Norway,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,36,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,608,Philippines,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1398,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,616,Poland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2115,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,686,Senegal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,162530,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2828003,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,704,Viet Nam,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,25337,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,705,Slovenia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,12946,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,710,South Africa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,122,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,45630,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,752,Sweden,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,371417,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,8556,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,764,Thailand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,27811,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,15675,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,268192,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,788,Tunisia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1552,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,10801,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,804,Ukraine,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,129367,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,29523,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1890596,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,899,"Areas, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6571,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,113885,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,113885,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,6134921,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,2822,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,2652,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,85,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,302514,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,5292,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,419424,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,833086,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1354,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,33145,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,14306,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,3757100,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,140224,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,434,Libya,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,2200,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,484,Mexico,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,256,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,9589,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,3478,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,9801,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,710,South Africa,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,25992,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,2521,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,378,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,89527,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,152,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1859,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,922,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,7614,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,399494,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,65328,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,899,"Areas, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,3807,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,266031,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,1864,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,442,Luxembourg,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,672,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,818,Egypt,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,1196,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,262299,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1964,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1964,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,519072,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,556,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,76,Brazil,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,635,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,152284,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,208,Denmark,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,10216,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,102605,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,30090,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,109015,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,3470,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,25124,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,484,Mexico,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,3230,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,161,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,45,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,5663,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,764,Thailand,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,46,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,788,Tunisia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,52,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,71486,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,846,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,899,"Areas, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,3550,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4592,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2849,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,176,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1424,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,91,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,52,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,931,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,592,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,643,Russian Federation,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,169,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,169,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,389895,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,826,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,1885,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,124,Canada,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,186,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,160267,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,235,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,39580,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,46818,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,254,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,18134,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,4340,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,422,Lebanon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,16677,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,2782,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,4767,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,646,Rwanda,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,4568,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,1007,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,20082,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,5815,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,834,United Rep. of Tanzania,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,2233,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,59438,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,15233,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,15233,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,15387,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,14342,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,876,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,169,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,239487,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,183479,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,5609,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,33,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,6838,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,1427,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,159,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,508,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,1308,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,788,Tunisia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,19614,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,20514,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,408295,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,349,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,238355,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,32,Argentina,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,131191,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,41448,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,2424,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,300,Greece,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,351,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,135360,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,300,Greece,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,5760,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,372,Ireland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,202019,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,40016,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,2125,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,259731,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,757,Switzerland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,4824,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,216831,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,899,"Areas, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,12609,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,33840,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,40,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,98,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,98,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,605947,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,8,Albania,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,54,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,305,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,2157,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,970,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,345728,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,376,Israel,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,200,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,126,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,163193,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,1823,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,4,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,616,Poland,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,121,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,229,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,78811,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,576442,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,152,Chile,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,67680,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,135360,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,169300,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,300,Greece,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,221,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,33840,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,446,"China, Macao SAR",,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,54,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,579,Norway,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,787,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,686,Senegal,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,135360,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,704,Viet Nam,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,33840,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,2585692,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,24182,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,1443553,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,198979,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,243,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,11844,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,484,Mexico,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,16,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,604,Peru,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,122,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,212957,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,4,Afghanistan,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,135,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,100991,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,152,Chile,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,18,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,1739,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,2284,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,7,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,254,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,300,Greece,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,33,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,352,Iceland,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,18,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,360,Indonesia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,81,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,376,Israel,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,315,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,88,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,48765,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,1777,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,7614,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,604,Peru,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,382,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,710,South Africa,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,11114,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,1095,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,747,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,35501,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,469907,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,414635,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,4886,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1097,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,413,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,10636,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,38239,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,10,Cereals,,,,,,,,,17836294,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,76,Brazil,,,,,,,,,10,Cereals,,,,,,,,,333276,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,10,Cereals,,,,,,,,,23440,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,10,Cereals,,,,,,,,,338400,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,10,Cereals,,,,,,,,,243563,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,360,Indonesia,,,,,,,,,10,Cereals,,,,,,,,,153125,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,10,Cereals,,,,,,,,,9726,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,392,Japan,,,,,,,,,10,Cereals,,,,,,,,,837585,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,,,1029050,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,682,Saudi Arabia,,,,,,,,,10,Cereals,,,,,,,,,475,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,10,Cereals,,,,,,,,,2368284,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,702,Singapore,,,,,,,,,10,Cereals,,,,,,,,,123638,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,,,12365410,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,,,171,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,10,Cereals,,,,,,,,,10152,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,961464,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,207789,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,20533,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,77769,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,613519,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,21749,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,17098,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,2085,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,854,Burkina Faso,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,923,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,56722,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,56606,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,116,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,20297,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,13771,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,6526,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,4796181,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,36,Australia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,22814,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,549,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,1920,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,167939,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,2563824,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,300,Greece,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,401,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,108789,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,123978,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,920398,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,586,Pakistan,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,29678,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,101830,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,152634,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,591,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,551927,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,48909,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,265221,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,10337,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,220620,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,300,Greece,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,506,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,19080,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,604,Peru,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,42,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,14636,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,1494024,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,323,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,76,Brazil,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,1309940,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,67065,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,24292,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,276,Germany,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,6711,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,1066,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,2149,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,20487,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,2611,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,41485,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,11946,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,5949,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,18835,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,7748,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,300,Greece,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,286,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,3384,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,265,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,7152,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,2127730,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,12,Algeria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,315453,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,2415,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,89952,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,163091,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,58218,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,300,Greece,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,1294,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,372,Ireland,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,112620,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,366,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,384,Côte d'Ivoire,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,17448,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,545535,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,6958,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,393093,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,4989,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,620,Portugal,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,3753,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,682,Saudi Arabia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,169,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,686,Senegal,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,16349,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,15908,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,702,Singapore,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,33726,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,724,Spain,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,57890,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,15623,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,6272,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,788,Tunisia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,125676,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,92547,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,48381,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,515500,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,50,Bangladesh,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,879,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,56,Belgium,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,9141,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,124,Canada,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,77,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,230177,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,204,Benin,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,9801,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,23919,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,288,Ghana,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,99606,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,381,Italy,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,34007,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,6040,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,504,Morocco,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,20645,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,528,Netherlands,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,939,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,566,Nigeria,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,1943,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,699,India,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,7360,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,702,Singapore,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,5076,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,764,Thailand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,100,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,768,Togo,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,5223,,,0
+HS,2016,201603,March 2016,2,0,1,Imports,562,Niger,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,60566,,,0

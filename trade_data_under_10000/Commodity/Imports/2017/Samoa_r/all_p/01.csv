@@ -1,0 +1,553 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,16722,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,01,Animals; live,,,,,,,,,16722,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2192780,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,313839,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,3855,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,268093,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1606992,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2210,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,466,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1743,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1072577,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,166938,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,48681,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3972,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,784080,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,68905,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,428275,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9541,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2117,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,410641,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1457,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4519,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,67280,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,67280,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,76703,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,21800,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,32157,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,22746,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,242101,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,23096,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1424,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,79816,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,84929,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,40893,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,710,South Africa,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,8579,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3365,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,6186,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,4654,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,836,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,372,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,325,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,423150,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,60106,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,688,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,342684,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,19542,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,131,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,56213,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,10,Cereals,,,,,,,0,,63,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,10,Cereals,,,,,,,0,,13576,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,10,Cereals,,,,,,,0,,964,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,10,Cereals,,,,,,,0,,40574,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,10,Cereals,,,,,,,0,,799,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,236,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,39280,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9151,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,251,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5188,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,17056,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,7634,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,43398,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,517840,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,62225,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,91674,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,117872,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,11799,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,84068,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,78280,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5774,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,654,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4298,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,51411,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,335,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,15808,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,454956,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,22656,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,20935,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31245,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,179324,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,608,Philippines,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4021,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,60228,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,44802,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,91745,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,246240,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6627,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,23519,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,27790,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,90237,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,11951,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,86116,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,241924,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,25599,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,215272,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1053,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,560773,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,72617,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,205894,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,5828,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,57312,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,78882,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,75017,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,65223,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,670838,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,192463,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,14107,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6237,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,185495,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3236,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,10635,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,106676,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,144509,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,7479,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,25720,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,7965,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3430,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4301,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,608,Philippines,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8211,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1813,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,608,Philippines,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,46426,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,10361,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,10222,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,20977,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,18818,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4115915,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,120125,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,24,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,18479,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,115436,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3770253,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1032,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,90567,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,25912,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5022,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1562,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,19255,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,73,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,391208,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,46743,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1883,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,15365,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5594,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,318221,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,,,67,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3336,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,403882,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,637,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2992,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,120919,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,259670,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,14005,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5658,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,6281,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,29,Organic chemicals,,,,,,,0,,7,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,0,,280,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,29,Organic chemicals,,,,,,,0,,5993,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,28242,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,28242,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3078,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,31,Fertilizers,,,,,,,0,,3078,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,214164,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,32535,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,44157,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,21276,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1777,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,40574,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,37093,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8770,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,776,Tonga,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1733,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,26249,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,161349,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,22467,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,12578,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,82864,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,28184,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,3836,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,11421,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,371497,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,90841,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1958,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,71758,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2308,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,29163,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,38409,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,601,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,89373,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,8915,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,370,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,37801,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,17876,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,31,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,11118,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6709,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,17,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,2292,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2145,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,147,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,56277,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,2091,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,6276,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,44815,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,703,Slovakia,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3094,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,268568,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,71564,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,43353,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2739,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,14363,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,19273,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,57780,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6147,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,53349,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,966483,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,36697,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,133315,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,44668,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,101574,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,348,Hungary,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,67,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,14,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,250191,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,22063,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,40221,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,528,Netherlands,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7061,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,186300,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1491,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,13371,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,26095,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,103357,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,204476,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7283,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,89978,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,892,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,309,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6158,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,33220,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,52807,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1667,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,12162,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,23669,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3078,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,11095,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,39777,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2506,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,4439,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,188,Costa Rica,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,37,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,752,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,230,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5423,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,598,Papua New Guinea,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7862,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,18528,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,108425,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2094,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3077,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3060,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2807,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,463,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2837,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,94087,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,9671,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,3919,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1396,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4356,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,5190,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,468,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3468,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,10,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1195,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,49,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,72654,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,9783,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,24219,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1941,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,26,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,19004,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5545,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,12137,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,5911,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3323,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2139,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,450,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,330920,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,818,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,104409,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7761,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7680,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,167686,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,42367,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,200,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,163353,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,69,Ceramic products,,,,,,,0,,256,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,106771,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,69,Ceramic products,,,,,,,0,,10409,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,69,Ceramic products,,,,,,,0,,20272,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,69,Ceramic products,,,,,,,0,,25645,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,209753,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,8643,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,94183,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,188,Costa Rica,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,93,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,55050,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13179,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,484,Mexico,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,360,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,33412,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4831,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,946,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,910,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,37,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5948,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3978,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1970,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,146552,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,84537,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,6968,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,54282,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,765,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3431,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3058,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,373,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,35030,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,24,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1778,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,31861,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1367,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,212675,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,14298,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,161,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,13705,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,13077,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,348,Hungary,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,17,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,16,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,615,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,5150,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,38865,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,608,Philippines,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,67,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,85,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,119529,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7091,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2249,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,0,,2249,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,38728,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,24295,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,52,Cotton,,,,,,,0,,1538,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,52,Cotton,,,,,,,0,,1783,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,52,Cotton,,,,,,,0,,11112,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,1227311,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,76115,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,86727,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,508,Mozambique,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,35,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1032547,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,22854,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,9034,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,397,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,613,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7009,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1476,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,579488,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2932,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,175170,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,62186,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,73379,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,126,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,201490,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,26655,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,9574,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,27951,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1286,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,24,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,565,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,698,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,155015,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,70,Glass and glassware,,,,,,,0,,2477,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,70,Glass and glassware,,,,,,,0,,1914,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,45048,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,70,Glass and glassware,,,,,,,0,,103,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,70,Glass and glassware,,,,,,,,,48,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,70,Glass and glassware,,,,,,,0,,129,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,70,Glass and glassware,,,,,,,0,,105284,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,70,Glass and glassware,,,,,,,,,13,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,4047,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,370,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,51,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,3626,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,770348,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,234574,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,72,Iron and steel,,,,,,,0,,14770,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,72,Iron and steel,,,,,,,0,,116897,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,72,Iron and steel,,,,,,,0,,361822,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,72,Iron and steel,,,,,,,0,,42279,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,72,Iron and steel,,,,,,,0,,7,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,106494,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1330,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,43638,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1881,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1083,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,175,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,17419,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,40967,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,49432,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,314,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8794,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,57,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,566,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,32586,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,46,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,2688,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4380,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,738,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,173,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,565,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,20446,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6983,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,61,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,13403,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,208,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,208,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,181353,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,197,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,124,Canada,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,1737,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,68645,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8818,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,18152,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,77432,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6372,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,970794,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,73,Iron or steel articles,,,,,,,0,,413,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,90320,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,124,Canada,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1916,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,591695,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,73,Iron or steel articles,,,,,,,0,,40083,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,73,Iron or steel articles,,,,,,,0,,1950,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,73,Iron or steel articles,,,,,,,0,,7018,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,45619,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,,,,,,,0,,99,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,73,Iron or steel articles,,,,,,,0,,149514,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,73,Iron or steel articles,,,,,,,0,,255,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,73,Iron or steel articles,,,,,,,0,,41115,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,798,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,16232,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,7430,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,943,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,4999,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2860,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,5091,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,118,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,32002,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,8395,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,23607,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,46464,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,10934,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,124,Canada,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,11902,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2611,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,562,Niger,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,15775,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,5243,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2511393,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,174409,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,28345,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,59386,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3145,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1990,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1147795,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,408,Dem. People's Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,276817,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,279295,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,120494,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2315,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,368099,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,269,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,29880,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,19155,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,2216,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,2216,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2156812,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,68876,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,403367,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,24896,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,242563,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1159,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,165741,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,95487,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,247601,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,313,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2816,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,563771,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,598,Papua New Guinea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,6185,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,45990,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,28246,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,179006,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,80797,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1394297,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,121839,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,181917,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,27908,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,52,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,50430,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,15783,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,92970,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,510,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2368,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,618601,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,608,Philippines,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1100,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,20972,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,703,Slovakia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,8727,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,710,South Africa,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,207,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1059,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,32258,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,217597,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,37933,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,278,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,219270,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,21494,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,154219,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,138,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,365284,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3560,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,171915,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4061,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,32908,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2736,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,147512,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2591,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,351389,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,393,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,19353,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,162240,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,196,Cyprus,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,14862,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,635,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4631,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2364,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,7569,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2501,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,69233,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,30751,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,36858,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1368,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,331,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1018,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,20,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,3450,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,3047,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,403,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,3864,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3591,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,22,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,68,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,177,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,6,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,155988,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,97872,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,13442,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,142,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1015,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1859,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,16508,,,0
+HS,2017,201701,January 2017,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,25150,,,0

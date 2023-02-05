@@ -1,0 +1,921 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7465,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,20054,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,52584,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,397,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,24641,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,27,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,52,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11212,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,540,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3555,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,17351,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1974,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,19,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1080,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,190,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,704,Viet Nam,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,13113,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1443,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,531,Curaçao,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4473,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,129,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,201,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,144,Sri Lanka,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4960,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,312813,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,384,Côte d'Ivoire,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,51696,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,283,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,288,Ghana,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,6902,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,489,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2341,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,225513,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1793,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,4872,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,14,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,74,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,88,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3056,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5027,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4346,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,238683,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1718,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,354429,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,97,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1388,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18102,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1036,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8342,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3840,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,360,Indonesia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5215,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,381,Italy,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,19991,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,539,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5924,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2700,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,818,Egypt,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3806,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,28248,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2372,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,39497,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,78,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,19,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,58,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,6821,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,288,Ghana,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4225,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4381,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9854,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,14,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,76,Brazil,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6827,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,344,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,172201,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2830,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,32,Argentina,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1637,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4694,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,12,Algeria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2415,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1910,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,22103,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1382,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,470,Malta,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,174,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,818,Egypt,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,41368,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,788,Tunisia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4676,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,60665,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,632,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,39497,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6954,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,504,Morocco,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,39,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,42694,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,534,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,9570,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,116,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5666,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5020,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,392,Japan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,485,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,63,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7960,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,834,United Rep. of Tanzania,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,161,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,340,Honduras,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8661,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,32062,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1040,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2258,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,616,Poland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,31060,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3968,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,187,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,586,Pakistan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5234,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,620,Portugal,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,38,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,858,Uruguay,,,,,,,,,10,Cereals,,,,,,,0,,455920,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,76,Brazil,,,,,,,,,10,Cereals,,,,,,,0,,163783,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,10,Cereals,,,,,,,0,,135,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1412593,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,10,Cereals,,,,,,,0,,10,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,0,,242508,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,10,Cereals,,,,,,,0,,1759,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,0,,778,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,906,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,10,Cereals,,,,,,,0,,56,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,10,Cereals,,,,,,,0,,546738,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,10022,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4258,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,66,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,864,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,32,Argentina,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,14058,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3920,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,818,Egypt,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,15468,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,596,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,849,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,48,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2135238,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,465,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,76,Brazil,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2084271,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,29,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,322,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,128232,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1890,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,16,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,20469,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,81,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,182,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,29,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,702,Singapore,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1333,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,31977,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,197013,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,324,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2713,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,563,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,12650,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,70,Bosnia Herzegovina,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,48,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,295890,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,22699,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,75570,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,474,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,17081,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,138287,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,57328,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,73,Iron or steel articles,,,,,,,0,,16,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,620,Portugal,,,,,,,,,73,Iron or steel articles,,,,,,,0,,5529,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,187,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,73,Iron or steel articles,,,,,,,0,,297,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,73,Iron or steel articles,,,,,,,0,,62352,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,73,Iron or steel articles,,,,,,,0,,8,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2345,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,73,Iron or steel articles,,,,,,,0,,11,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1747,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4836,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,73,Iron or steel articles,,,,,,,0,,626,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,73,Iron or steel articles,,,,,,,0,,135,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,73,Iron or steel articles,,,,,,,0,,203,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,73,Iron or steel articles,,,,,,,0,,97,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,696,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1224,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,0,,651,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,351,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,351,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2071,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,12662,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,63890,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,11495,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4846,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,21,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,162,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,818,Egypt,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,9568,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5204,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,19933,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,29,Organic chemicals,,,,,,,0,,252,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,0,,773,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1025,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1026,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,737,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,149,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,140,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,478,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,478,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,31815,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,621,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,797,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,642,Romania,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,47,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,452,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,5006,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6501,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,20808,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,190951,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,34,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,740,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,14966,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,704,Viet Nam,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,93741,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,29,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,19822,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1754,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,416,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,172,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,713,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,21632,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,384,Côte d'Ivoire,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4141,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4024,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,19,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1493,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,123565,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,387,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1206,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,63777,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,111,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,579718,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,100,Bulgaria,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,17,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2612,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1648,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10943,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,234758,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,8642,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,602,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,19,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,17974,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,24,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2150,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,185,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1149,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,448,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,52,Cotton,,,,,,,0,,52,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,466,Mali,,,,,,,,,52,Cotton,,,,,,,0,,722,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,52,Cotton,,,,,,,0,,97,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,52,Cotton,,,,,,,0,,14898,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,37863,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,21768,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,52,Cotton,,,,,,,0,,325,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1203,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,101,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3421,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,586,Pakistan,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,386,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,145,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1585,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,531,Curaçao,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26022,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,562,Niger,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,11630,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3964,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,4204,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,154058,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,108106,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,470,Malta,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2676,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,638,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1028,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,253,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,4895,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,4193,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,376064,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,764,Thailand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,22107,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,262,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5591,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,10,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,616,Poland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,21864,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,76750,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,592,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,58,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,14389,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,8487,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1658,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3358,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,702,Singapore,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6922,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1600,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,15998,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,107,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,5882,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,586,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,76,Brazil,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,82499,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,59849,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,523646,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,21,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,616,Poland,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,5491,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,87,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1021,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3535,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,6881,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,386,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,300,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,33134,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,156,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,470,Malta,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,71,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2556,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,360,Indonesia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,208,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,834,United Rep. of Tanzania,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,170,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,329,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,68659,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1062,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,204,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,19285,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,428,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,144,Sri Lanka,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,24,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,48,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,616,Poland,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1040,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,15,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,4565,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,76,Brazil,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,6901,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,285,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,55742,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,4335,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1201,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,20704,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,203,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,531,Curaçao,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,13549,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,4264,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1700,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1374,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1226,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,748,Swaziland,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,50703,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,13575,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,127729,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,90,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,83331,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,275427,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,171,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,29,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,510581,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,71,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,480718,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,618,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4141,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,754,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,788,Tunisia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,21414,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2666,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7192,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,790,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4033,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,384,Côte d'Ivoire,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1228,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,8045,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4420,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,702,Singapore,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,343,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1737,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,3865,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1854,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,145,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,5863,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,130270,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,69,Ceramic products,,,,,,,0,,1058,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,69,Ceramic products,,,,,,,0,,97,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,239262,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,69,Ceramic products,,,,,,,0,,83,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,69,Ceramic products,,,,,,,0,,457,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,69,Ceramic products,,,,,,,0,,1280,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,381,Italy,,,,,,,,,69,Ceramic products,,,,,,,0,,10609,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,458,Malaysia,,,,,,,,,69,Ceramic products,,,,,,,0,,3452,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,69,Ceramic products,,,,,,,0,,2731,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,69,Ceramic products,,,,,,,0,,1306,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,69,Ceramic products,,,,,,,0,,17388,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,69,Ceramic products,,,,,,,0,,155,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,69,Ceramic products,,,,,,,0,,1211,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,69,Ceramic products,,,,,,,0,,104,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,0,,5869,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,69,Ceramic products,,,,,,,0,,2836,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,69,Ceramic products,,,,,,,0,,78,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,0,,60278,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,135,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3292,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3021,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,58,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,78,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2006447,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,171830,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,484883,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2714,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1715,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2793,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,56208,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,17123,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,968,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1939,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,208,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,155,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,805,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,349,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1076,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,13401,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,100,Bulgaria,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3372,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,381,Italy,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,13740,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,134334,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,408,Dem. People's Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7726,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1306,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,536906,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,834,United Rep. of Tanzania,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2373,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,620,Portugal,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1069,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,634,Qatar,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,44729,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6118,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6304,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,33064,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,12945,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,14278,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,531,Curaçao,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1648,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,14120,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,20113,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,22180,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,27400,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,174,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,193,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,11,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,523,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,86,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,86,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,764,Thailand,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,8044,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,30750,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,297,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,13570,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,52,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,213,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2410,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,140,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,31,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5989,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,41940,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,58155,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,955,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,53,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5013,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,89,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,340,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,288,Ghana,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4029,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,141600,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2609,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9755,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,718,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,363,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,27958,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,586,Pakistan,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2328,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3118,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,493,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,869,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7213,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2191,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,904,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,145,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,5045,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4667,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,233,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,285,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,189841,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,41,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,764,Thailand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,21196,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,127209,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,338,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,58,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1152869,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5961,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4028,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,77,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,127811,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,21290,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,10638,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,88,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,942,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,929,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,35,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1136,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,711,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,14,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,37,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,104,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,790,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,99,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6557,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,381,Italy,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,276,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,156,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,243,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6012,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,30,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,7001,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,561,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1730,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,93,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,7395,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,388,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,44,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,436,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4704,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3970,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3212,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,35,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,488,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,131,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,85962,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,13880,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,219568,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,32,Argentina,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9740,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,82120,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21165,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,7079,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,501,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,73,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,110,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,62,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,101,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,38,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,28,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1484,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2932,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,674,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,127,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,156,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,93,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,651,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,48,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,136,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,39,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,104,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,808,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,165,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,353,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,291,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,156,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,35,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,205,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,14,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,155,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,48675,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,9142,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,834,United Rep. of Tanzania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,209,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,265067,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,32664,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,197898,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,507,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,85732,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2088,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,771,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,416,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1187,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,8554,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2670,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,48,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,97,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,975,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,8225,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,203,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,23202,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,521,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,104,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,54204,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,278618,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2647,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,177266,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4843,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,19571,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,78,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,29,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,28,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,400,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,702,Singapore,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,55,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,151,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1380,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,47,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,97,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,12463,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1848,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1123,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,725,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1157024,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7393,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2246746,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,522,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,538,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,151652,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,691,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,332605,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,397,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,92,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,694,Sierra Leone,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1381,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,8059,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,327,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,381,Italy,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,586065,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,30786,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,7180,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,58,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1351386,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,76,Brazil,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4487,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1602,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,788,Tunisia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,12423,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,189,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,332822,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,965,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,37356,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,787060,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,384,Côte d'Ivoire,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,29226,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1240,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,974,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,80667,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,21936,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,531,Curaçao,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2417,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1019,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,25350,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,12,Algeria,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17384,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,7177,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,470,Malta,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1919,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1039,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9187,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,58569,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10096,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5302,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2890,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,290,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,159041,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1956,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,288,Ghana,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,16863,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,20089,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1711,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,7172,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3040,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8165,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2791,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,56486,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,3256,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,327,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1253,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,431,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,227,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,4054,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,214,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,17505,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,380,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,384,Côte d'Ivoire,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1187,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,184,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,14,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,3139,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,66,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2367,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,702,Singapore,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1494,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,15446,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2150,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,71820,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,11450,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,813,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,364,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,834,United Rep. of Tanzania,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,460,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3811,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,187,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,22116,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,451,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,63,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,57,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,16974,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,39,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,125,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,381,Italy,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,73,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,12920,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,488,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1239,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,189,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,54,Man-made filaments,,,,,,,0,,52874,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,54,Man-made filaments,,,,,,,0,,135,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,54,Man-made filaments,,,,,,,0,,11538,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,490,"Other Asia, nes",,,,,,,,,54,Man-made filaments,,,,,,,0,,5781,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,54,Man-made filaments,,,,,,,0,,862,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,204,Benin,,,,,,,,,54,Man-made filaments,,,,,,,0,,5780,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,586,Pakistan,,,,,,,,,54,Man-made filaments,,,,,,,0,,579,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,764,Thailand,,,,,,,,,54,Man-made filaments,,,,,,,0,,11560,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,54,Man-made filaments,,,,,,,0,,3545,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,464233,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,0,,371577,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,57066,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,70,Glass and glassware,,,,,,,0,,530,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,70,Glass and glassware,,,,,,,0,,871,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,70,Glass and glassware,,,,,,,0,,2081,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,70,Glass and glassware,,,,,,,0,,803,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,70,Glass and glassware,,,,,,,0,,26,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,70,Glass and glassware,,,,,,,0,,154,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,2360,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,0,,327,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,70,Glass and glassware,,,,,,,0,,17822,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,70,Glass and glassware,,,,,,,0,,812,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,28446,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,70,Glass and glassware,,,,,,,0,,2834,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,276,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,280,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,17,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,37,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,610,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,72,Iron and steel,,,,,,,0,,2639,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,0,,28420,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,72,Iron and steel,,,,,,,0,,870,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,72,Iron and steel,,,,,,,0,,60498,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,72,Iron and steel,,,,,,,0,,6244,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,72,Iron and steel,,,,,,,0,,47,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,433892,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,72,Iron and steel,,,,,,,0,,30827,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,303489,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,72,Iron and steel,,,,,,,0,,482,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,72,Iron and steel,,,,,,,0,,378,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,48,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,430,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,478,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,60,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,86,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,834,United Rep. of Tanzania,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,436,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,28,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3517,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,44,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,100,Bulgaria,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,53,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,180981,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1290,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,14,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4984,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,470,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4888,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,551,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,58,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,24,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,164477,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,87,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,7375,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,70,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3477,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,142881,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1055,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,130816,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,15489,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,249906,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,127882,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,58056,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3463,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,51215,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4825,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,82,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,458,Malaysia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4486,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,435,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,129861,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6945,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5760,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,104,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,281,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4835,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,46973,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,100,Bulgaria,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,312,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,92,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,67150,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2349,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,42220,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,878986,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,585,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,43513,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,620,Portugal,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1998,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,509,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9662,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,511,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,378,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,133,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5389,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1351,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,834,United Rep. of Tanzania,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,348,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,531,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,682,Saudi Arabia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,541,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,52,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5052,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,199870,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,285,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,76,Brazil,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2762,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,8714,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,8604,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1523,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4816,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3644,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,713,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,42325,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,67920,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,935,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1724,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,52,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5830,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2767,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,9725,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2639,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,7351,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,381,Italy,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,647,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,13631,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,6471,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,410337,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3485,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,786,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,463,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1120,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,346812,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,531,Curaçao,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,19764,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,31436,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2764,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8453,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,62,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,206,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1208,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2284,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1930,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,102190,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7753,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,258497,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4728,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,364,Iran,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,449,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10765,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,3309,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,941,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,299,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8826,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5481,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7292,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10353,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,730,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,28,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,470,Malta,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,259,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,95093,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,87,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,5927244,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,384,Côte d'Ivoire,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,5848805,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,14032,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,710,South Africa,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4833,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,48,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,18176,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,727,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,792,Turkey,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,11977,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,26116,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2444,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,22858,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,818,Egypt,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,404149,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,20,Andorra,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3704,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1710,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,265058,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,131,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2113,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,289781,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,11076,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,490,"Other Asia, nes",,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7016,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,19317,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7623,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1051174,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,10949,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5689,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,51935,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,31,Fertilizers,,,,,,,0,,51027,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,31,Fertilizers,,,,,,,,,909,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1287,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,620,Portugal,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,3451,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,138,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,696,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,91075,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1231,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,76,Brazil,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,2503,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,7707,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,65934,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,345,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1035,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1603,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4420,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,725,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,55413,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,20325,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,144,Sri Lanka,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4486,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,482,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,104,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,502,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,3766,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,733,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,699,India,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4535,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2586,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,203,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,24,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7653,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2474,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5736,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1756,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,48,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,48,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2792,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2640,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,104,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,635,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,5599,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13575,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,752,Sweden,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1604,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,392,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,276,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,5069,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2738,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,528,Netherlands,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,4190,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,966,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,579,Norway,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,390,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,566,Nigeria,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,10878,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,245,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,724,Spain,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,182,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,757,Switzerland,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,357,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,71,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,208,Denmark,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,59,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,276,Germany,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,278,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,344,"China, Hong Kong SAR",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3940,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,324,Guinea,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1052,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,392,Japan,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,242,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,404,Kenya,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,531,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2311,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2001,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,56,Belgium,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,4933,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,89302,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,124,Canada,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,48,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,124714,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,160,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,49582,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,246,Finland,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,565,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1828,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,422,Lebanon,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,11660,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,686,Senegal,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,25498,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2995,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6763,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,112,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,274,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,156,China,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,216,,,0
+HS,2013,201310,October 2013,2,0,1,Imports,270,Gambia,,826,United Kingdom,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,58,,,0

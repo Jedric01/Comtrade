@@ -1,0 +1,436 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,338135,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,265703,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,71467,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,965,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,39321,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,9573,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,29748,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,98494,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,15381,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,12693,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,4236,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,64464,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1333,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,388,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,72,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,72,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,85616,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,46022,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,520,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5600,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,696,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,26915,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,608,Philippines,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5258,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,605,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,37721,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8513,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,24204,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,510,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4271,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,223,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,17070,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2996,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5021,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8461,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,423,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,142,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,28,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,962987,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,10,Cereals,,,,,,,0,,55121,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,10,Cereals,,,,,,,0,,603,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,10,Cereals,,,,,,,0,,14263,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,704,Viet Nam,,,,,,,,,10,Cereals,,,,,,,0,,753419,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,56898,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,862,Venezuela,,,,,,,,,10,Cereals,,,,,,,0,,82683,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,124659,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,120201,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2545,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,500,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1413,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,454820,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,456,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,10637,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,615,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,548,Vanuatu,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,439827,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3284,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,69529,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,143,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3392,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,18556,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,22669,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1552,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,287,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,686,Senegal,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,21704,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1184,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,41,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,563274,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,272406,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,124,Canada,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,29096,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,117117,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,20688,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,54778,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,29209,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,608,Philippines,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,39615,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,366,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,690666,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,55430,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,614,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1713,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,608,Philippines,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,401,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,702,Singapore,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,41155,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,591323,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,31,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,389,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,389,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,338455,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,14501,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6835,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,197889,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,53608,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,11827,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9362,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4141,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,608,Philippines,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,14713,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,704,Viet Nam,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9574,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,14844,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1160,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,85955,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,23212,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,217,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13046,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10720,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,795,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6788,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,608,Philippines,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2145,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,28105,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,928,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,145803,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,33081,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,24878,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1379,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7173,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,33271,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,728,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7940,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10973,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,608,Philippines,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1124,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,24592,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,662,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,239252,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,54763,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,90,Solomon Isds,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,37986,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,13853,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,48415,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,22359,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2829,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,580,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9667,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2195,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,548,Vanuatu,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,515,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4906,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,686,Senegal,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17290,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,702,Singapore,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17779,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,704,Viet Nam,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,3955,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,792,Turkey,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1689,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,473,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,361576,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6842,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1301,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,208,Denmark,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,224530,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,410,Rep. of Korea,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,128903,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,56157,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,43331,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,12826,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,337,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,337,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,154420,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,5647,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3419,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,145350,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4566,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2710,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1856,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,722,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,29,Organic chemicals,,,,,,,0,,722,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,96077,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,520,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,112,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,91730,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3715,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,15604,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,944,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6655,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8004,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,22270,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,607,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,9071,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,3220,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,351,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2855,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,3244,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2605,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,608,Philippines,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,309,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,8,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,62441,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,8513,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1215,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,899,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,50129,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,187,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1112,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,608,Philippines,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,219,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,167,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2960,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1076,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,487,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,489,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,908,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,9127,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,9127,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,61549,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4043,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,540,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1427,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,571,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,52840,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2127,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,101483,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,32639,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,39871,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10121,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7706,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1457,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4911,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3789,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,986,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,109994,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,20818,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,73642,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,237,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,45,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6912,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,8311,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,29,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,27401,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,120,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,22801,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,474,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,3855,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,109,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,43,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,304887,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,19,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,11197,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,22306,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,7183,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,264134,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,48,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,573,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,108,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,465,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,52272,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1691,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,7444,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,7494,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,424,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3122,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,458,Malaysia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,8262,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,146,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,704,Viet Nam,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,23494,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,196,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,22542,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,90,Solomon Isds,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,16055,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1466,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2885,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2132,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2011,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,1946,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,52,Cotton,,,,,,,0,,65,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,34709,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,54,Man-made filaments,,,,,,,0,,34709,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,22587,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9190,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,55,Man-made staple fibres,,,,,,,0,,13397,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,711,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,711,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1909,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,456,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,5,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1447,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,390,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,390,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,125,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,85,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,39,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,59040,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,21417,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,90,Solomon Isds,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,21597,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,307,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2718,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1855,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6472,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3975,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,684,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,13,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,33025,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,81,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,25300,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,33,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4088,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,3393,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,129,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,56860,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,41133,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,14449,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1000,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,179,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,98,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,21680,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,624,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,8687,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1915,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,711,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5947,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2203,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1593,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4540,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,427,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1454,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2658,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,923,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,923,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1796,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1796,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3760,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1668,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1010,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,871,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,210,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1255,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,69,Ceramic products,,,,,,,0,,752,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,174,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,69,Ceramic products,,,,,,,0,,329,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,3460,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,70,Glass and glassware,,,,,,,0,,59,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,2366,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,70,Glass and glassware,,,,,,,0,,215,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,70,Glass and glassware,,,,,,,0,,54,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,70,Glass and glassware,,,,,,,0,,766,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2696,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,297,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2399,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,4723,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,72,Iron and steel,,,,,,,0,,905,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,3379,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,,,,,,,0,,439,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,137786,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,12508,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,26874,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,73,Iron or steel articles,,,,,,,0,,9073,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,73,Iron or steel articles,,,,,,,0,,5277,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,73,Iron or steel articles,,,,,,,0,,37945,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,73,Iron or steel articles,,,,,,,0,,149,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,73,Iron or steel articles,,,,,,,0,,45059,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,702,Singapore,,,,,,,,,73,Iron or steel articles,,,,,,,0,,827,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,74,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1973,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,862,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,873,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,74,Copper and articles thereof,,,,,,,0,,180,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,58,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,166189,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,148564,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,3372,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,12802,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1421,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,30,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,301,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,78,Lead and articles thereof,,,,,,,0,,301,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,22628,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2512,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8002,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2158,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5582,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1928,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,766,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1680,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,11494,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3697,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1312,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,11,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,6474,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,697442,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,53147,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,43841,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,25718,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,13489,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,540707,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5745,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,14782,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,13,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,194059,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,43489,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,80209,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,6721,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3073,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,630,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,5679,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,45483,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,8775,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,723343,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16392,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,155753,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5538,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,925,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,431250,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,79226,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,702,Singapore,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,11897,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,22234,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,126,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,520,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,520,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,24456,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,24456,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,62452,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,11258,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,20143,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,407,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,589,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,360,Indonesia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,816,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,12353,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,16881,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,5,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2772,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2468,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,304,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1138,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1138,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,39650,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,20,Andorra,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,740,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,18575,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,8975,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4815,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1903,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,490,"Other Asia, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,372,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,764,Thailand,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4271,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,46445,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,36,Australia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2148,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,17281,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,26620,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,229,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,167,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,79385,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,49460,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,242,Fiji,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2979,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,14220,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,344,"China, Hong Kong SAR",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4008,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,392,Japan,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,446,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,554,New Zealand,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8259,,,0
+HS,2017,201705,May 2017,2,0,1,Imports,296,Kiribati,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,13,,,0

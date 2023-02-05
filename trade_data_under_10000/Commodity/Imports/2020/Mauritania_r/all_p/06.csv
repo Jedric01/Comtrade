@@ -1,0 +1,771 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,276,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,01,Animals; live,,,,,,,0,,276,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,3061311,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,19085,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,151800,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,124,Canada,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,75756,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,117466,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,152534,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,75665,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,190095,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,804,Ukraine,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,594122,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1684787,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,4969,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,4969,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5728054,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,32,Argentina,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,189755,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,48,Bahrain,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3957,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,987038,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,275227,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,208,Denmark,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,279666,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,737418,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,459001,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,300,Greece,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,19813,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,360,Indonesia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,7642,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,364,Iran,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,54936,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,372,Ireland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,146646,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,41498,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1407,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,139002,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,512,Oman,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,95540,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,600632,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26631,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,616,Poland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,325163,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,626,Timor-Leste,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,233023,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,211917,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,221784,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,757,Switzerland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,171771,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,764,Thailand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,7723,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,204769,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,12948,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,273148,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,593,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,593,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4012482,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,37068,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,103562,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1171723,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2182604,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,504076,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4384,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9065,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,626993,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,12,Algeria,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,31673,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,384,Côte d'Ivoire,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,71970,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,434,Libya,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,30221,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,35119,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,124662,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,28682,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,35128,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8839,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,34799,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,225901,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,44634,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,30737,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,173782,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1812665,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1783347,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3849,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,23013,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,704,Viet Nam,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2456,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,10364837,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,10,Cereals,,,,,,,0,,7092138,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,270,Gambia,,,,,,,,,10,Cereals,,,,,,,0,,19140,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,10,Cereals,,,,,,,0,,70146,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,0,,775972,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,10,Cereals,,,,,,,0,,468,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,10,Cereals,,,,,,,0,,389079,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,0,,2017894,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,46658,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3277,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,10717,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,32663,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,23737,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,7522,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,16215,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,25709124,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,10405,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,7735205,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4270692,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,836272,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,109779,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,12497617,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,228540,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,199918,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,620,Portugal,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7270,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,18760,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,2591,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,29198790,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,12,Algeria,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4847104,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9657228,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,13041,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,484,Mexico,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8206,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,16149,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,558,Nicaragua,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4131656,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8285,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,59,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,10478553,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,38508,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,59215,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6977,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6910,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3107,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,616,Poland,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8722,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,9128,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2616,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,21754,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2091577,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,457,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,7099,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,39550,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,268,Georgia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4057,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5649,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,372,Ireland,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4012,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,501722,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,132067,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,655572,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,616,Poland,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,8597,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,34599,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6358,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,48841,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,76455,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,566544,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,422037,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,50,Bangladesh,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7932,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,66529,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5409,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3714,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7332,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,184075,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,33731,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,764,Thailand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,33440,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,676,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,79199,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1043892,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,72698,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,315621,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,458,Malaysia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,188583,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1856,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31298,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,51123,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6868,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,47300,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,260798,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,66002,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1744,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,688,Serbia,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,90366,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,507177,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,222875,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9793,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,40,Austria,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9920,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,111691,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,13062,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,15073,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,20948,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,31269,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,11119,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2944022,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,204,Benin,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,279378,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,270,Gambia,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,50762,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,430,Liberia,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,48365,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2268447,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,51692,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,45138,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,566,Nigeria,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,28421,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,165784,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,6035,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,975361,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,377818,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,292833,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,45252,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,55272,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,620,Portugal,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4205,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3397,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,107208,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,63415,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5692,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,8391,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,45192098,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1213138,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,429204,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,9423,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,440,Lithuania,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,11054,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1083575,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,8579,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,643,Russian Federation,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3585873,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,272760,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,12216548,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,757,Switzerland,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1870821,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,24145277,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,107188,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,804,Ukraine,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,15032,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,215104,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,834,United Rep. of Tanzania,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,7935,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,588,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,1721843,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,601804,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,40,Austria,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,3372,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,28366,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,110998,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,72470,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,24249,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,300,Greece,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,25034,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3310,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,414,Kuwait,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,24773,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,27076,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,694,Sierra Leone,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,28322,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,18515,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1180,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,24787,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,26019,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,701568,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,10052,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,0,,2912,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,29,Organic chemicals,,,,,,,0,,6946,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,29,Organic chemicals,,,,,,,0,,195,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5019999,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,472180,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,268600,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2223391,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,566276,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,91130,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,256015,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,11816,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4657,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,374815,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1328,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,488706,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,154988,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,64733,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,535,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,19923,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,858,Uruguay,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,20908,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1499872,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,31,Fertilizers,,,,,,,0,,1499872,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,239092,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,598,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5182,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,87749,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,344,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,13225,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,83232,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,757,Switzerland,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,42518,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6245,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,121427,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,100,Bulgaria,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7080,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,10162,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5621,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1940,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,12483,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,42862,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,20977,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,764,Thailand,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7173,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7227,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,4956,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,946,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1038715,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,51337,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,133609,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,686656,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,68427,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,8266,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,71924,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7377,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5949,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5170,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,173989,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,12,Algeria,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,11093,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,687,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,35996,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,98,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,23310,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,7988,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,7251,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,14717,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,10412,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,62438,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,516357,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,251964,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,4130,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,260264,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1793,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,12,Algeria,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1793,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,585935,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,124,Canada,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,73201,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,11543,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,76986,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,62779,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,13516,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2104,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,70931,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,757,Switzerland,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3146,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,178777,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,19776,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6457,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,66720,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6171228,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,12,Algeria,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,189632,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,55717,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2029776,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,128389,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,344,"China, Hong Kong SAR",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1274,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,91770,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,384,Côte d'Ivoire,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,35606,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,410,Rep. of Korea,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,21803,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,122875,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,512,Oman,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,27647,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,768942,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,579,Norway,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,78482,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,634,Qatar,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,71665,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,126021,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9770,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,99457,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11143,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1770199,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,18515,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,48040,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,143516,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,171083,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,30050,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6865,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,112990,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2108288,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,161589,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,533259,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,209483,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,134048,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,288,Ghana,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4999,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,360,Indonesia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7743,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,813749,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,442,Luxembourg,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9565,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,458,Malaysia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,101,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1743,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,480,Mauritius,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,325,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,148322,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,37165,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,616,Poland,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9565,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,11661,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,13033,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,90,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,11849,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,232941,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,8364,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,100,Bulgaria,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2869,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,163741,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2726,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,102,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7472,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,29213,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,18453,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,476325,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,70,Bosnia Herzegovina,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,6505,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,155340,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,246,Finland,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,18219,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2989,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,384,Côte d'Ivoire,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,121087,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,113824,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,12227,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,620,Portugal,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2440,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1198,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4066,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,38429,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,32444,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2391,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,30053,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2480,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2480,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1802002,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6626,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6832,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,59392,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,20831,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,7472,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,374969,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,8539,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,643,Russian Federation,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24099,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2989,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1153782,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,752,Sweden,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,17604,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,5978,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,12368,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,90320,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6505,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3697,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,79983,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1269,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,45134,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,8529,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,384,Côte d'Ivoire,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,224,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5935,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,634,Qatar,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3772,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,13184,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,214,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1721,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,608779,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,554868,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,52,Cotton,,,,,,,0,,104,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,586,Pakistan,,,,,,,,,52,Cotton,,,,,,,0,,11956,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,52,Cotton,,,,,,,0,,16319,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,52,Cotton,,,,,,,0,,590,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,52,Cotton,,,,,,,0,,15976,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,52,Cotton,,,,,,,0,,8967,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,7173,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,7173,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,18491,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,0,,13709,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,54,Man-made filaments,,,,,,,0,,4782,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5692,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5692,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,71377,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,52366,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3068,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,410,Rep. of Korea,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3336,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,12606,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,611670,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,26224,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,96,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,760,Syria,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,12342,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,764,Thailand,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,4425,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,270886,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,297698,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,265674,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,241919,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,11956,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,11799,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,12530,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,620,Portugal,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,5167,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,7363,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,80331,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,58445,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,239,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1972,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,16319,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3356,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,278793,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,174136,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,7342,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,118,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,372,Ireland,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,299,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,5119,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,139,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,51718,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,7771,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,7080,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17819,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,7252,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,177,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,69763,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4720,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,423647,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,59035,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,207836,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,12721,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,270,Gambia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,21239,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,21907,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,75503,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,9366,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,760,Syria,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5900,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,10140,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,669731,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,12,Algeria,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,314,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8260,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,100,Bulgaria,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,11717,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,384044,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,17373,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,11799,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,344,"China, Hong Kong SAR",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,9140,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2354,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,116431,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2092,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,558,Nicaragua,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3202,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,28050,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,177,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,120,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,8850,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,5900,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2950,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,182390,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,124,Canada,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1435,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,38820,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,23917,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9068,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,33657,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14080,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,41850,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9939,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9624,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1566911,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,90800,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,69,Ceramic products,,,,,,,0,,50214,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,0,,1398042,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,69,Ceramic products,,,,,,,0,,27855,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,292761,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,70,Glass and glassware,,,,,,,0,,47357,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,70,Glass and glassware,,,,,,,0,,32597,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,177024,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,0,,53,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,70,Glass and glassware,,,,,,,0,,2360,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,70,Glass and glassware,,,,,,,0,,8387,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,70,Glass and glassware,,,,,,,0,,8649,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,70,Glass and glassware,,,,,,,0,,16263,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,70,Glass and glassware,,,,,,,0,,70,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,10315,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,10030,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,42,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,344,"China, Hong Kong SAR",,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,102,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,142,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6345018,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,72,Iron and steel,,,,,,,0,,175434,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,124,Canada,,,,,,,,,72,Iron and steel,,,,,,,0,,308356,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,474331,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,72,Iron and steel,,,,,,,0,,102400,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,72,Iron and steel,,,,,,,0,,7180,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,72,Iron and steel,,,,,,,0,,56920,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,72,Iron and steel,,,,,,,0,,42222,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,72,Iron and steel,,,,,,,0,,3386614,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,72,Iron and steel,,,,,,,0,,904385,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,72,Iron and steel,,,,,,,0,,44395,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,0,,817036,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,72,Iron and steel,,,,,,,0,,25746,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,13478519,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,126638,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1160513,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,124,Canada,,,,,,,,,73,Iron or steel articles,,,,,,,0,,15583,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,152,Chile,,,,,,,,,73,Iron or steel articles,,,,,,,0,,298653,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,8531920,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,0,,598510,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,266,Gabon,,,,,,,,,73,Iron or steel articles,,,,,,,0,,13312,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,0,,14935,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,344,"China, Hong Kong SAR",,,,,,,,,73,Iron or steel articles,,,,,,,0,,300842,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,0,,56711,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,480,Mauritius,,,,,,,,,73,Iron or steel articles,,,,,,,0,,60762,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,73,Iron or steel articles,,,,,,,0,,449944,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2153,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1442,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,0,,447324,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,73,Iron or steel articles,,,,,,,0,,115898,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,73,Iron or steel articles,,,,,,,0,,966759,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,748,Swaziland,,,,,,,,,73,Iron or steel articles,,,,,,,0,,5281,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6576,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4794,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,73,Iron or steel articles,,,,,,,0,,274827,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,73,Iron or steel articles,,,,,,,0,,8967,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,0,,15375,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,801,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,47577,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,47577,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,5912,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,5912,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,245491,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,410,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,137796,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,40038,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,37525,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,21958,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,7764,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,186673,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,161293,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,20012,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,5368,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,626558,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,195220,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,124,Canada,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,505,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,152,Chile,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,265874,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,17389,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,16198,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,480,Mauritius,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4748,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,670,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2261,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,51831,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,32957,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,764,Thailand,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2989,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,35918,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,473604,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,94639,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,59422,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,57686,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,5978,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,828,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2826,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,51046,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,201180,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,28132524,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,401233,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,8454997,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,640,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,124,Canada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,833464,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3032105,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,203,Czech Rep.,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,24400,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,208,Denmark,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,17933,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,246,Finland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,331,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5368671,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,88729,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,288,Ghana,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9904,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,79615,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,364,Iran,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7771,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,113862,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,384,Côte d'Ivoire,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1303,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3354,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,42428,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,68,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,440,Lithuania,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3294,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,15732,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,480,Mauritius,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,81790,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,484,Mexico,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9446,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5500,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,645160,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,522373,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,579,Norway,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1582,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,616,Poland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7803,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,76202,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,112924,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1953732,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,702,Singapore,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,119563,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,501161,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2339055,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,729,Sudan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,38821,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,752,Sweden,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,64121,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,757,Switzerland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,19134,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,164921,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2212,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,65477,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,14945,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,283013,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2603756,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12467144,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,40,Austria,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1074,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,158872,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,47185,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,124,Canada,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,10551,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7801688,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,246,Finland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,138,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1097194,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,18376,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,56,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,11849,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,22664,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,466,Mali,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2486,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,470,Malta,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,75047,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,321826,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,41987,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,554,New Zealand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,735,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,616,Poland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,342,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,53,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12738,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,64684,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,702,Singapore,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,29889,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,704,Viet Nam,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,37758,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,569355,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1509270,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,748,Swaziland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,112,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,757,Switzerland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,22280,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,764,Thailand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,234,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,192215,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,168256,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,167449,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,818,Egypt,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,18700,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2710,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,59370,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,462467,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,347135,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2912,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,104000,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,300,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3967,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,4153,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7363098,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,13011,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,904921,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5978,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,480,Mauritius,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6597,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,72456,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2892,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,162663,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,19971,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16401,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5304,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,221642,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,222123,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,757,Switzerland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,119022,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,620427,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,616,Poland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6790,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,384,Côte d'Ivoire,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,17034,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1359297,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,57852,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,458,Malaysia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,38341,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,454951,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,70,Bosnia Herzegovina,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,13579,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,100,Bulgaria,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,26021,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,124,Canada,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1018611,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,854761,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,683932,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,423004,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,360,Indonesia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,15517,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,15892,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,76,Brazil,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1108,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,14783,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,368924,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,358400,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,164,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,10359,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1399077,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,13361,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,40,Austria,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3576,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,56,Belgium,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,35728,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,124,Canada,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,18104,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,709686,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,70212,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,276,Germany,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,51215,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,344,"China, Hong Kong SAR",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,7927,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2824,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,392,Japan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,141,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,410,Rep. of Korea,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,15011,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,480,Mauritius,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,201,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,91504,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,156897,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,616,Poland,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,22651,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,686,Senegal,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1948,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,7985,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,710,South Africa,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1912,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,39067,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,752,Sweden,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,40367,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3445,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,18433,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,38761,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,48122,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3281,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2763,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,344,"China, Hong Kong SAR",,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,517,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,484874,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,70,Bosnia Herzegovina,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,6751,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,154311,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,53935,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,53217,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,16614,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,35867,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,699,India,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,52026,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,16646,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,31117,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,64391,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,101221,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,54671,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,80,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,381,Italy,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,5978,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,528,Netherlands,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,23911,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4782,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,11799,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,557162,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,36,Australia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1302,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,87276,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,391,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,384,Côte d'Ivoire,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,39454,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,458,Malaysia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5310,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,504,Morocco,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,47252,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,682,Saudi Arabia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,78563,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,724,Spain,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,7453,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,757,Switzerland,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,100,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,788,Tunisia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,108306,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,792,Turkey,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,181754,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,27,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,478,Mauritania,,251,France,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,27,,,0

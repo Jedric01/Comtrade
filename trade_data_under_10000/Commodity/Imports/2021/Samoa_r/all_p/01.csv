@@ -1,0 +1,526 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,20403,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,01,Animals; live,,,,,,,,,20403,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1775,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,300763,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1079,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,77050,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1755923,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2136591,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,487245,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,12027,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1834,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,43105,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,284028,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,11260,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,43105,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,796395,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11369,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7904,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3625,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,200681,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,62293,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,776,Tonga,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,22934,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,55176,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,776,Tonga,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3322,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,6442,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,214070,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,159676,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1499,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,10,Cereals,,,,,,,0,,535,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,83714,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,203,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,661,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,279,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,148332,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12784,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,76,Brazil,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,130959,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,307511,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,341,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,10,Cereals,,,,,,,0,,26759,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,453,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,239880,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,805,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1954,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,4284,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,30260,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,78035,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,603,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1886,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,10,Cereals,,,,,,,0,,2391,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3710,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1595,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,142188,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,10,Cereals,,,,,,,0,,140843,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,10130,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4097,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,29072,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,299,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2653,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,272517,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12497,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,598,Papua New Guinea,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,40012,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,10,Cereals,,,,,,,0,,98564,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,28776,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,33639,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,30407,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,112888,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,103278,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,5713,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,8315,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,15027,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,776,Tonga,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1976,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,999,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,968,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,52094,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,270061,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,299,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,7186,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,379809,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,278938,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,176156,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1009752,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5665,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2729,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,138735,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1115,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18189,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1738,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,39567,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,335,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,254174,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,28735,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2689,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2830,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,9309,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,10536,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,98764,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,28531,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,102743,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,26037,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,471811,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2221,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,79406,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,129743,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,219866,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,34251,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,14799,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,9616,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,312,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,7766,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,27912,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,26642,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,71762,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,15087,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,14309,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,528,Netherlands,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,25233,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,75753,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,7719,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,50326,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3540,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,80495,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,149209,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,19488,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,108026,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,137941,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,48890,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5705,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,362319,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4607279,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,757,Switzerland,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,29310,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,40359,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,51475,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,62479,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,401,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,232846,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,22267,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,39363,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,318,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3645,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,94168,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1039806,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,35642,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,178362,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,637788,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,5074088,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,178525,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,71762,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,708373,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,232128,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,226542,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,9491,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,310,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1352548,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,312,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,847,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,105957,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,34512,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2748,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,129408,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,35865,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,177833,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,70182,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2206,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3395,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6945,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,59117,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,0,,690,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,3898,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,674,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,52363,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,708,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,6034,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2697,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,217203,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,127220,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1747,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,310,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,25793,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,49649,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,225620,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,79331,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,14090,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,47856,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,29,Organic chemicals,,,,,,,0,,880,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,37938,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,276,Germany,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2013,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,330228,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2944,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4100,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,587,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,29968,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,12798,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1510,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5470,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,534,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,30877,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2671,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,31009,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,36703,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,48863,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4870,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,889,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,26404,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,48756,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,64065,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,31,Fertilizers,,,,,,,0,,33230,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,219061,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5284,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,29,Organic chemicals,,,,,,,0,,11751,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,44924,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,57380,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,16948,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,87295,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,47585,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,68018,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,45878,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,819110,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1055,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,395,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,19929,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,236,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,29,Organic chemicals,,,,,,,0,,856,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,61090,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,12501,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,703,Slovakia,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1104,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7850,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,24548,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,342,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,136773,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,792,Turkey,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,965,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,792,Turkey,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4965,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3269,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,826,United Kingdom,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2268,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,67721,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,95569,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5039,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,472,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,98040,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1209,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,49455,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,25829,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,18352,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5801,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3016,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,351,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,84126,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,14177,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,542737,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,33230,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,342829,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,239434,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,473408,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,61203,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,369456,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,21764,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,543498,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1549,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,707765,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,138549,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,28989,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,6776,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3036,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,41498,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,37443,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,24591,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,8422,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,3435,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,122508,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,177568,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,69704,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,107003,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,21552,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1570,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,679,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,187698,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,72548,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15756,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8409,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,533162,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,847865,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,14673,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,259667,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,25887,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,310941,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,128018,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,150349,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1823718,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,785,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3407,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,52,Cotton,,,,,,,0,,1837,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,41251,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,9381,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,990,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,21640,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2049,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,57489,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,72,Iron and steel,,,,,,,0,,1244,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,70,Glass and glassware,,,,,,,0,,1869,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,69,Ceramic products,,,,,,,0,,3562,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6911,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,3623,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,480,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6902,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,95585,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,68700,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,21746,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,993,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1292,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,144,Sri Lanka,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,32605,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,24186,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2216,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,10559,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,41498,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2353,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2037,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,11642,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3199,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,0,,1959,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,194549,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,537,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,8106,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,33708,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,929,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,430,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,53857,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,679,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,14421,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,7056,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,4302,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,34962,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,495122,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,121773,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,36724,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,25248,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2565,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,39890,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,444265,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,8252,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,7009,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3031,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,73,Iron or steel articles,,,,,,,0,,63550,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,72,Iron and steel,,,,,,,0,,87498,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,70,Glass and glassware,,,,,,,0,,655,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,232,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,235,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,12565,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,104950,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,37597,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5776,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,77067,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,52,Cotton,,,,,,,0,,25993,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3674,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,6776,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,54,Man-made filaments,,,,,,,0,,771,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,97717,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1011,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,294,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10218,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,644,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,16754,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,16047,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8172,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,69,Ceramic products,,,,,,,0,,4223,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,70,Glass and glassware,,,,,,,0,,797,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,72,Iron and steel,,,,,,,0,,17937,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,73,Iron or steel articles,,,,,,,0,,30089,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,29699,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,4045,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,10954,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,228417,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,22333,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,253,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,72,Iron and steel,,,,,,,0,,34407,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,28574,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1236,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,10927,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,72,Iron and steel,,,,,,,0,,40977,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,35188,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,18219,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,4004,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,48311,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,458,Malaysia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3274,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4225,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,11974,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,12782,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6544,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,16568,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1140,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,69,Ceramic products,,,,,,,0,,48873,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,333,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,35511,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1064,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,14020,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,208082,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,65995,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,72,Iron and steel,,,,,,,0,,11066,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,73,Iron or steel articles,,,,,,,0,,145370,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,70,Glass and glassware,,,,,,,0,,3492,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,628899,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,55952,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,8657,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,639,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,270705,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13014,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,59286,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,598,Papua New Guinea,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,215,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,76886,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,70,Glass and glassware,,,,,,,0,,1591,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1172,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,50060,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,818,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2007,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,704,Viet Nam,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,9144,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,735,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,735,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,11976,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,73,Iron or steel articles,,,,,,,0,,44039,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,72,Iron and steel,,,,,,,0,,305071,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,70,Glass and glassware,,,,,,,0,,295,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,69,Ceramic products,,,,,,,0,,1469,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,85198,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,735,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,952,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,703,Slovakia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4796,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,757,Switzerland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,61471,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,12187,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1469,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,735,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3004,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,22409,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,334,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,14824,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,51381,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,54,Man-made filaments,,,,,,,0,,306,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,52,Cotton,,,,,,,0,,1160,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2178,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7171,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7009,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,201,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,4107,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,0,,11034,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13687,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,32481,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,3513,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1470,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1478,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,232177,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1053985,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2417544,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,3330,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,338423,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,744,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,583,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,16,American Samoa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,286,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,30562,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,102056,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,154808,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,8840,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,421,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,708,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,13885,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,116906,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,36,Australia,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,298,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,27020,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,134636,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,13075,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,408,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,23403,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,311384,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,532607,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,19927,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,156,China,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,357,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,23093,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,10915,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1609,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,88533,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,242,Fiji,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,40307,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,27865,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,360,Indonesia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,15412,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,855080,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,27510,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,603,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3062,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6021,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,31864,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,19480,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,344,"China, Hong Kong SAR",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5747,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,490,"Other Asia, nes",,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6245,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,11116,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,10822,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,62149,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,141440,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,306625,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,536,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21313,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,744,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,265,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,113044,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,36537,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1690,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,598,Papua New Guinea,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,924,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,27642,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,554,New Zealand,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,36712,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,238,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,721889,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,702,Singapore,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,27779,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2725,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3521,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,735,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2938,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,735,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,764,Thailand,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1469,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,67242,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,2766,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,118412,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,25397,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4650,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,576,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2998,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,357,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,243285,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,88239,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,246541,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4177,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,13809,,,0
+HS,2021,202101,January 2021,2,0,1,Imports,882,Samoa,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,708,,,0

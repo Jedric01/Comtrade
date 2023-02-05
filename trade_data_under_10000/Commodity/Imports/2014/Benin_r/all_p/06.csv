@@ -1,0 +1,973 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,1210356,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,36,Australia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,128120,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,136043,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,5582,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,100,Bulgaria,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,5559,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,4005,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,123470,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,50423,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,21769,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,27456,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,79884,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,616,Poland,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,140379,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,7399,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,166,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,183764,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,254385,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,16598,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,25355,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,458341,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,247036,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,218,Ecuador,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,14877,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,66607,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,19891,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,50065,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,620,Portugal,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,2148,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,25511,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,32207,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,29061,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,01,Animals; live,,,,,,,,,20012,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,01,Animals; live,,,,,,,,,9049,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,32,Argentina,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,136752,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,203,Czech Rep.,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,23207,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,918788,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,77702,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,152,Chile,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,17201,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,77700,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,130352,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,525558,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,360,Indonesia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,13555,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,63347,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,562,Niger,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,514,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,12859,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,300512,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,5599,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,288,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,149275,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,16151,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,128826,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,373,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,4263334,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,12,Algeria,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,13049,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,7218,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,36291,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,300,Greece,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,1706,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,1036,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,392,Japan,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,870240,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,2194624,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,23206,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,218,Ecuador,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,22378,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,478,Mauritania,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,5673898,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,516,Namibia,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,602802,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,1612,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,21825,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,124154,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,340,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,906706,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,858,Uruguay,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,23206,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,9139355,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,62284,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,1055673,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,395006,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,764,Thailand,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,66304,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,3806370,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,760878,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,203,Czech Rep.,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,12714,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,1053151,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,103922,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,458,Malaysia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,23744,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,93,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,191164,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,131401,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,26533,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,788,Tunisia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,45700,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,2000,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,43761,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,28041,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,21458,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,906500,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,99827,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,788,Tunisia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,31338,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,818,Egypt,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,6245,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,2913224,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,72491,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,21715,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,182664,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,217473,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,372,Ireland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,108739,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,814396,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,787561,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,562,Niger,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,1293,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,3446,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,483326,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,6892,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,140738,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,1738645,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,24776,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,110865,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,205163,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,1886,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,161193,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,24180,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,93932,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,44586,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,458,Malaysia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,89477,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,102231,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,51814,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,60081,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,202204,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,163,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,58734,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,89165,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,418194,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,15871539,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,32,Argentina,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,257758,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,36,Australia,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,96659,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,225538,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,1514325,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,124,Canada,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,1256571,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,203,Czech Rep.,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,314719,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,451075,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,2815722,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,386639,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,372,Ireland,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,64439,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,644395,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,2044024,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,616,Poland,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,773271,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,620,Portugal,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,32220,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,2190934,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,757,Switzerland,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,64439,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,136,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,193320,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,1965397,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,579958,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,177863,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,152,Chile,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,26868,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,169,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,21494,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,9853,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,2487,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,733,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,37,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,73904,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,42317,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,32692,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,124,Canada,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,394,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,8950,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,751,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,4643,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,15844,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,2110,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,20352,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,490,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,377,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,2001110,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,1111071,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,209571,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,170,Colombia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,11317,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,195465,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,3781,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,68780,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,135992,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,62574,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,4527,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,21620,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,23085,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,899,"Areas, nes",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,153326,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,10,Cereals,,,,,,,,,84955767,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,10,Cereals,,,,,,,,,2125600,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,10,Cereals,,,,,,,,,102193,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,10,Cereals,,,,,,,,,263909,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,10,Cereals,,,,,,,,,10049,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,458,Malaysia,,,,,,,,,10,Cereals,,,,,,,,,402449,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,,,306648,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,10,Cereals,,,,,,,,,9219207,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,10,Cereals,,,,,,,,,2437124,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,704,Viet Nam,,,,,,,,,10,Cereals,,,,,,,,,1984366,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,757,Switzerland,,,,,,,,,10,Cereals,,,,,,,,,1156768,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,,,56868926,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,,,7265433,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,10,Cereals,,,,,,,,,29837,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,858,Uruguay,,,,,,,,,10,Cereals,,,,,,,,,2730363,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,899,"Areas, nes",,,,,,,,,10,Cereals,,,,,,,,,52895,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,5606,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,2323749,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,19046,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,909153,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,60916,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,52250,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,13828,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,12593,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,2701,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,3261,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,9335,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,808851,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,3551,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,40991,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,757,Switzerland,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,562,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,21355,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,788,Tunisia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,1952,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,804,Ukraine,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,322388,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,35410,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,4722806,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,92304,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,583649,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,264469,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,28391,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,177814,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,300,Greece,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,3683,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1620,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1235322,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,282583,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,,,164499,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,758,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,562,Niger,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,342,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,31164,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,586,Pakistan,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,7015,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,682,Saudi Arabia,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,57005,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1093,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,15528,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,46165,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,292800,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,752,Sweden,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,628,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,887813,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,63163,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,788,Tunisia,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,15693,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1549,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,818,Egypt,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,33160,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,97059,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,337537,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,2245226,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,63402,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,283394,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,478,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,270665,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,11565,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,9053,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,82935,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,25996,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,166,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,440,Lithuania,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,12822,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,458,Malaysia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,33430,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,796206,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,35968,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,22145,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,620,Portugal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,11644,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,166,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,38658,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,298927,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,204,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,15843,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,757,Switzerland,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,421,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,207024,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,4791,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,19013,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,311,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,434262,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,5651,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,124,Canada,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,39043,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,108269,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,314,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,114783,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,651,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,32113,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,35,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,9349,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,616,Poland,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,65,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,21,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,727,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,702,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,18,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,818,Egypt,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,631,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,53556,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,68332,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,2716,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,2716,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,292551,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,119572,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,214,Dominican Rep.,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,358,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,12438,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,410,Rep. of Korea,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,13580,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,656,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,2778,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,787,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,142338,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,43,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,177715,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,16154,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,4979,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,88011,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1657,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,48,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,28038,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,38376,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,453,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,13824741,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,4,Afghanistan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,4330,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,32,Argentina,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6473,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,36,Australia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1050,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,40,Austria,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,12912,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1132355,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2045195,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,184,Cook Isds,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,445,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,203,Czech Rep.,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,881,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,222,El Salvador,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,11317,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,246,Finland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1724,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1485806,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,268,Georgia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1229,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,25494,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,52123,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,348,Hungary,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,311,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,364,Iran,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,576,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,1452231,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,899,"Areas, nes",,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,4838,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,358110,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,6890,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,113600,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,44507,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,6633,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,186480,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,5477577,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,86477,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,22792,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,75520,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,81129,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,1222305,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,1461034,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,113960,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,2174223,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,227113,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,788,Tunisia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,13023,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,1466481,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,269268,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,6581,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,122671,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,253796,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,503,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,85542,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,2934,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,14369,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,9053,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,14048,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,14807,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,106066,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,5553,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,818,Egypt,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,543143,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,18145,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,473983,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,792,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,106913,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,76185,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,203,Czech Rep.,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,16183,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,2479,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,90754,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,33705,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,85297,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,3848,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,11592,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,752,Sweden,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,11368,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,29940,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,4927,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,89298,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,54,Man-made filaments,,,,,,,,,290,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,,,89008,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,1477,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,1477,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,1713967,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,70,Glass and glassware,,,,,,,,,16140,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,70,Glass and glassware,,,,,,,,,46338,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,70,Glass and glassware,,,,,,,,,1046860,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,757,Switzerland,,,,,,,,,70,Glass and glassware,,,,,,,,,30,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,70,Glass and glassware,,,,,,,,,870,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,899,"Areas, nes",,,,,,,,,70,Glass and glassware,,,,,,,,,435,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,70,Glass and glassware,,,,,,,,,2973,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,,,264516,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,70,Glass and glassware,,,,,,,,,240514,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,70,Glass and glassware,,,,,,,,,88391,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,70,Glass and glassware,,,,,,,,,5744,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,70,Glass and glassware,,,,,,,,,1156,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,12994,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,4443,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,3706,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,4844,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,4012874,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,72,Iron and steel,,,,,,,,,666940,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,72,Iron and steel,,,,,,,,,568484,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,72,Iron and steel,,,,,,,,,2024,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,72,Iron and steel,,,,,,,,,132011,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,72,Iron and steel,,,,,,,,,63652,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,562,Niger,,,,,,,,,72,Iron and steel,,,,,,,,,5594,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,72,Iron and steel,,,,,,,,,79197,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,72,Iron and steel,,,,,,,,,259133,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,72,Iron and steel,,,,,,,,,2235840,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,177640,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,2678,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,40140,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,51003,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,2476,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,2820,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,57003,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,616,Poland,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,289,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,115,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,1007,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,20109,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,208948,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,157,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,98620,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,40160,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,1784,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,558,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,51177,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,208,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,283,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,167,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,15836,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,9495909,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,4,Afghanistan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,9131,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,36,Australia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1371,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,40,Austria,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,83676,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,51,Armenia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1440,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1485228,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,124,Canada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2866,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1282191,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,191,Croatia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,51933,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,306,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,222,El Salvador,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,539,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,246,Finland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,898649,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1384195,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,126314,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,461,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,5470,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,360,Indonesia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,159,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1450929,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,24825,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,5056,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,426662,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,414,Kuwait,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,155,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2332,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,442,Luxembourg,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,52,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,458,Malaysia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,917,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,4714,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3662,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,89516,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,204052,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,581,United States Minor Outlying Islands,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,334,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,47559,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3710,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,89141,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,236326,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,399593,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,748,Swaziland,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,11744,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,752,Sweden,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,10440,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,760,Syria,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1456,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,15846,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,752774,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,33778,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,22583,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,70701,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,121451,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,65360,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,899,"Areas, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,66310,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,801286,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,29405,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,330072,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,340,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,399756,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,61721,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,616,Poland,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,6693,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,49043,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,881076,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,11994,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,85733,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,170874,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,14685,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,133,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,38735,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,682,Saudi Arabia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,7403,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,6293,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,764,Thailand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,7403,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,5294,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,7998,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,796,Turks and Caicos Isds,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,7317,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,947607,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,310801,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,203,Czech Rep.,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,24872,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,62160,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,204161,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,124321,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,159131,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,62160,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,32592,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,705558,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,23098,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,293,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,20633,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,7389,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,25364,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,370920,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,255335,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,608,Philippines,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,409,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,616,Poland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,597,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,620,Portugal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,75503,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,642,Romania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1494,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,643,Russian Federation,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,5263,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,196453,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,72490,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1579483,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1797,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,18283,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,1067899,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,34119,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,32591,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,18283,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,9958,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,129399,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,3297,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,7216,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,140532,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,20939,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,6216,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,97699,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,414,Kuwait,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,7319,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,58906,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,11046,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,28097,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,716,Zimbabwe,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,4144,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,11208,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,757,Switzerland,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,1243,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,19189,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,2263,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,861,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,22684,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,9122,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,13305,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,118919,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,704,Viet Nam,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,16318,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,227541,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3153,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,752,Sweden,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6368423,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,757,Switzerland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,74420,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,760,Syria,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,268,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,184628,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,772,Tokelau,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1831,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,31911,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,15843,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,804,Ukraine,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1486,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,57727,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,410,Rep. of Korea,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,27160,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,458,Malaysia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,12651,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,17274,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,682,Saudi Arabia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,13579,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,3100,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,31239,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,29568,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,90982,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,9053,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,21745,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,290,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,15844,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,9958,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,6790,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,23,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,23,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,8638994,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,634858,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,124,Canada,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,61109,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,946425,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,5039105,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,33340,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,20967,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,12710,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,348,Hungary,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,40739,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,372,Ireland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,40739,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,4438,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,4144,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,392,Japan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,12737,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,410,Rep. of Korea,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,101859,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,104620,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,440,Lithuania,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,14504,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,3591,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,20368,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,38671,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,3440,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,4179,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,1481,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,17620,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,2036,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,9914,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,737976,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,29246,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,210585,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,140593,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,40300,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,9953,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,292,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,50613,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,156175,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,100218,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,61235404,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,8664428,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,18317,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,177433,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,121712,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,29356,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,17202,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,40402,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,8718,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,562,Niger,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,25568,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,466,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1816326,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,64457,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,236265,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2176,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,967210,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,40,Austria,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,305,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,51,Armenia,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,7339,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,4710,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,21094,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,95719,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,335952,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,45446,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,7671,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,8379,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,4127,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,410,Rep. of Korea,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,8776,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,19554,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1939,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,616,Poland,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,181239,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,31203,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,100,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,4387,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,13268,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,3182,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,579,Norway,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,3147,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,829,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,788,Tunisia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,6290,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,32904,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,16215,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,16689,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,509522,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,,,309828,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,55,Man-made staple fibres,,,,,,,,,7431,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,764,Thailand,,,,,,,,,55,Man-made staple fibres,,,,,,,,,22632,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,55,Man-made staple fibres,,,,,,,,,169630,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,78377,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,680,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,62052,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,1483,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,11743,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,2419,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,35729,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,3398,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,11420,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,548,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,20364,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,1347,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,18138,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,240607,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,78245,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,34408,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,47818,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,617,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,24719,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,9920,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,4634,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,818,Egypt,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,33988,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,6258,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,480696,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,29,Organic chemicals,,,,,,,,,63112,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,76,Brazil,,,,,,,,,29,Organic chemicals,,,,,,,,,14840,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,,,6132,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,29,Organic chemicals,,,,,,,,,86292,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,360,Indonesia,,,,,,,,,29,Organic chemicals,,,,,,,,,191717,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,29,Organic chemicals,,,,,,,,,23386,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,29,Organic chemicals,,,,,,,,,55677,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,29,Organic chemicals,,,,,,,,,39539,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,283989,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,30,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,6763,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,3659,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,2973,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,86,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,44,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,108962,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,129,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,108709,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,124,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,25989,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,19745,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1030,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,158,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,5056,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2544,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1214,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1153,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,176,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,181,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,181,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,64845,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,2000,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1305,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,4227,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1566,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,151017,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,53917,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,19516,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,2975,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,19378,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,249,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,8244,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,144,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,3410,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,14474,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,616,Poland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,20370,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,460,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,757,Switzerland,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,62,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,118668,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,755,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,1106554,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,281400,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,2638241,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,40,Austria,,,,,,,,,73,Iron or steel articles,,,,,,,,,41773,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,73,Iron or steel articles,,,,,,,,,7377,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,124,Canada,,,,,,,,,73,Iron or steel articles,,,,,,,,,207,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,,,1002356,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,246,Finland,,,,,,,,,73,Iron or steel articles,,,,,,,,,18,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,73,Iron or steel articles,,,,,,,,,200400,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,,,16824,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,300,Greece,,,,,,,,,73,Iron or steel articles,,,,,,,,,101,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,,,502341,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,73,Iron or steel articles,,,,,,,,,38015,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,392,Japan,,,,,,,,,73,Iron or steel articles,,,,,,,,,5409,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,73,Iron or steel articles,,,,,,,,,2731,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,73,Iron or steel articles,,,,,,,,,136,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,73,Iron or steel articles,,,,,,,,,20660,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,581,United States Minor Outlying Islands,,,,,,,,,73,Iron or steel articles,,,,,,,,,485,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,73,Iron or steel articles,,,,,,,,,928,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,,,16101,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,702,Singapore,,,,,,,,,73,Iron or steel articles,,,,,,,,,18751,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,73,Iron or steel articles,,,,,,,,,31283,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,716,Zimbabwe,,,,,,,,,73,Iron or steel articles,,,,,,,,,2072,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,73,Iron or steel articles,,,,,,,,,3151,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,752,Sweden,,,,,,,,,73,Iron or steel articles,,,,,,,,,81782,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,764,Thailand,,,,,,,,,73,Iron or steel articles,,,,,,,,,9038,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,73,Iron or steel articles,,,,,,,,,13798,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,,,3621,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,73,Iron or steel articles,,,,,,,,,10246,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,818,Egypt,,,,,,,,,73,Iron or steel articles,,,,,,,,,553706,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,73,Iron or steel articles,,,,,,,,,51824,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,73,Iron or steel articles,,,,,,,,,3108,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,6799902,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,19118130,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,21408,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,7566766,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,752,Sweden,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1500,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,757,Switzerland,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,282885,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,13793909,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,581641,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2153503,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,145791,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,29008,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,5503377,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,4,Afghanistan,,,,,,,,,30,Pharmaceutical products,,,,,,,,,115,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,51,Armenia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,5358,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,30,Pharmaceutical products,,,,,,,,,150818,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,124,Canada,,,,,,,,,30,Pharmaceutical products,,,,,,,,,50058,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,,,179853,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,231,Ethiopia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,760,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,,,4202181,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,,,45574,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,360,Indonesia,,,,,,,,,30,Pharmaceutical products,,,,,,,,,234965,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,30,Pharmaceutical products,,,,,,,,,565,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,466,Mali,,,,,,,,,30,Pharmaceutical products,,,,,,,,,54719,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,30,Pharmaceutical products,,,,,,,,,41518,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,,,999,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,581,United States Minor Outlying Islands,,,,,,,,,30,Pharmaceutical products,,,,,,,,,853,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,616,Poland,,,,,,,,,30,Pharmaceutical products,,,,,,,,,64,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,30,Pharmaceutical products,,,,,,,,,104973,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,,,296327,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,30,Pharmaceutical products,,,,,,,,,5720,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,30,Pharmaceutical products,,,,,,,,,124459,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,804,Ukraine,,,,,,,,,30,Pharmaceutical products,,,,,,,,,2048,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1450,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,14480001,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,31,Fertilizers,,,,,,,,,33275,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,31,Fertilizers,,,,,,,,,40819,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,31,Fertilizers,,,,,,,,,4471,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,31,Fertilizers,,,,,,,,,14401436,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,218345,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,20911,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,15757,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,13671,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,64025,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,34993,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,693,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,52745,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,9570,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,5982,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,1738713,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,40,Austria,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,376,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,98435,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,808753,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,237258,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,313480,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,7984,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,88916,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,19997,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,74592,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,704,Viet Nam,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,3564,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,5815,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,60066,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,19477,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,47849,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,404,Kenya,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,47849,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,32170,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,14095,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,698,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,15652,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,690,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,1035,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,531454,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,8669,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,485464,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,11785,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,10007,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,244,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,2870,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,504,Morocco,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1407,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,716,Zimbabwe,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1036,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,3529,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,247399,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,7310,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,838,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,392,Japan,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,10873,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,16230,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,642,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,511,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,155,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,52,Cotton,,,,,,,,,4781160,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,36,Australia,,,,,,,,,52,Cotton,,,,,,,,,1617,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,52,Cotton,,,,,,,,,1316099,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,52,Cotton,,,,,,,,,1159036,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,52,Cotton,,,,,,,,,5667,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,52,Cotton,,,,,,,,,264169,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,52,Cotton,,,,,,,,,1608281,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,52,Cotton,,,,,,,,,8259,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,52,Cotton,,,,,,,,,80490,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,764,Thailand,,,,,,,,,52,Cotton,,,,,,,,,113091,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,52,Cotton,,,,,,,,,174281,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,52,Cotton,,,,,,,,,1262,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,52,Cotton,,,,,,,,,45220,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,52,Cotton,,,,,,,,,1927,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,899,"Areas, nes",,,,,,,,,52,Cotton,,,,,,,,,1761,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,144694,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,87024,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,3349,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,73,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,4399,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,932,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1036,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,76,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,1097353,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,892404,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,11474,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,1868,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,15843,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,392,Japan,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,7136,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,562,Niger,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,31548,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,30068,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,198,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,97060,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,9755,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,574981,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,1284,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,240507,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,18125,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,13884,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,288,Ghana,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,44548,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,344,"China, Hong Kong SAR",,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,27527,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,393,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,422,Lebanon,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,19573,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,414,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,3240,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,200340,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,126,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,4784,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,236,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,134026,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,12750,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,112066,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,9210,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,570,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,2909,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,764,Thailand,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1041,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,49728,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,55218,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,6271,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,10126,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,18864,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,19958,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,2131214,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,69,Ceramic products,,,,,,,,,1291,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,69,Ceramic products,,,,,,,,,1449123,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,69,Ceramic products,,,,,,,,,108788,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,69,Ceramic products,,,,,,,,,186532,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,69,Ceramic products,,,,,,,,,546,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,69,Ceramic products,,,,,,,,,71058,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,704,Viet Nam,,,,,,,,,69,Ceramic products,,,,,,,,,46510,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,,,49847,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,69,Ceramic products,,,,,,,,,985,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,,,112910,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,796,Turks and Caicos Isds,,,,,,,,,69,Ceramic products,,,,,,,,,100455,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,69,Ceramic products,,,,,,,,,3169,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,106878,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,,,59903,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,74,Copper and articles thereof,,,,,,,,,108,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,74,Copper and articles thereof,,,,,,,,,104,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,686,Senegal,,,,,,,,,74,Copper and articles thereof,,,,,,,,,2317,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,74,Copper and articles thereof,,,,,,,,,752,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,752,Sweden,,,,,,,,,74,Copper and articles thereof,,,,,,,,,40794,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,74,Copper and articles thereof,,,,,,,,,2901,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,14685241,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,2669610,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,124,Canada,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,26639,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,3819746,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,208,Denmark,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,30521,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1611387,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,571205,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,104574,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,384,Côte d'Ivoire,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,16129,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,156847,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,584822,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,13581,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,528,Netherlands,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,589541,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,562,Niger,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,155,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,837647,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,579,Norway,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,28618,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,616,Poland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,35638,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,620,Portugal,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4144,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,181475,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,710,South Africa,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,153023,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,7459,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,757,Switzerland,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,148045,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,640186,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,74952,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,792,Turkey,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,5776,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4244,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1848681,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,253817,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,899,"Areas, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,266778,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,242915,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,56,Belgium,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,3066,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,54686,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,251,France,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,7018,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,276,Germany,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,884,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,381,Italy,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1711,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,538,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,724,Spain,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,173604,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,768,Togo,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,166,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,826,United Kingdom,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1243,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,1058,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,120,Cameroon,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,996,,,0
+HS,2014,201406,June 2014,2,0,1,Imports,204,Benin,,566,Nigeria,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,62,,,0

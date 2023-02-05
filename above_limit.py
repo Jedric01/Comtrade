@@ -9,10 +9,6 @@ MAX_RESULT = 10000
 reqHandler = Comtrade()
 writer = Writer()
 
-# first run, initialize reporting areas and partner areas
-# writer.writeToFile("reporting_areas.txt", [area + '#0' for area in reqHandler.reportingAreas])
-# writer.writeToFile("partner_areas.txt", reqHandler.partnerAreas)
-
 availParams = {
     "type": "C", 
     "freq": "M", 
@@ -27,25 +23,48 @@ dataParams = {
     "ps": "2012",
     "px": "HS"
 }
-
-# get start year, start month and maps
-start_year, start_month, area_map, line_map = writer.parseFile("reporting_areas.txt")
-# years = [str(year) for year in range(int(start_year), 2023)]
-# months = ["{:02d}".format(month) for month in range(int(start_month), 13)]
-# periods = []
-# for y in years:
-#     for m in months:
-#         periods.append(y+m)
-# writer.writeYearsAndMonths('Progress.txt', periods)
-
+dataParams['type'] = availParams['type']
+m = 3
 periods = writer.readYearsAndMonths('Progress.txt')
 
+while len(periods) > 0:
+    p = periods[0]
+    availParams["ps"] = p
+    
+    for r in reporting_desc:
+        writer.write_areas('ProgressPartner1.txt', area_availability[1,])
+        writer.write_areas('ProgressPartner2.txt', area_availability[1,])
+        for rg in [1, 2]:
+            dataParams['rg'] = rg
+            partner_areas= writer.read_areas(f'ProgressPartner{rg}.txt')
+            partner_code, partner_desc = partner_areas.keys(), list(partner_areas.items())
+            for i in range(len(partner_areas), m):
+                # get m partners from the partner_areas dictionary
+                dataParams['p'] = ','.join(partner_code[i, i+m])
+                dataParams['ps'] = p
+                dataParams['r'] = r
+                response = reqHandler.getResponse(dataParams)
+                writer.writeToCSV(response, p[:4], p[4:], r, '-'.join(partner_desc[i, i+m])
+                    , top_level=writer.DATA_DIR_ABOVE_10000, trade_type = dataParams['type'], rg = dataParams['rg'])
+                # update partner progress
+                del partner_areas[i, i+m]
+                writer.write_areas(f'ProgressPartner{rg}.txt', partner_areas)
+        # update reporting progress
+        del reporting_desc[0]
+        writer.write_areas(f'ProgressReporting.txt', reporting_desc)
+    # update period progress
+    del periods[0]
+    writer.writeYearsAndMonths('Progress.txt', periods)
 
-# past 10 years
-# currentYear = dt.today().year
-# periods = [currentYear - i - 1 for i in range(11)]
-# periods.sort()
-# periodStr = (str(p) for p in periods)
+    area_availability = reqHandler.get_reporting_totalRecords(availParams)
+    # filter the areas with total records greater than limit and sort descending
+    area_availability = sorted(filter(lambda area: area['TotalRecords'] is not None and area['TotalRecords'] > MAX_RESULT, area_availability), key=lambda area: area['TotalRecords'], reverse=True)
+    writer.write_areas('ProgressReporting.txt', area_availability)
+    reporting_desc = writer.read_areas('ProgressReporting.txt')
+
+    
+
+exit()
 
 # get trade records
 areas = list(area_map.keys())

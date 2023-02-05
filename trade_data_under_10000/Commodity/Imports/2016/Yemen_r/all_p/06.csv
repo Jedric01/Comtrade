@@ -1,0 +1,991 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,706,Somalia,,,,,,,,,01,Animals; live,,,,,,,0,,2691414,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,01,Animals; live,,,,,,,0,,1182811,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,262,Djibouti,,,,,,,,,01,Animals; live,,,,,,,0,,87393,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,231,Ethiopia,,,,,,,,,01,Animals; live,,,,,,,0,,72461,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,4034079,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,18572900,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,14660790,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,32,Argentina,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,799318,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1500876,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,16843,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,50848,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,804,Ukraine,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,119056,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,858,Uruguay,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1425169,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1491584,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,11774,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1503358,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,32163148,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,16,American Samoa,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,943,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,36,Australia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1237039,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1824999,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,231,Ethiopia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,9997,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3172654,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5196303,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,372,Ireland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2547995,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1552916,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,9930,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,41966,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,465478,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,702,Singapore,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,555670,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,616,Poland,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,531098,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,554,New Zealand,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1340870,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,752,Sweden,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,171206,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,38738,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1447940,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,199228,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,377676,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,348703,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,504,Morocco,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3497549,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,6732,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2413208,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,869108,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3576754,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,593074,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,804,Ukraine,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,135375,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,90114,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,729,Sudan,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,82882,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,118913,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,231,Ethiopia,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,58682,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,350590,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,7020835,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,231,Ethiopia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,227664,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,124,Canada,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1265800,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,36,Australia,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,586161,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,364,Iran,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,25459,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1646108,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,16690,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,643,Russian Federation,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1467475,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,109064,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,138421,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,328337,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,83445,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,182058,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,30602,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,242057,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,671493,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,16018,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1636030,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3083,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,714728,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2881939,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,17651,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,93132,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9930,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2964318,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,153224,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,81953,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,554,New Zealand,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1433235,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,608,Philippines,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,164848,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,35669,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,710,South Africa,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2246955,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,121005,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,364,Iran,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1763923,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,16,American Samoa,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,893,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,32,Argentina,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,325180,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,4,Afghanistan,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,28119,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,152,Chile,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,640831,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,144,Sri Lanka,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,14825,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,33538,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,189716,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12916,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2103035,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2011,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,17688704,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9871222,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,404,Kenya,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3729222,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,231,Ethiopia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,29131,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,144,Sri Lanka,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,110789,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9930,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,320,Guatemala,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,178444,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2724537,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,753671,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2826647,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,29,Organic chemicals,,,,,,,0,,822139,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,29,Organic chemicals,,,,,,,0,,750813,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,29,Organic chemicals,,,,,,,0,,70577,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,29,Organic chemicals,,,,,,,0,,89569,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,29,Organic chemicals,,,,,,,0,,340974,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,29,Organic chemicals,,,,,,,0,,520937,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,29,Organic chemicals,,,,,,,0,,195723,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,29,Organic chemicals,,,,,,,0,,35915,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,241685,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,710,South Africa,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,13163,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1785764,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4586153,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1683869,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,6746742,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,216002,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,504,Morocco,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,490900,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8088472,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,110541,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1777687,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,58525,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4660713,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,138393,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,157626,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,342492,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,339832,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3714607,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,31647,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,300,Greece,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,35316,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,275,State of Palestine,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,80561,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,348,Hungary,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,751838,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1085909,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,539370,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,13777,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,170,Colombia,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,632790,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,32969,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3533330,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,92645,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,151810,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5137,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9333,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1903215,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,450,Madagascar,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,23859,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,149500,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,10,Cereals,,,,,,,0,,66701308,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,440,Lithuania,,,,,,,,,10,Cereals,,,,,,,0,,76701664,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,10,Cereals,,,,,,,0,,9239475,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,10,Cereals,,,,,,,0,,13558123,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,10,Cereals,,,,,,,0,,24763,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,10,Cereals,,,,,,,0,,5090581,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,654,Saint Helena,,,,,,,,,10,Cereals,,,,,,,0,,4264,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,10,Cereals,,,,,,,0,,28324,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,10,Cereals,,,,,,,0,,3925,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,32,Argentina,,,,,,,,,10,Cereals,,,,,,,0,,12333323,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,36,Australia,,,,,,,,,10,Cereals,,,,,,,0,,116336376,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,10,Cereals,,,,,,,0,,27363,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,10,Cereals,,,,,,,0,,3026,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,10,Cereals,,,,,,,0,,4304836,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,304357351,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,12901819,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,806084,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,188258,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4846,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,32,Argentina,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,74055,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,143310,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,116005,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,981634,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,24363,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2517937,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2876544,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,101800,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1589029,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,54579,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3423376,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,631715,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,8673,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,89104,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,113786,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,533,Aruba,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,15154,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,729,Sudan,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,462726,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,209366,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,124,Canada,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,117409,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1647932,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,165022,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,404,Kenya,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,13989,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,9737,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,39180,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,102116,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,28080,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,80081,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,13184,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,27808,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,65978,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,215131,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,58621581,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,78592,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4304836,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,29638216,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,70577,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,156923,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,18148110,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,482915,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,54164,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2577283,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,495004,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,92763,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,110541,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,880018,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,229544,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1302094,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,110934,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,43155,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,387102,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,147541,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,41530,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,21757,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,752019,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,38029834,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3851771,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,217709,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,170,Colombia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,76670,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,15028550,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,17141,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,235185,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,70577,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,233580,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,41477,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12216,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1037,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,703,Slovakia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,27904,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,616,Poland,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,921744,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8153238,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,100371,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2538046,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1203042,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,25851,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,504,Morocco,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,70718,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,349842,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,454018,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1051756,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3347393,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,804,Ukraine,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,21991,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,451881,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,51709,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,99086,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,231088,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,20034,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,538457,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,616,Poland,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,82165,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,89960,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,49409,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,384,Côte d'Ivoire,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,99086,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,34284,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,188903,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,64984,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4965,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2028000,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,18879797,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,391457,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,35960,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,60810,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,364,Iran,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,682805,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,372,Ireland,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,638058,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,32,Argentina,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,20765,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,100,Bulgaria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,109207,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,48727,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,13899,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,995938,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,616,Poland,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,86515,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,533,Aruba,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,44809,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,642,Romania,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,35396,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,869886,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1452155,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4029289,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,35639,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4163245,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,215806,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,470,Malta,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,128569,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,37868,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,376800,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1315270,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2966076,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,59863,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,772,Tokelau,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,64985,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,772,Tokelau,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,64985,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,9930,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5344235,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,977479,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1230105,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,154779,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7726,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,169591,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,17311,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,655310,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,346732,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,636478,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,702,Singapore,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,28956,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,107470,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6360,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,70577,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1376,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,256064,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,36940,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,71342,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,300,Greece,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,34984,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,29611,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,102349,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,11226260,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,21586950,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,17771804,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1188199,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,168528,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,112899,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1840181,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,191,Croatia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,22917,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,176167,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,70577,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31150,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,27919,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,642,Romania,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,16038,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1305077,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1509339,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,293022,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,519897,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,632309,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,29172,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,470,Malta,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,128569,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,3970643,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4994195,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,42036,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,542306,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,150667,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4025321,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,27975,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,38869,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,52306,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,671450,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,590324,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1071850,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,240067,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,616,Poland,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,20774,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,45214,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,96399,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,457224,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,210780,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,7548552,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,6502230,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,15355,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,32,Argentina,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2824307,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1554109,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,89804,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,279661,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,14728,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,14640,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,85928,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,41890675,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1833190,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,31,Fertilizers,,,,,,,0,,609368,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,31,Fertilizers,,,,,,,0,,145491,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,100,Bulgaria,,,,,,,,,31,Fertilizers,,,,,,,0,,49543,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,31,Fertilizers,,,,,,,0,,243225,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,31,Fertilizers,,,,,,,0,,89760,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,748,Swaziland,,,,,,,,,31,Fertilizers,,,,,,,0,,34320,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,31,Fertilizers,,,,,,,0,,96740,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,31,Fertilizers,,,,,,,0,,248210,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,31,Fertilizers,,,,,,,0,,46598,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,31,Fertilizers,,,,,,,0,,57612,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,31,Fertilizers,,,,,,,0,,212323,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,25542,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,309850,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,305375,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,15621,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,441354,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1793599,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,216586,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,87755,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8075,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,735,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,260018,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,329867,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1254187,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,39643,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1163744,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,710,South Africa,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,5729323,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,5837,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,158336,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,7057240,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,40035245,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,741976,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,364,Iran,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,15364,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4846,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,18152331,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,17977009,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,163400,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1932820,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,882444,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,132031,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,33025,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,22643,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,22643,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,50909087,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,330943,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,364,Iran,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,284885,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,305944,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8416,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,675222,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4148148,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,11525946,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5402088,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,486995,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,725116,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,219305,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,37288,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1014204,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,24288,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,67278,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,50816,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,838,Free Zones,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,222699,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,730577,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,547881,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,90289,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,355559,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,31879,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,29638,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,46306,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1381559,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,710,South Africa,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,62182,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,19993,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,634,Qatar,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,42100,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,337924,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,142717,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1405492,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,504,Morocco,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,27557,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,23081,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,126530,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,266203,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1283328,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,91524,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,110696,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,40725,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,21251,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,508032,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,158762,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3428458,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,154986,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,240746,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,45267671,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,752,Sweden,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,51688,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,634,Qatar,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4301,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,705,Slovenia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,31451,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,35915,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,34288,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,78028,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,603809,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,45692,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,513004,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,793204,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,66366,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,45935,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,598,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,63081,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,122475,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,11774,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1104344,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2955056,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,8929283,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3574210,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1758908,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,445709,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,14594,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,361947,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,325688,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,38898,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,757,Switzerland,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,198416,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,182547,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,146994,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4578,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,95932,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,24060,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,11366,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,11004,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,428,Latvia,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,21514,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,42138,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,110083,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,158369,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,158369,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,55994,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,222611,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,160523,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,208,Denmark,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,61292,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,184755,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,393416,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,171408,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1047927,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3696861,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,36704,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,181421,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,45994,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,186217,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,51885,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,228974,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,132277,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,535463,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1127156,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,158706,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,512403,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3886703,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,30775,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,634,Qatar,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,193859,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,620,Portugal,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,58854,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,190253,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,702,Singapore,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,123056,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,330681,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2000467,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,209276,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,31879,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,16653592,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1974663,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,528,Netherlands,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,86577,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1033495,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,792917,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2271,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,60499326,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,26572415,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,64472,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,98447,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,372,Ireland,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,43723,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,364,Iran,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,65933,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,213234,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,22731,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,362303,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,449041,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,166223,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,746131,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,404,Kenya,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,193859,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6410,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,258876,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,688593,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1149354,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,418056,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,222891,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,358982,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,147948,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4702093,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6093575,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,40388,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6569,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,172396,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,10769,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,13482,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,59013,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,124765,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,65752,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,9744915,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,9973785,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,20670,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,15525,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,192676,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,162598,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,642,Romania,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,14216,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,752,Sweden,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2414536,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,27494,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,79152,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,76484021,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1306832,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,13373,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,246,Finland,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,8451,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,566849,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,11404,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1659441,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,70219675,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,130567,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,27304,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,17753,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,9036,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,65866,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,10608,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,107645,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,117343,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,9698,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2748018,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,18543,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,545556,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,83686,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,350397,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,40,Austria,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,189757,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,9478,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,37303,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,163299,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3856894,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,18359138,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,176480,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,34807,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,504,Morocco,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,490900,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,666882,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,492872,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,675405,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6267488,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,283759,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,7295,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,15444,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,273821,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,752,Sweden,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,63453,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,22281,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,885319,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2040,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,96613,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,44115,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2085,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,703490,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,314603,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,244033,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,50,Silk,,,,,,,0,,78751,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,50,Silk,,,,,,,0,,78751,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,20380,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,20380,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,52,Cotton,,,,,,,0,,96930,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,127964,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,52,Cotton,,,,,,,0,,13497,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,52,Cotton,,,,,,,0,,17537,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,54,Man-made filaments,,,,,,,0,,50323,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,54,Man-made filaments,,,,,,,0,,14640,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,54,Man-made filaments,,,,,,,0,,274766,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,54,Man-made filaments,,,,,,,0,,16939,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,54,Man-made filaments,,,,,,,0,,90509,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,54,Man-made filaments,,,,,,,0,,996715,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,54,Man-made filaments,,,,,,,0,,62396,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,24774627,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,54,Man-made filaments,,,,,,,0,,21776108,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,54,Man-made filaments,,,,,,,0,,1037932,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,54,Man-made filaments,,,,,,,0,,15300,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,54,Man-made filaments,,,,,,,0,,438999,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,55,Man-made staple fibres,,,,,,,0,,63673,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1690425,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2030149,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,14040,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,95684,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,608,Philippines,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,103374,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,31879,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,31074,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,50830,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,54538,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,85779,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2361438,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1962283,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,172826,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,19794,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,15387,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,308219,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7912,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,16,American Samoa,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1779,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,888612,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7992565,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3114,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2958411,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,770396,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,434,Libya,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,204722,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2630027,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,219373,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,408352,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,408352,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1053598,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,57120,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,58295,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2106543,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,770396,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,167135,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,22405,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,137872,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,8013,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,107455,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,4287902,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,4501714,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1231,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,13942,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,43364,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,126078,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,29195,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,191708,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,31879,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,212796,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1989433,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,50878,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,9051,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,399700,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,49125031,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,46204016,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,8013,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,27557,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,188,Costa Rica,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,11052,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,613850,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,404,Kenya,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3103,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,408,Dem. People's Rep. of Korea,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,20770,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,113716,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3703,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5877945,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,11913664,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,939426,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1336462,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,817282,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2127445,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6400,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,27321,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,15190,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,91135,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,77250,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,19170,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1434763,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,446635,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,100277,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,28191,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,23013,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,37154696,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,34738956,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,192,Cuba,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,24402,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,120,Cameroon,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,15308,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,20,Andorra,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,129091,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,26504,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,313060,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,313060,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1117277,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1117277,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2263950,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8930,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,29212,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3406147,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,91741,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,774275,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,17486,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,220553,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,69,Ceramic products,,,,,,,0,,1974336,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,69,Ceramic products,,,,,,,0,,13169,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,69,Ceramic products,,,,,,,0,,1184585,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,69,Ceramic products,,,,,,,0,,702770,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,69,Ceramic products,,,,,,,0,,754849,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,69,Ceramic products,,,,,,,0,,2090001,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,69,Ceramic products,,,,,,,0,,259176,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,69,Ceramic products,,,,,,,0,,2140447,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,69,Ceramic products,,,,,,,0,,6251,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,16895640,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,69,Ceramic products,,,,,,,0,,242662,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,69,Ceramic products,,,,,,,0,,11186,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,69,Ceramic products,,,,,,,0,,7516209,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,70,Glass and glassware,,,,,,,0,,5431623,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,70,Glass and glassware,,,,,,,0,,11371,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,70,Glass and glassware,,,,,,,0,,59222,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,275,State of Palestine,,,,,,,,,70,Glass and glassware,,,,,,,0,,98875,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,6768045,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,70,Glass and glassware,,,,,,,0,,47421,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,838,Free Zones,,,,,,,,,70,Glass and glassware,,,,,,,0,,41951,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,70,Glass and glassware,,,,,,,0,,766848,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,70,Glass and glassware,,,,,,,0,,81543,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,70,Glass and glassware,,,,,,,0,,39803,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,70,Glass and glassware,,,,,,,0,,57465,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,70,Glass and glassware,,,,,,,0,,38221,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,70,Glass and glassware,,,,,,,0,,93700,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,86263,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1331804,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,49998,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1195542,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,72,Iron and steel,,,,,,,0,,3376680,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,72,Iron and steel,,,,,,,0,,102229,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,72,Iron and steel,,,,,,,0,,58946,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,29719892,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,72,Iron and steel,,,,,,,0,,46935,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,72,Iron and steel,,,,,,,0,,45239,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,72,Iron and steel,,,,,,,0,,11191,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,72,Iron and steel,,,,,,,0,,562726,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,72,Iron and steel,,,,,,,0,,25363425,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,72,Iron and steel,,,,,,,0,,152521,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,73,Iron or steel articles,,,,,,,0,,108738,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,702,Singapore,,,,,,,,,73,Iron or steel articles,,,,,,,0,,382468,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,73,Iron or steel articles,,,,,,,0,,17075026,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1348538,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,73,Iron or steel articles,,,,,,,0,,31879,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1254604,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,73,Iron or steel articles,,,,,,,0,,138101,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,73,Iron or steel articles,,,,,,,0,,48996,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,73,Iron or steel articles,,,,,,,0,,854468,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,73,Iron or steel articles,,,,,,,0,,879070,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,39442527,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,73,Iron or steel articles,,,,,,,0,,13476,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,73,Iron or steel articles,,,,,,,0,,34976,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,73,Iron or steel articles,,,,,,,0,,118973,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6943,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,16,American Samoa,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2724,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,73,Iron or steel articles,,,,,,,0,,17143548,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,152933,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,156621,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,343080,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6792,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,26733,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1092843,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,18387,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,40040,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,59498,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1339798,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,16411,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,3484877,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,61212,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,344,"China, Hong Kong SAR",,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,85530,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,16506,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,50490,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,38588,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,665575,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,37657,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,37657,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,31286,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,31286,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,118780,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,97454,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,21326,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,59398,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,15154,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,187817,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,7054,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8193,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2306584,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,82733,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,19723,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2686656,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2667744,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,24662,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,180050,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,42196,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,20,Andorra,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,14628,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2106329,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8193,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,113575,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,37781,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,27977,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,34668,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,61274,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,16411,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,772,Tokelau,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,43888,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1675104,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,119200,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,584151,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,275575,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,142879,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,143018,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,897237,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1779,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,28309,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,752,Sweden,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,46564,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,710,South Africa,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,35139,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,65468,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,286610,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,33639,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1015687,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,20290765,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,124,Canada,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1071,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,11220,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,231,Ethiopia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,14345,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,48,Bahrain,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,125757,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,87208,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,348,Hungary,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,103896,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,323709,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,163187,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,114869,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1181511,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,620346,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,404,Kenya,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,94230,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,145187,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,15154,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,214898,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,28901600,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,78681696,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,422,Lebanon,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2264978,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,52170,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,408,Dem. People's Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,21561,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,23404,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,26238,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,284554,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,209499,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,54121,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,187379,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,24825,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,70105731,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,136935,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,32633,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,809756,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,724,Spain,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,223796,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,120874,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,579,Norway,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,770396,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,642,Romania,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7147,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,616,Poland,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,33269,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,636727,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,52974,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,512,Oman,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,30935,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,168045,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,115179,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1494823,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,793747,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1271622,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,173293,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1518735,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,973625,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,81754,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,208698,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,484,Mexico,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,13311,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,704,Viet Nam,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7577,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,702,Singapore,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,67145,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,643,Russian Federation,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,344346,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,729,Sudan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,49834,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,752,Sweden,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,10807985,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1689534,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,764,Thailand,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9252827,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21690551,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,17306068,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,76,Brazil,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,15737,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,733494,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,36,Australia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,13041,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,251,France,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,53512,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,124,Canada,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,540231,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,360,Indonesia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,582488,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,364,Iran,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,19817,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,433242,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6834990,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,54788,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9940200,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,221142,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,408,Dem. People's Rep. of Korea,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,15448,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,490,"Other Asia, nes",,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,160278,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,40217,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,85115531,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,363454,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,363454,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,149726,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1302599,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,244070,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,760,Syria,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,220902,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,9946,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,533,Aruba,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,24335,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,458174,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,279179,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,586,Pakistan,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,51453,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2070115,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,381,Italy,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,8234,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,251012,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,276,Germany,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,102721,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,70,Bosnia Herzegovina,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,34086,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,5206553,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1321074,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1321074,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,15239,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,15239,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5906238,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3902161,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,16,American Samoa,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3847,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,410,Rep. of Korea,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,6343,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3703,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5246,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,86599,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1497992,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,702,Singapore,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12443,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,103959,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,243810,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,9727,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,826,United Kingdom,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,8024,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,22385,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,67038,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,112457,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6078863,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6258359,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,210075,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,284290,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,300,Greece,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,186397,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,414,Kuwait,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,30884,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,46877,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3236871,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5337581,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,17279847,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,10558313,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,458,Malaysia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,167971,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,400,Jordan,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,90014,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,392,Japan,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,14906,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,203,Czech Rep.,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,22089,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,699,India,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,175967,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,22971,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,682,Saudi Arabia,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3292222,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,792,Turkey,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1045872,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,818,Egypt,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,151991,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,784,United Arab Emirates,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,16302,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,842,United States of America,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,21627,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1699600,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,8930,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,156,China,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,45868,,,0
+HS,2016,201606,June 2016,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,54799,,,0
